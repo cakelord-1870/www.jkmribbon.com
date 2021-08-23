@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/beaded-cuffs-wristlets.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:51:22-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77456277525</id>
+    <published>2020-10-07T12:51:22-04:00</published>
+    <updated>2020-10-07T12:51:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-rhinestone-wristlets"/>
+    <title>JKM Rhinestone Wristlets</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbd214-12-harvest.gif?v=1512857153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            65.09 - 650.94
+            <a href="https://www.jkmribbon.com/products/jkm-rhinestone-wristlets">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rhinestone Wristlets are available in assorted colors in small and bulk quantities.<br>(Product Characteristic: Floral Supply) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Cuffs &amp; Wristlets</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABD214-39-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 12 Pcs/Box / Blue</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABD214-20-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 12 Pcs/Box / Clear</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABD214-01-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABD214-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 12 Pcs/Box / Green</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABD214-36-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABD214-05-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABD214-12-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 120 Pcs/Box / Black</title>
+      <s:price currency="USD">650.94</s:price>
+      <s:sku>HABD214-39-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 120 Pcs/Box / Blue</title>
+      <s:price currency="USD">650.94</s:price>
+      <s:sku>HABD214-20-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">650.94</s:price>
+      <s:sku>HABD214-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 120 Pcs/Box / Green</title>
+      <s:price currency="USD">650.94</s:price>
+      <s:sku>HABD214-36-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456277525</id>
+      <title>One Size / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">650.94</s:price>
+      <s:sku>HABD214-12-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77477019669</id>
+    <published>2020-10-07T12:43:08-04:00</published>
+    <updated>2020-10-07T12:43:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-diamond-wraps-4-1-2-width"/>
+    <title>JKM Diamond Wraps - 4 1/2&quot; Width</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbd215-12-harvest.gif?v=1512859099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            54.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diamond Wraps - 4 1/2" Width on a 10 yard spool are available in several colors.<br>(Product Characteristic: Floral Supply) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Cuffs &amp; Wristlets</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77477019669</id>
+      <title>4 1/2&quot; / 10 Yards/Spool / Black</title>
+      <s:price currency="USD">54.25</s:price>
+      <s:sku>HABD215-39</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77477019669</id>
+      <title>4 1/2&quot; / 10 Yards/Spool / Green</title>
+      <s:price currency="USD">54.25</s:price>
+      <s:sku>HABD215-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77477019669</id>
+      <title>4 1/2&quot; / 10 Yards/Spool / Hot Pink</title>
+      <s:price currency="USD">54.25</s:price>
+      <s:sku>HABD215-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77477019669</id>
+      <title>4 1/2&quot; / 10 Yards/Spool / Purple</title>
+      <s:price currency="USD">54.25</s:price>
+      <s:sku>HABD215-26</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77477019669</id>
+      <title>4 1/2&quot; / 10 Yards/Spool / Red</title>
+      <s:price currency="USD">54.25</s:price>
+      <s:sku>HABD215-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77477019669</id>
+      <title>4 1/2&quot; / 10 Yards/Spool / Silver</title>
+      <s:price currency="USD">54.25</s:price>
+      <s:sku>HABD215-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77477019669</id>
+      <title>4 1/2&quot; / 10 Yards/Spool / Turquoise</title>
+      <s:price currency="USD">54.25</s:price>
+      <s:sku>HABD215-85</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

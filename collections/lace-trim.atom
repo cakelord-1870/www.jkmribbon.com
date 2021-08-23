@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/lace-trim.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:17-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414334485</id>
+    <published>2020-10-07T13:17:17-04:00</published>
+    <updated>2020-10-07T13:17:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-scalloped-lace-1-3-4"/>
+    <title>Wrights Scalloped Lace - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866310810-wrights-2011.jpg?v=1512853440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            11.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scalloped Lace is available in a 1 3/4" width on a 12 yard reel in several colors.<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414334485</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>MR1866310065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414334485</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 151 Coffee</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>MR1866310151</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414334485</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 711 Primrose</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>MR1866310711</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414334485</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>MR1866310810</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414367253</id>
+    <published>2020-10-07T13:17:16-04:00</published>
+    <updated>2020-10-07T13:17:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bridal-lace-3"/>
+    <title>Wrights Bridal Lace - 3&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866312030-wrights-2011.jpg?v=1512853444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bridal Lace is available in a 3" width on a 10 yard reel.<br>(Product Characteristic: Lace) / (Fabric Content: 60% Polyester 30% PVC 10% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414367253</id>
+      <title>3&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>MR1866312030</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414367253</id>
+      <title>3&quot; / 10 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>MR1866312810</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424033813</id>
+    <published>2020-10-07T13:13:38-04:00</published>
+    <updated>2020-10-07T13:13:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-stretch-lace-ruffle-1-3-8"/>
+    <title>Wrights Stretch Lace Ruffle - 1 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1865419065-wrights.jpg?v=1512854168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            35.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stretch Lace Ruffle is available in 1 3/8" Width 8 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 88% Polyester 12% Rubber)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424033813</id>
+      <title>1 3/8&quot; / 8 Yards/Reel / 030 White</title>
+      <s:price currency="USD">35.54</s:price>
+      <s:sku>MR1865419030</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424033813</id>
+      <title>1 3/8&quot; / 8 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">35.54</s:price>
+      <s:sku>MR1865419031</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424033813</id>
+      <title>1 3/8&quot; / 8 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">35.54</s:price>
+      <s:sku>MR1865419065</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424099349</id>
+    <published>2020-10-07T13:13:35-04:00</published>
+    <updated>2020-10-07T13:13:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-lace-combo-5-1-2"/>
+    <title>Wrights Lace Combo - 5 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862522029-wrights.jpg?v=1512854180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            21.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lace Combo is available in 5 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424099349</id>
+      <title>5 1/2&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">21.70</s:price>
+      <s:sku>MR1862522029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424099349</id>
+      <title>5 1/2&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">21.70</s:price>
+      <s:sku>MR1862521030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424132117</id>
+    <published>2020-10-07T13:13:33-04:00</published>
+    <updated>2020-10-07T13:13:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-double-scallop-venice-2-1-4"/>
+    <title>Wrights Double Scallop Venice - 2 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861155030-wrights.jpg?v=1512854184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            33.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double Scallop Venice is available in 2 1/4" Width 10 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424132117</id>
+      <title>2 1/4&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>MR1861155030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424132117</id>
+      <title>2 1/4&quot; / 10 Yards/Reel / 095 Candlelight</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>MR1861156095</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424230421</id>
+    <published>2020-10-07T13:13:32-04:00</published>
+    <updated>2020-10-07T13:13:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-lace-rhinestones-1-1-2"/>
+    <title>Wrights Lace/Rhinestones - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862110065-wrights.jpg?v=1512854192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            30.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lace/Rhinestones is available in 1 1/2" Width 10 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 80% Nylon 20% Plastic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424230421</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">30.91</s:price>
+      <s:sku>MR1862111031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424230421</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">30.91</s:price>
+      <s:sku>MR1862112810</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424263189</id>
+    <published>2020-10-07T13:13:31-04:00</published>
+    <updated>2020-10-07T13:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-cluny-fancy-7-8"/>
+    <title>Wrights Cluny Fancy - 7/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862443029-wrights.jpg?v=1512854196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cluny Fancy is available in 7/8" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424263189</id>
+      <title>7/8&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">9.27</s:price>
+      <s:sku>MR1862443029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424263189</id>
+      <title>7/8&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">9.27</s:price>
+      <s:sku>MR1862442030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424328725</id>
+    <published>2020-10-07T13:13:29-04:00</published>
+    <updated>2020-10-07T13:13:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-eyelet-flat-2-1-2"/>
+    <title>Wrights Eyelet Flat - 2 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x18662022141-wrights.jpg?v=1512854199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            19.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyelet Flat is available in 2 1/2" Width 15 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424328725</id>
+      <title>2 1/2&quot; / 15 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">19.06</s:price>
+      <s:sku>MR1866202031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424328725</id>
+      <title>2 1/2&quot; / 15 Yards/Reel / 2141 Potting Soil</title>
+      <s:price currency="USD">19.06</s:price>
+      <s:sku>MR18662022141</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424361493</id>
+    <published>2020-10-07T13:13:28-04:00</published>
+    <updated>2020-10-07T13:13:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fancy-eyelet-1-1-4"/>
+    <title>Wrights Fancy Eyelet - 1 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862461030-wrights.jpg?v=1512854203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fancy Eyelet is available in 1 1/4" Width 10 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 60% Polyester 40% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424361493</id>
+      <title>1 1/4&quot; / 10 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862462029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424361493</id>
+      <title>1 1/4&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862461030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424427029</id>
+    <published>2020-10-07T13:13:27-04:00</published>
+    <updated>2020-10-07T13:13:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-eyelet-train-2-3-4-4-3-4"/>
+    <title>Wrights Eyelet Train - 2 3/4&quot; &amp; 4 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862464030-wrights.jpg?v=1512854206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            16.48 - 18.82
+            <a href="https://www.jkmribbon.com/products/wrights-eyelet-train-2-3-4-4-3-4">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyelet Train is available in 2 3/4" or 4 3/4" Width 10 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 60% Polyester 40% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424427029</id>
+      <title>4 3/4&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">18.82</s:price>
+      <s:sku>MR1862463030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424427029</id>
+      <title>2 3/4&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1862464030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424459797</id>
+    <published>2020-10-07T13:13:25-04:00</published>
+    <updated>2020-10-07T13:13:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-vertical-lace-1-1-4-id-mr1862482"/>
+    <title>Wrights Vertical Lace - 1 1/4&quot; (ID: MR1862482)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862482030-wrights.jpg?v=1512854210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            6.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vertical Lace is available in 1 1/4" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424459797</id>
+      <title>1 1/4&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1862483029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424459797</id>
+      <title>1 1/4&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1862482030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424525333</id>
+    <published>2020-10-07T13:13:24-04:00</published>
+    <updated>2020-10-07T13:13:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-vertical-lace-1-1-4-id-mr1862503"/>
+    <title>Wrights Vertical Lace - 1 1/4&quot; (ID: MR1862503)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862503030-wrights.jpg?v=1512854214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vertical Lace is available in 1 1/4" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424525333</id>
+      <title>1 1/4&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">8.86</s:price>
+      <s:sku>MR1862504029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424525333</id>
+      <title>1 1/4&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">8.86</s:price>
+      <s:sku>MR1862503030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424558101</id>
+    <published>2020-10-07T13:13:23-04:00</published>
+    <updated>2020-10-07T13:13:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-classic-lace-1-3-4"/>
+    <title>Wrights Classic Lace - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862525064-wrights.jpg?v=1512854218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic Lace is available in 1 3/4" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424558101</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 064 Purple</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR1862525064</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424558101</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR1862656065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424590869</id>
+    <published>2020-10-07T13:13:21-04:00</published>
+    <updated>2020-10-07T13:13:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-spider-cluny-1-7-8"/>
+    <title>Wrights Spider Cluny - 1 7/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862438030-wrights.jpg?v=1512854222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spider Cluny is available in 1 7/8" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424590869</id>
+      <title>1 7/8&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">12.16</s:price>
+      <s:sku>MR1862439029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424590869</id>
+      <title>1 7/8&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.16</s:price>
+      <s:sku>MR1862438030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424623637</id>
+    <published>2020-10-07T13:13:20-04:00</published>
+    <updated>2020-10-07T13:13:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-cluny-ribbon-1-1-8"/>
+    <title>Wrights Cluny Ribbon - 1 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862441029-wrights.jpg?v=1512854225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cluny Ribbon is available in 1 1/8" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 60% Cotton 40% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424623637</id>
+      <title>1 1/8&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">12.16</s:price>
+      <s:sku>MR1862441029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424623637</id>
+      <title>1 1/8&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.16</s:price>
+      <s:sku>MR1862440030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424689173</id>
+    <published>2020-10-07T13:13:18-04:00</published>
+    <updated>2020-10-07T13:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-vertical-lace-2"/>
+    <title>Wrights Vertical Lace - 2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862659473-wrights.jpg?v=1512854229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vertical Lace is available in 2" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424689173</id>
+      <title>2&quot; / 12 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">12.36</s:price>
+      <s:sku>MR1862660061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424689173</id>
+      <title>2&quot; / 12 Yards/Reel / 473 Maize</title>
+      <s:price currency="USD">12.36</s:price>
+      <s:sku>MR1862659473</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424787477</id>
+    <published>2020-10-07T13:13:17-04:00</published>
+    <updated>2020-10-07T13:13:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-opaque-lace-2-3-8"/>
+    <title>Wrights Opaque Lace - 2 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862527090-wrights.jpg?v=1512854233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Opaque Lace is available in 2 3/8" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424787477</id>
+      <title>2 3/8&quot; / 12 Yards/Reel / 090 Wine</title>
+      <s:price currency="USD">13.29</s:price>
+      <s:sku>MR1862527090</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424787477</id>
+      <title>2 3/8&quot; / 12 Yards/Reel / 333 Dark Green</title>
+      <s:price currency="USD">13.29</s:price>
+      <s:sku>MR1862526333</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424820245</id>
+    <published>2020-10-07T13:13:15-04:00</published>
+    <updated>2020-10-07T13:13:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-two-tier-lace-2-id-mr1862496"/>
+    <title>Wrights Two Tier Lace - 2&quot; (ID: MR1862496)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862496030-wrights.jpg?v=1512854237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two Tier Lace is available in 2" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424820245</id>
+      <title>2&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">14.01</s:price>
+      <s:sku>MR1862497029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424820245</id>
+      <title>2&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">14.01</s:price>
+      <s:sku>MR1862496030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424885781</id>
+    <published>2020-10-07T13:13:14-04:00</published>
+    <updated>2020-10-07T13:13:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-venice-1-1-8"/>
+    <title>Wrights Venice - 1 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1864089572-wrights.jpg?v=1512854241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Venice is available in 1 1/8" Width 8 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424885781</id>
+      <title>1 1/8&quot; / 8 Yards/Reel / 572 Plum</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1864089572</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424885781</id>
+      <title>1 1/8&quot; / 8 Yards/Reel / 713 Cinnamon</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1864097713</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424951317</id>
+    <published>2020-10-07T13:13:12-04:00</published>
+    <updated>2020-10-07T13:13:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-flat-fancy-lace-7"/>
+    <title>Wrights Flat Fancy Lace - 7&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862487029-wrights.jpg?v=1512854245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            16.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flat Fancy Lace is available in 7" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424951317</id>
+      <title>7&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1862487029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424951317</id>
+      <title>7&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1862486030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424984085</id>
+    <published>2020-10-07T13:13:11-04:00</published>
+    <updated>2020-10-07T13:13:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-large-fancy-cluny-3-1-2"/>
+    <title>Wrights Large Fancy Cluny - 3 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868819029-wrights.jpg?v=1512854249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            21.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Fancy Cluny is available in 3 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424984085</id>
+      <title>3 1/2&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">21.53</s:price>
+      <s:sku>MR1868819029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424984085</id>
+      <title>3 1/2&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">21.53</s:price>
+      <s:sku>MR1868819030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425016853</id>
+    <published>2020-10-07T13:13:09-04:00</published>
+    <updated>2020-10-07T13:13:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-triple-tier-ruffle-2-1-2"/>
+    <title>Wrights Triple Tier Ruffle - 2 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862662608-wrights.jpg?v=1512854253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            19.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Triple Tier Ruffle is available in 2 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425016853</id>
+      <title>2 1/2&quot; / 12 Yards/Reel / 305 Blue/White</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku>MR1862663305</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425016853</id>
+      <title>2 1/2&quot; / 12 Yards/Reel / 608 White/Pink</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku>MR1862662608</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425049621</id>
+    <published>2020-10-07T13:13:08-04:00</published>
+    <updated>2020-10-07T13:13:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ruffle-fancy-lace-3-1-2"/>
+    <title>Wrights Ruffle Fancy Lace - 3 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862502029-wrights.jpg?v=1512854257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ruffle Fancy Lace is available in 3 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Lace) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425049621</id>
+      <title>3 1/2&quot; / 12 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">14.83</s:price>
+      <s:sku>MR1862502029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425049621</id>
+      <title>3 1/2&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">14.83</s:price>
+      <s:sku>MR1862501030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77280968725</id>
+    <published>2017-12-09T12:32:38-05:00</published>
+    <updated>2017-12-09T12:32:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ivory-embroidered-beaded-sequin-motiff"/>
+    <title>Wrights Ivory Embroidered/Beaded Sequin Motiff</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1939993810-wrights.jpg?v=1512840760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            33.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ivory Embroidered/Beaded Sequin Motiff is available in 1 Pc/Pkg, 6 Pkgs/Box<br>(Product Characteristic: Lace Applique) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77280968725</id>
+      <title>As Shown / 1 Pc/Pkg; 6 Pkgs/Box / 810 Ivory</title>
+      <s:price currency="USD">33.28</s:price>
+      <s:sku>MR1939993810</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77280935957</id>
+    <published>2017-12-09T12:32:35-05:00</published>
+    <updated>2017-12-09T12:32:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-white-beaded-sequin-orange-applique-no-8"/>
+    <title>Wrights White Beaded/Sequin Orange Applique No. 8</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1939992030-wrights.jpg?v=1512840757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            33.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Beaded/Sequin Applique No. 8 is available in 1 Pc/Pkg, 6 Pkgs/Box<br>(Product Characteristic: Lace Applique) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lace Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77280935957</id>
+      <title>As Shown / 1 Pc/Pkg; 6 Pkgs/Box / 030 White</title>
+      <s:price currency="USD">33.28</s:price>
+      <s:sku>MR1939992030</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

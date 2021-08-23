@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/pearl-trim.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:13:07-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425115157</id>
+    <published>2020-10-07T13:13:07-04:00</published>
+    <updated>2020-10-07T13:13:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-half-pearls-6mm"/>
+    <title>Wrights Half Pearls - 6mm</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861097030-wrights.jpg?v=1512854261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Half Pearls is available in 6mm Width 18 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 100% Polystyrene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pearl Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425115157</id>
+      <title>6mm / 18 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>MR1861097030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425115157</id>
+      <title>6mm / 18 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>MR1861098810</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77278904341</id>
+    <published>2017-12-09T12:29:38-05:00</published>
+    <updated>2017-12-09T12:29:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fused-pearls-4mm-id-mr1863294"/>
+    <title>Wrights Fused Pearls - 4mm (ID: MR1863294)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863294070-wrights.jpg?v=1512840580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fused Pearls is available in 4mm Width 24 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 100% Polystyrene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pearl Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77278904341</id>
+      <title>4mm / 24 Yards/Reel / 189 Opal</title>
+      <s:price currency="USD">8.31</s:price>
+      <s:sku>MR1863295189</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77278871573</id>
+    <published>2017-12-09T12:29:35-05:00</published>
+    <updated>2017-12-09T12:29:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fused-pearls-4mm-id-mr1861095"/>
+    <title>Wrights Fused Pearls - 4mm (ID: MR1861095)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861095030-wrights.jpg?v=1512840577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fused Pearls is available in 4mm Width 24 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 100% Polystyrene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pearl Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77278871573</id>
+      <title>4mm / 24 Yards/Reel / 030 White</title>
+      <s:price currency="USD">8.31</s:price>
+      <s:sku>MR1861095030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77278838805</id>
+    <published>2017-12-09T12:29:32-05:00</published>
+    <updated>2017-12-09T12:29:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fused-pearls-3mm"/>
+    <title>Wrights Fused Pearls - 3mm</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863293030-wrights.jpg?v=1512840574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            5.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fused Pearls is available in 3mm Width 24 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 100% Polystyrene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pearl Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77278838805</id>
+      <title>3mm / 24 Yards/Reel / 030 White</title>
+      <s:price currency="USD">5.44</s:price>
+      <s:sku>MR1863293030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+</feed>

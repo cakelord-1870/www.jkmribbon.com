@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/decorative-sheeting.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:02:17-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77452673045</id>
+    <published>2020-10-07T13:02:17-04:00</published>
+    <updated>2020-10-07T13:02:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-organza-sheets-54-x-108"/>
+    <title>JKM Organza Sheets - 54&quot; x 108&quot;</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x105-121-harvest.gif?v=1512856641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            31.25 - 124.98
+            <a href="https://www.jkmribbon.com/products/jkm-organza-sheets-54-x-108">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organza Sheets for Table Covers, Diplays and large bows in assorted colors in small and bulk quantities.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Sheeting</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-39-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-27-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-40-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">124.98</s:price>
+      <s:sku>HA105-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Black</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-39-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Gold</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-27-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Ivory</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Lavender</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-11-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Pink</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-05-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Red</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-12-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Silver</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-40-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452673045</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / White</title>
+      <s:price currency="USD">31.25</s:price>
+      <s:sku>HA105-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77452705813</id>
+    <published>2020-10-07T13:02:15-04:00</published>
+    <updated>2020-10-07T13:02:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tulle-sheets-with-dots-28-x-206"/>
+    <title>JKM Tulle Sheets with Dots - 28&quot; x 206&quot;</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x121-01-harvest.gif?v=1512856653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            55.33 - 221.32
+            <a href="https://www.jkmribbon.com/products/jkm-tulle-sheets-with-dots-28-x-206">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tulle Sheets with Dots - 28" x 206" are perfect for table or chair covers, displays and many other projects in small and bulk quantities.<br>(Product Characteristic: Dots) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Sheeting</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA121-39-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / Blue</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA121-20-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA121-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA121-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA121-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA121-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / Black</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA121-39-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / Blue</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA121-20-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / Ivory</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA121-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / Pink</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA121-05-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / Red</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA121-12-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452705813</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / White</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA121-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77452738581</id>
+    <published>2020-10-07T13:02:13-04:00</published>
+    <updated>2020-10-07T13:02:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-paw-print-sheets-28-x-216"/>
+    <title>JKM Paw Print Sheets - 28&quot; x 216&quot;</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x122-79-harvest.gif?v=1512856658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            55.33 - 221.32
+            <a href="https://www.jkmribbon.com/products/jkm-paw-print-sheets-28-x-216">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paw Print Sheets - 28" x 216" are perfect for table or chair covers, displays and many other projects in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Sheeting</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452738581</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / White Sheer/Black Paw Print</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA122-79-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452738581</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / White Sheer/Black Paw Print</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA122-79-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77452771349</id>
+    <published>2020-10-07T13:02:12-04:00</published>
+    <updated>2020-10-07T13:02:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-zebra-print-sheets-28-x-216"/>
+    <title>JKM Zebra Print Sheets - 28&quot; x 216&quot;</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x122-89-harvest.gif?v=1512856662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            55.33 - 221.32
+            <a href="https://www.jkmribbon.com/products/jkm-zebra-print-sheets-28-x-216">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zebra Print Sheets - 28" x 216" are perfect for table or chair covers, displays and many other projects in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Sheeting</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452771349</id>
+      <title>28&quot; x 216&quot; / 12 Pcs/Box / White Sheer/Zebra Print</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA122-89-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452771349</id>
+      <title>28&quot; x 216&quot; / 3 Pcs/Box / White Sheer/Zebra Print</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA122-89-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77452804117</id>
+    <published>2020-10-07T13:02:10-04:00</published>
+    <updated>2020-10-07T13:02:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-jute-sheets-60-x-60"/>
+    <title>JKM Jute Sheets - 60&quot; x 60&quot;</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x116-392-harvest.gif?v=1512856670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            55.33 - 221.32
+            <a href="https://www.jkmribbon.com/products/jkm-jute-sheets-60-x-60">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jute Sheets - 60" x 60" are perfect for displays and many other projects in small and bulk quantities.<br>(Product Characteristic: Jute; Jute Like) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Sheeting</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA116-39-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 12 Pcs/Box / Moss</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA116-17-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 12 Pcs/Box / Natural</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA116-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 12 Pcs/Box / Orange</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HA116-03-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 3 Pcs/Box / Black</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA116-39-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 3 Pcs/Box / Moss</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA116-17-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 3 Pcs/Box / Natural</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA116-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452804117</id>
+      <title>60&quot; x 60&quot; / 3 Pcs/Box / Orange</title>
+      <s:price currency="USD">55.33</s:price>
+      <s:sku>HA116-03-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77452836885</id>
+    <published>2020-10-07T13:02:08-04:00</published>
+    <updated>2020-10-07T13:02:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-jute-garland-14-x-10-yards"/>
+    <title>JKM Jute Garland - 14&quot; x 10 yards</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x111-01-harvest.gif?v=1512856680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            57.74 - 230.94
+            <a href="https://www.jkmribbon.com/products/jkm-jute-garland-14-x-10-yards">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jute Garland - 14" x 10 yard rolls are perfect for displays, wrapping plants and many other projects in small and bulk quantities.<br>(Product Characteristic: Jute; Jute Like) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Sheeting</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HA111-39-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 12 Pcs/Box / Green</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HA111-49-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 12 Pcs/Box / Moss</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HA111-17-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 12 Pcs/Box / Natural</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HA111-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 12 Pcs/Box / Orange</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HA111-03-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HA111-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 3 Pcs/Box / Black</title>
+      <s:price currency="USD">57.74</s:price>
+      <s:sku>HA111-39-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 3 Pcs/Box / Green</title>
+      <s:price currency="USD">57.74</s:price>
+      <s:sku>HA111-49-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 3 Pcs/Box / Moss</title>
+      <s:price currency="USD">57.74</s:price>
+      <s:sku>HA111-17-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 3 Pcs/Box / Natural</title>
+      <s:price currency="USD">57.74</s:price>
+      <s:sku>HA111-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 3 Pcs/Box / Orange</title>
+      <s:price currency="USD">57.74</s:price>
+      <s:sku>HA111-03-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77452836885</id>
+      <title>14&quot; / 3 Pcs/Box / White</title>
+      <s:price currency="USD">57.74</s:price>
+      <s:sku>HA111-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79318614037</id>
+    <published>2020-10-07T12:38:54-04:00</published>
+    <updated>2020-10-07T12:38:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-two-toned-organza-sheets-54-x-108"/>
+    <title>JKM Two-Toned Organza Sheets - 54&quot; x 108&quot;</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x109-402-harvest.gif?v=1513024654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            39.06 - 156.23
+            <a href="https://www.jkmribbon.com/products/jkm-two-toned-organza-sheets-54-x-108">(42 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two-Toned Organza Sheets - 54" x 108" have a sewn edge and are perfect for Table Covers and Displays in small and bulk quantities.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Sheeting</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Autumn</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-33-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Brown</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-29-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-10-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Caribbean Green</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-37-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Copper</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-41-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Fuchsia</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-09-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Green/Red</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-19-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Lime Green</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-63-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Olive</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-62-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Peach</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-03-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Peacock Blue</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-34-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Periwinkle</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-20-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Purple</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-26-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Rosy Pink</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-40-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Tangerine</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-32-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 12 Pcs/Box / Yellow</title>
+      <s:price currency="USD">156.23</s:price>
+      <s:sku>HA109-16-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Autumn</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-33-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Brown</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-29-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-10-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Caribbean Green</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-37-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Copper</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-41-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Fuchsia</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-09-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Green/Red</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-19-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Ivory</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Lavender</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-11-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Lime Green</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-63-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Olive</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-62-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Peach</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-03-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Peacock Blue</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-34-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Periwinkle</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-20-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Purple</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-26-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Red</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-12-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Rosy Pink</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-05-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Silver</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-40-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Tangerine</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-32-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / White</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79318614037</id>
+      <title>54&quot; x 108&quot; / 3 Pcs/Box / Yellow</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HA109-16-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

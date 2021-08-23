@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/tiebacks-chair-ties.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:01:30-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77453819925</id>
+    <published>2020-10-07T13:01:30-04:00</published>
+    <updated>2020-10-07T13:01:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tassel-tiebback-2-1-2-tassels-with-62-cord"/>
+    <title>JKM Tassel Tiebback - 2 1/2&quot; Tassels with 62&quot; cord</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xts047-20-harvest.gif?v=1512856878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            39.06 - 390.57
+            <a href="https://www.jkmribbon.com/products/jkm-tassel-tiebback-2-1-2-tassels-with-62-cord">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tassel Tieback - 2 1/2" Tassels with 62" cord is available in assorted colors in small and bulk quantities.<br>(Product Characteristic: Tassels; Tiebacks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tiebacks &amp; Chair Ties</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HATS047-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HATS047-02-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HATS047-20-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HATS047-05-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HATS047-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HATS047-01-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">390.57</s:price>
+      <s:sku>HATS047-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">390.57</s:price>
+      <s:sku>HATS047-02-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">390.57</s:price>
+      <s:sku>HATS047-20-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">390.57</s:price>
+      <s:sku>HATS047-05-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">390.57</s:price>
+      <s:sku>HATS047-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453819925</id>
+      <title>62&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">390.57</s:price>
+      <s:sku>HATS047-01-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77453885461</id>
+    <published>2020-10-07T13:01:27-04:00</published>
+    <updated>2020-10-07T13:01:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tassel-tieback-metallic-5-tassels-with-48-cord"/>
+    <title>JKM Tassel Tieback Metallic - 5&quot; tassels with 48&quot; cord</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xTS048group-harvest.gif?v=1512856896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            22.13 - 221.32
+            <a href="https://www.jkmribbon.com/products/jkm-tassel-tieback-metallic-5-tassels-with-48-cord">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tassel Tieback - 3" Tassels with 26" cord is available in assorted colors in small and bulk quantities.<br>(Product Characteristic: Tassels; Tiebacks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tiebacks &amp; Chair Ties</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-10-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Copper</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-42-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Purple</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-26-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-12-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-23-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Sable</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-87-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Seal Brown</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-41-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 12 Pcs/Box / Xmas Green</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HATS048-19-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-10-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Copper</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-42-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Purple</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-26-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-12-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-23-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Sable</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-87-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Seal Brown</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-41-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453885461</id>
+      <title>48&quot; / 120 Pcs/Box / Xmas Green</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HATS048-19-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79320514581</id>
+    <published>2020-10-07T12:38:47-04:00</published>
+    <updated>2020-10-07T12:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tassel-tieback-3-tassels-with-26-cord"/>
+    <title>JKM Tassel Tieback - 3&quot; tassels with 26&quot; cord</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xTS046-12-harvest.gif?v=1513024728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.02 - 130.19
+            <a href="https://www.jkmribbon.com/products/jkm-tassel-tieback-3-tassels-with-26-cord">(48 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tassel Tieback - 3" Tassels with 26" cord is available in assorted colors in small and bulk quantities.<br>(Product Characteristic: Tassels; Tiebacks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tiebacks &amp; Chair Ties</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-39-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Brown</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-91-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-10-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Gray</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-70-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-09-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Hunter Green</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-19-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-02-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-11-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-20-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Light Gold</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-29-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Lime</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-97-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Mint</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-37-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Moss</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-17-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Navy</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-22-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Orange</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-33-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Peach</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-03-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-05-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Purple</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-43-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-12-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-23-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / Turquoise</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-85-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HATS046-01-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Black</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-39-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Brown</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-91-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-10-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Gray</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-70-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-09-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Hunter Green</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-19-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-02-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-11-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-20-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Light Gold</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-29-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Lime</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-97-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Mint</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-37-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Moss</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-17-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Navy</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-22-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Orange</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-33-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Peach</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-03-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-05-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Purple</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-43-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-12-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-23-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / Turquoise</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-85-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320514581</id>
+      <title>26&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">130.19</s:price>
+      <s:sku>HATS046-01-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77280051221</id>
+    <published>2017-12-09T12:31:13-05:00</published>
+    <updated>2017-12-09T12:31:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bell-tassel-tiebackn-color-set-i-27"/>
+    <title>Wrights Bell Tassel Tiebackn Color Set I - 27&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1839069917A-wrights.jpg?v=1512840676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bell Tassel Tiebackn Color Set I is available in 27" Width 1 Pc/Pkg, 3 Pkgs/Box<br>(Product Characteristic: Tassels; Tiebacks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tiebacks &amp; Chair Ties</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77280051221</id>
+      <title>27&quot; / 1 Pc/Pkg; 3 Pkgs/Box / 917A Peacock</title>
+      <s:price currency="USD">9.33</s:price>
+      <s:sku>MR1839069917A</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

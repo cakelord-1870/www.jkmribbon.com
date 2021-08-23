@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/bondex-patches-supplies.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T15:28:08-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77393035285</id>
+    <published>2017-12-09T15:28:08-05:00</published>
+    <updated>2017-12-09T15:28:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-patch-twill-iron-on-id-mr230070"/>
+    <title>Wrights Bondex Patch Twill (Iron On) (ID: MR230070)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_070-wrights.jpg?v=1512851292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            8.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bondex patch twill (iron-on) comes in 3 colors and has 5" x 5.25" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393035285</id>
+      <title>5&quot;x5 1/4&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 020B Denim</title>
+      <s:price currency="USD">8.55</s:price>
+      <s:sku>MR230070020B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393035285</id>
+      <title>5&quot;x5 1/4&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 701B Light Assortment</title>
+      <s:price currency="USD">8.55</s:price>
+      <s:sku>MR230070701B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393035285</id>
+      <title>5&quot;x5 1/4&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 702B Dark Assortment</title>
+      <s:price currency="USD">8.55</s:price>
+      <s:sku>MR230070702B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77393002517</id>
+    <published>2017-12-09T15:28:03-05:00</published>
+    <updated>2017-12-09T15:28:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-giant-patch-iron-on"/>
+    <title>Wrights Giant Patch (Iron On)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_046-wrights.jpg?v=1512851287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            10.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our giant patch (iron-on) comes in 2 colors and has 10" x 12" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393002517</id>
+      <title>10&quot;x12&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 020 Denim</title>
+      <s:price currency="USD">10.13</s:price>
+      <s:sku>MR230046020B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393002517</id>
+      <title>10&quot;x12&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 021 Worn Denim</title>
+      <s:price currency="USD">10.13</s:price>
+      <s:sku>MR230046021B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392969749</id>
+    <published>2017-12-09T15:27:58-05:00</published>
+    <updated>2017-12-09T15:27:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-nylon-repair-patch-pressure-sensitive-nylon-3x7"/>
+    <title>Wrights Nylon Repair Patch (Pressure Sensitive Nylon) - 3&quot;x7&quot;</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_045-wrights.jpg?v=1512851282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            11.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our repair patch comes in 2 colors and is available in 3" x 7" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392969749</id>
+      <title>3&quot;x7&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 901 Multi(Black/Navy/Wine/Seal Brown)</title>
+      <s:price currency="USD">11.70</s:price>
+      <s:sku>MR230045901B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392969749</id>
+      <title>3&quot;x7&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 903 Multi(White/Black/Royal/Red)</title>
+      <s:price currency="USD">11.70</s:price>
+      <s:sku>MR230045903B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392904213</id>
+    <published>2017-12-09T15:27:53-05:00</published>
+    <updated>2017-12-09T15:27:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-patchettes-iron-on"/>
+    <title>Wrights Bondex Patchettes (Iron On)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_032-wrights.jpg?v=1512851277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bondex patchettes (iron-on) come in 3 colors and have 2" x 3" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392904213</id>
+      <title>2&quot;x3&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 020B Denim</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>MR230032020B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392904213</id>
+      <title>2&quot;x3&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 701B Light Assortment</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>MR230032701B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392904213</id>
+      <title>2&quot;x3&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 702B Dark Assortment</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>MR230032702B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392871445</id>
+    <published>2017-12-09T15:27:37-05:00</published>
+    <updated>2017-12-09T15:27:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-patch-twill-iron-on-id-mr230008"/>
+    <title>Wrights Bondex Patch Twill (Iron On) (ID: MR230008)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_008-wrights.jpg?v=1512851270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            6.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bondex patch twill (iron-on) comes in 18 colors and has 5" x 7" dimensions. 2 pieces per package. 6 packages per box (12 total patches).<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 019B Faded Blue Denim</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008019B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 020B Denim</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008020B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 021B Worn Denim</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008021B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 024B Green Fatigue</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008024B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 030B White</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008030B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 031B Black</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008031B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 045B Light Grey</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008045B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 052B Light Blue</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008052B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 055B Navy</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008055B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 091B Beige</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008091B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 092B Seal Brown</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008092B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 097B Khaki</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008097B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392871445</id>
+      <title>5&quot;x7&quot; / 2 Pcs/Pkg; 6 Pkgs/Box / 590B Olive</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230008590B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392838677</id>
+    <published>2017-12-09T15:27:30-05:00</published>
+    <updated>2017-12-09T15:27:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-fabric-mending-tape-iron-on-id-mr230002"/>
+    <title>Wrights Bondex Fabric Mending Tape (Iron On) (ID: MR230002)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_002-wrights.jpg?v=1512851256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            6.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bondex fabric mending tape (iron-on) comes in 4 colors and has 6.25" x 14" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392838677</id>
+      <title>6 1/2&quot;x14&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 030B White</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230002030B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392838677</id>
+      <title>6 1/2&quot;x14&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 031B Black</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230002031B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392838677</id>
+      <title>6 1/2&quot;x14&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 055B Navy</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230002055B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392838677</id>
+      <title>6 1/2&quot;x14&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 073B Tan</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230002073B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392838677</id>
+      <title>6 1/2&quot;x14&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 901B Multi</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230002901B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392805909</id>
+    <published>2017-12-09T15:27:24-05:00</published>
+    <updated>2017-12-09T15:27:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-fabric-mending-tape-iron-on-id-mr230001"/>
+    <title>Wrights Bondex Fabric Mending Tape (Iron On) (ID: MR230001)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_001-wrights.jpg?v=1512851249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bondex fabric mending tape (iron-on) comes in 3 colors and has 1.25" x 32" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392805909</id>
+      <title>1 1/4&quot;x32&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 030B White</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>MR230001030B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392805909</id>
+      <title>1 1/4&quot;x32&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 031B Black</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>MR230001031B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392805909</id>
+      <title>1 1/4&quot;x32&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 055B Navy</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>MR230001055B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77288243221</id>
+    <published>2017-12-09T12:38:22-05:00</published>
+    <updated>2017-12-09T12:38:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-twill-rug-binding-2"/>
+    <title>Wrights Bondex Twill Rug Binding - 2&quot;</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230090028B-wrights.jpg?v=1512841105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bondex Twill Rug Binding is available in 2" Width 1 Pc/Pkg, 6 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77288243221</id>
+      <title>2&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 028B Oyster</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>MR230090028B</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77288112149</id>
+    <published>2017-12-09T12:38:19-05:00</published>
+    <updated>2017-12-09T12:38:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-patch-value-pack-non-woven"/>
+    <title>Wrights Bondex Patch Value Pack Non Woven</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230003901A-wrights.jpg?v=1512841102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            20.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bondex Patch Value Pack Non Woven is available in 22 Pcs/Pkg, 6 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77288112149</id>
+      <title>As Shown / 22 Pcs/Pkg; 6 Pkgs/Box / 901A Multi</title>
+      <s:price currency="USD">20.03</s:price>
+      <s:sku>MR230003901A</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77232472085</id>
+    <published>2017-12-09T11:38:58-05:00</published>
+    <updated>2017-12-09T11:38:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-pockets-iron-on"/>
+    <title>Wrights Bondex Pockets (Iron On)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_020-wrights.jpg?v=1512837541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            8.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bondex pockets (iron-on) come in one color and have 6.5" x 4.5" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77232472085</id>
+      <title>6 1/2&quot;x4.5&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 001B Natural</title>
+      <s:price currency="USD">8.39</s:price>
+      <s:sku>MR230020001B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77232439317</id>
+    <published>2017-12-09T11:38:54-05:00</published>
+    <updated>2017-12-09T11:38:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bondex-fabric-mending-tape-iron-on-id-mr230015"/>
+    <title>Wrights Bondex Fabric Mending Tape (Iron On) (ID: MR230015)</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x230_015-wrights.jpg?v=1512837537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            6.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our bondex fabric mending tape (iron-on) comes in one color and has 1.25" x 7" dimensions. 1 piece per package. 6 packages per box.<br>(Product Characteristic: Sewing; Quilting Supplies) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bondex Patches &amp; Supplies</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77232439317</id>
+      <title>1 1/4&quot;x7&quot; / 1 Pc/Pkg; 6 Pkgs/Box / 001B Multi</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku>MR230015001B</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

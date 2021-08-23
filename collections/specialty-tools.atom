@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/specialty-tools.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T12:11:36-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77263274005</id>
+    <published>2017-12-09T12:11:36-05:00</published>
+    <updated>2017-12-09T12:11:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-steinel-heat-gun-hb-1750"/>
+    <title>JKM Steinel® Heat Gun HB 1750</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xheatgun-jkm.jpg?v=1512839499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            320.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Steinel® Heat Gun HB 1750 brings a new meaning to versatility with its easily interchangeable color coded variable temperature keys. Each key is designed to give specific temperature outputs from 200° F to 1200° F. Use for a variety of applications including shrink wrapping, desoldering, paint drying, paint stripping, welding plastics, softening adhesives, and thawing frozen pipes. Features of this heat gun include: Easily interchangeable color coded variable temperature keys; Fully adjustable, quick lock stand for hands-free operation and stores temperature keys for convenience; Powerful turbine blower with air delivery rate up to 23 CFM; Gun cylinder will not get hot while in operation; Lightweight and quiet, with a soft ergonomic grip; Plug-in heating element takes only seconds to change; Long Life Heating Element; Convenient slide switch (Off/ Cool/ Hot) and baffle to adjust air and temperature within key ranges; Switch for rapid cool down and a 1 Year Manufacturer's Warranty.<br>(Product Characteristic: Sewing or Craft Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Tools</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77263274005</id>
+      <title>As Shown / 1 Heat Gun/Box / As Shown</title>
+      <s:price currency="USD">320.74</s:price>
+      <s:sku>WBHB1750</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77263241237</id>
+    <published>2017-12-09T12:11:33-05:00</published>
+    <updated>2017-12-09T12:11:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-outside-caliper"/>
+    <title>JKM Outside Caliper</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xoutsidecaliper-jkm.jpg?v=1512839496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            27.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Outside Caliper made of fully polished steel. JKM supplies tools by C.S. Osborne used for working with leathers, rubber, paper, plastics, and other soft materials.<br>(Product Characteristic: Sewing or Craft Tools) / (Fabric Content: 100% Steel)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Tools</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77263241237</id>
+      <title>28 1/4&quot; Max. Opening / 1 Pc/Box / 10 As Shown</title>
+      <s:price currency="USD">27.81</s:price>
+      <s:sku>WB112-10</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+</feed>

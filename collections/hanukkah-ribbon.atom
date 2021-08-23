@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/hanukkah-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:15:47-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4378571374679</id>
+    <published>2020-10-07T12:15:47-04:00</published>
+    <updated>2020-10-07T12:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-royal-glitter-stripes-lame-ribbon-wire-edge"/>
+    <title>JKM Royal Glitter Stripes Lame Ribbon Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xroyal-glitter-stripes-lame-wired.png?v=1576451140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            16.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make your holidays sparkle with this glitter striped ribbon! Perfect for adding bling to seasonal decor. Use it on wreaths, garland, gift baskets and more! The wire edge will help your bows hold their shape all season long.  Available in 4" width on 10 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 50% Polyester, 50% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Ribbon</s:tag>
+    <s:tag>Hanukkah Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4378571374679</id>
+      <title>4&quot; / 10 Yards/Spool / Royal</title>
+      <s:price currency="USD">16.28</s:price>
+      <s:sku>RE93190W989-10F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4378571407447</id>
+    <published>2020-10-07T12:15:46-04:00</published>
+    <updated>2020-10-07T12:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-lame-scroll-ribbon-wire-edge"/>
+    <title>JKM Lame Scroll Ribbon Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xlame-scroll-wired-royal.png?v=1576451141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            12.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add some bling to your holiday season with this glittered scroll ribbon! Perfect embellishment for gift wrap, baskets, wreaths &amp; party decor. The wire edge helps you create beautiful bows that will hold their shape all season long. Available in 2-1/2" width on 10 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 50% Polyester, 50% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Ribbon</s:tag>
+    <s:tag>Hanukkah Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4378571407447</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Royal</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>RE93040W989-40F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+</feed>

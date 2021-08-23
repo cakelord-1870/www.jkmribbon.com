@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/faux-pearls.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T12:09:10-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261570069</id>
+    <published>2017-12-09T12:09:10-05:00</published>
+    <updated>2017-12-09T12:09:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fused-pearls-6mm"/>
+    <title>Wrights Fused Pearls - 6mm</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861096-wrights.jpg?v=1512839352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            12.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our fused pearls come in one beautiful color and are available in 6MM width on 18 yard oval reels.<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 100% Polystyrene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faux Pearls</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261570069</id>
+      <title>6mm / 18 Yards/Oval Reel / 030 White</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>MR1861096030</s:sku>
+      <s:grams>513</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/organdy-circles.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:01:46-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77453459477</id>
+    <published>2020-10-07T13:01:46-04:00</published>
+    <updated>2020-10-07T13:01:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-organdy-circle-with-teddy-bear-trim-9-12-diameter"/>
+    <title>JKM Organdy Circle with Teddy Bear Trim - 9 /12&quot; Diameter</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x102-blue-harvest.gif?v=1512856784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            29.29 - 117.17
+            <a href="https://www.jkmribbon.com/products/jkm-organdy-circle-with-teddy-bear-trim-9-12-diameter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organdy Circle with Teddy Bear Trim - 9 1/2" Diameter is perfect for gift wrapping available in small and bulk quantities.<br>(Product Characteristic: Baby; Children) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Organdy Circles</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453459477</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Blue</title>
+      <s:price currency="USD">117.17</s:price>
+      <s:sku>HA102-50-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453459477</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Pink</title>
+      <s:price currency="USD">117.17</s:price>
+      <s:sku>HA102-55-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453459477</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Blue</title>
+      <s:price currency="USD">29.29</s:price>
+      <s:sku>HA102-50-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453459477</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Pink</title>
+      <s:price currency="USD">29.29</s:price>
+      <s:sku>HA102-55-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77453525013</id>
+    <published>2020-10-07T13:01:43-04:00</published>
+    <updated>2020-10-07T13:01:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-organdy-circle-9-1-2-diameter"/>
+    <title>JKM Organdy Circle - 9 1/2&quot; Diameter</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x104-01new-harvest.gif?v=1512856806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            19.53 - 78.11
+            <a href="https://www.jkmribbon.com/products/jkm-organdy-circle-9-1-2-diameter">(26 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organdy Circle - 9 1/2" Diameter is perfect for gift wrapping available in small and bulk quantities.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Organdy Circles</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-02-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory/Gold Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-52-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory/Silver Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-42-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Lavender</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-11-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Light Blue</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-20-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Pink</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-05-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-01-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Fuchsia Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-59-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Gold Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-51-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Lavender Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-57-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Light Blue Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-50-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Pink Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-55-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Silver Edge</title>
+      <s:price currency="USD">78.11</s:price>
+      <s:sku>HA104-44-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory/Gold Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-52-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory/Silver Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-42-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Lavender</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-11-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Light Blue</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-20-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Pink</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-05-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Fuchsia Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-59-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Gold Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-51-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Lavender Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-57-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Light Blue Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-50-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Pink Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-55-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453525013</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Silver Edge</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA104-44-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77453623317</id>
+    <published>2020-10-07T13:01:40-04:00</published>
+    <updated>2020-10-07T13:01:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-organdy-circle-12-diameter"/>
+    <title>JKM Organdy Circle - 12&quot; Diameter</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x107-441-harvest.gif?v=1512856827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            24.41 - 97.64
+            <a href="https://www.jkmribbon.com/products/jkm-organdy-circle-12-diameter">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organdy Circle - 12" Diameter is perfect for gift wrapping available in small and bulk quantities.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Organdy Circles</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-02-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory/Gold Edge</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-52-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory/Silver Edge</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-42-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Lavender</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-11-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Light Blue</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-20-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Pink</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-05-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-01-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Gold Edge</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-51-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Lavender Edge</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-57-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Light Blue Edge</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-50-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Pink Edge</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-55-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White/Silver Edge</title>
+      <s:price currency="USD">97.64</s:price>
+      <s:sku>HA107-44-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory/Gold Edge</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-52-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory/Silver Edge</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-42-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Lavender</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-11-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Light Blue</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-20-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Pink</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-05-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Gold Edge</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-51-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Lavender Edge</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-57-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Light Blue Edge</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-50-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Pink Edge</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-55-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453623317</id>
+      <title>12&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White/Silver Edge</title>
+      <s:price currency="USD">24.41</s:price>
+      <s:sku>HA107-44-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77453688853</id>
+    <published>2020-10-07T13:01:38-04:00</published>
+    <updated>2020-10-07T13:01:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-organdy-fine-mesh-circle-9-1-2-diameter"/>
+    <title>JKM Organdy Fine Mesh Circle - 9 1/2&quot; Diameter</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x112-01new-harvest.gif?v=1512856838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            20.38 - 81.51
+            <a href="https://www.jkmribbon.com/products/jkm-organdy-fine-mesh-circle-9-1-2-diameter">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organdy Fine Mesh Circle - 9 1/2" Diameter is perfect for gift wrapping available in small and bulk quantities.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Organdy Circles</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453688853</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Light Blue</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA112-20-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453688853</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Pink</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA112-05-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453688853</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA112-01-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453688853</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Light Blue</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HA112-20-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453688853</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Pink</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HA112-05-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453688853</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HA112-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77453721621</id>
+    <published>2020-10-07T13:01:35-04:00</published>
+    <updated>2020-10-07T13:01:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-organdy-fine-mesh-pattern-circle-9-1-2-diameter"/>
+    <title>JKM Organdy Fine Mesh Pattern Circle - 9 1/2&quot; Diameter</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x114-01new-harvest.gif?v=1512856851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            19.53 - 81.51
+            <a href="https://www.jkmribbon.com/products/jkm-organdy-fine-mesh-pattern-circle-9-1-2-diameter">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organdy Fine Mesh Pattern Circle - 9 1/2" Diameter is perfect for gift wrapping available in small and bulk quantities.<br>(Product Characteristic: Special Designs) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Organdy Circles</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory Netting with Dots</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA114-02-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / Ivory Netting with Hearts</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA114-62-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White Netting with Dots</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA114-01-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White Netting with Hearts</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA114-61-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White with Felt Blue Dots</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA114-20-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White with Felt Pink Dots</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA114-05-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 12 Pkgs/Box / White with Felt Yellow Dots</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HA114-16-12PCS</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory Netting with Dots</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA114-02-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / Ivory Netting with Hearts</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA114-62-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White Netting with Dots</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA114-01-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White Netting with Hearts</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA114-61-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White with Felt Blue Dots</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA114-20-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White with Felt Pink Dots</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA114-05-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77453721621</id>
+      <title>9 1/2&quot; Diameter / 25 Pcs/Pkg; 3 Pkgs/Box / White with Felt Yellow Dots</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HA114-16-3PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

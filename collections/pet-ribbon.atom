@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/pet-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:48:54-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77469384725</id>
+    <published>2020-10-07T12:48:54-04:00</published>
+    <updated>2020-10-07T12:48:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-paw-print-sheer-ribbon"/>
+    <title>JKM Paw Print Sheer Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x572-39-harvest.gif?v=1512858597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.38 - 10.85
+            <a href="https://www.jkmribbon.com/products/jkm-paw-print-sheer-ribbon">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paw Print Sheer Ribbon is available in 3/8", 5/8" and 1 1/2" Ribbon on a 25 yard spool in several colors.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>3/8&quot; / 25 Yards/Spool / Black/White Paw Print</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA572-39</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>3/8&quot; / 25 Yards/Spool / Chocolate/Toffee Paw Print</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA572-91</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>3/8&quot; / 25 Yards/Spool / Toffee/Chocolate Paw Print</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA572-88</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Black Paw Print</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA572-79</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>5/8&quot; / 25 Yards/Spool / Black/White Paw Print</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA573-39</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>5/8&quot; / 25 Yards/Spool / Chocolate/Toffee Paw Print</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA573-91</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>5/8&quot; / 25 Yards/Spool / Toffee/Chocolate Paw Print</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA573-88</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>5/8&quot; / 25 Yards/Spool / White/Black Paw Print</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA573-79</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Black/White Paw Print</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA574-39</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Chocolate/Toffee Paw Print</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA574-91</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Toffee/Chocolate Paw Print</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA574-88</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469384725</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White/Black Paw Print</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA574-79</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

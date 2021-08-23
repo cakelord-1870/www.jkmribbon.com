@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/leather-pleather-suede.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:14-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414400021</id>
+    <published>2020-10-07T13:17:14-04:00</published>
+    <updated>2020-10-07T13:17:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-faux-snakeskin-1-1-2"/>
+    <title>Wrights Faux Snakeskin - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866327079-wrights-2011.jpg?v=1512853448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faux Snakeskin is available in 1 1/2" width on a 10 yard reel in assorted colors and is a mix of PVC and polyester fabric.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 70% PVC 30% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414400021</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">14.86</s:price>
+      <s:sku>MR1866327031</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414400021</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">14.86</s:price>
+      <s:sku>MR1866327034</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414400021</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">14.86</s:price>
+      <s:sku>MR1866327065</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425442837</id>
+    <published>2020-10-07T13:12:53-04:00</published>
+    <updated>2020-10-07T13:12:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-leather-band-with-grommets-1-2"/>
+    <title>Wrights Leather Band with Grommets - 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861075034-wrights.jpg?v=1512854296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            25.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leather Band with Grommets is available in 1/2" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% PVC 30% Polyester 10% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425442837</id>
+      <title>1/2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">25.96</s:price>
+      <s:sku>MR1861075031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425442837</id>
+      <title>1/2&quot; / 10 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">25.96</s:price>
+      <s:sku>MR1861075065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425475605</id>
+    <published>2020-10-07T13:12:52-04:00</published>
+    <updated>2020-10-07T13:12:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-pleather-belting-1-1-2"/>
+    <title>Wrights Metallic Pleather Belting - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862054046-wrights.jpg?v=1512854300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            50.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Pleather Belting is available in 1 1/2" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 90% PVC 10% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425475605</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">50.48</s:price>
+      <s:sku>MR1862054046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425475605</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">50.48</s:price>
+      <s:sku>MR1862055070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425508373</id>
+    <published>2020-10-07T13:12:51-04:00</published>
+    <updated>2020-10-07T13:12:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-braid-with-faux-leather-5-8"/>
+    <title>Wrights Braid with Faux Leather - 5/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863229092-wrights.jpg?v=1512854305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Braid with Faux Leather is available in 5/8" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 40% PVC 30% Polyester 20% Cotton 10% Rayon )</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425508373</id>
+      <title>5/8&quot; / 8 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">13.52</s:price>
+      <s:sku>MR1863228031</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425508373</id>
+      <title>5/8&quot; / 8 Yards/Reel / 092 Seal Brown</title>
+      <s:price currency="USD">13.52</s:price>
+      <s:sku>MR1863229092</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425573909</id>
+    <published>2020-10-07T13:12:49-04:00</published>
+    <updated>2020-10-07T13:12:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-faux-leather-1-1-2"/>
+    <title>Wrights Faux Leather - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863234031-wrights.jpg?v=1512854309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            50.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faux Leather is available in 1 1/2" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 90% PVC 10% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425573909</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">50.48</s:price>
+      <s:sku>MR1863234031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425573909</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 092 Seal Brown</title>
+      <s:price currency="USD">50.48</s:price>
+      <s:sku>MR1863234092</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425606677</id>
+    <published>2020-10-07T13:12:48-04:00</published>
+    <updated>2020-10-07T13:12:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-suede-fringe-2"/>
+    <title>Wrights Suede Fringe - 2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868799073-wrights.jpg?v=1512854314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Suede Fringe is available in 2" Width 9 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425606677</id>
+      <title>2&quot; / 9 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">14.83</s:price>
+      <s:sku>MR1868803031</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425606677</id>
+      <title>2&quot; / 9 Yards/Reel / 073 Tan</title>
+      <s:price currency="USD">14.83</s:price>
+      <s:sku>MR1868799073</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425606677</id>
+      <title>2&quot; / 9 Yards/Reel / 765 Mocha</title>
+      <s:price currency="USD">14.83</s:price>
+      <s:sku>MR1868804765</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425639445</id>
+    <published>2020-10-07T13:12:46-04:00</published>
+    <updated>2020-10-07T13:12:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-suede-fringe-4"/>
+    <title>Wrights Suede Fringe - 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862215073-wrights.jpg?v=1512854318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            28.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Suede Fringe is available in 4" Width 10 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425639445</id>
+      <title>4&quot; / 10 Yards/Reel / 073 Tan</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>MR1862215073</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425639445</id>
+      <title>4&quot; / 10 Yards/Reel / 092 Seal Brown</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>MR1862216092</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279232021</id>
+    <published>2017-12-09T12:30:03-05:00</published>
+    <updated>2017-12-09T12:30:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-suede-fringe-1"/>
+    <title>Wrights Suede Fringe - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868798073-wrights.jpg?v=1512840605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Suede Fringe is available in 1" Width 9 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279232021</id>
+      <title>1&quot; / 9 Yards/Reel / 073 Tan</title>
+      <s:price currency="USD">13.19</s:price>
+      <s:sku>MR1868798073</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279199253</id>
+    <published>2017-12-09T12:30:00-05:00</published>
+    <updated>2017-12-09T12:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-faux-leather-band-1-2"/>
+    <title>Wrights Faux Leather Band - 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863233073-wrights.jpg?v=1512840602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            19.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faux Leather Band is available in 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 70% Polyurethane 30% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279199253</id>
+      <title>1/2&quot; / 12 Yards/Reel / 073 Tan</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku>MR1863233073</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279133717</id>
+    <published>2017-12-09T12:29:57-05:00</published>
+    <updated>2017-12-09T12:29:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pleather-band-9-16"/>
+    <title>Wrights Pleather Band - 9/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861062031-wrights.jpg?v=1512840599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            19.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pleather Band is available in 9/16" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 70% Polyurethane 30% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279133717</id>
+      <title>9/16&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku>MR1861062031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77266911253</id>
+    <published>2017-12-09T12:17:13-05:00</published>
+    <updated>2017-12-09T12:17:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fine-gold-metallic-pleather-5-16"/>
+    <title>Wrights Fine Gold Metallic Pleather - 5/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862311046-wrights.jpg?v=1512839836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            22.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fine Gold Metallic Pleather is available in 5/16" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 65% Metallic 35% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77266911253</id>
+      <title>5/16&quot; / 12 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">22.25</s:price>
+      <s:sku>MR1862311046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262684181</id>
+    <published>2017-12-09T12:10:39-05:00</published>
+    <updated>2017-12-09T12:10:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pleather-square-band-1-1-2"/>
+    <title>Wrights Pleather Square Band - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866325031-wrights-2011.jpg?v=1512839441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            39.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pleather Square Band is available in 1 1/2" width on an 8 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 75% Plastic 25% PVC)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262684181</id>
+      <title>1 1/2&quot; / 8 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">39.62</s:price>
+      <s:sku>MR1866325034</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262225429</id>
+    <published>2017-12-09T12:10:08-05:00</published>
+    <updated>2017-12-09T12:10:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pleather-band-with-chain-1-1-4"/>
+    <title>Wrights Pleather Band with Chain - 1 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866315836-wrights-2011.jpg?v=1512839410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            39.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pleather Band with Chain is available in a 1 1/4" width on an 8 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 70% Polyurethane 30% Iron)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262225429</id>
+      <title>1 1/4&quot; / 8 Yards/Reel / 836 Black / Silver</title>
+      <s:price currency="USD">39.62</s:price>
+      <s:sku>MR1866315836</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262192661</id>
+    <published>2017-12-09T12:10:05-05:00</published>
+    <updated>2017-12-09T12:10:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-grommet-pleather-band-1-3-4"/>
+    <title>Wrights Grommet Pleather Band - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866321836-wrights-2011.jpg?v=1512839407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            31.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grommet Pleather Band is available in a 1 3/4" width on an 8 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% polyurethane 50% Iron)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262192661</id>
+      <title>1 3/4&quot; / 8 Yards/Reel / 836 Black / Silver</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>MR1866321836</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262159893</id>
+    <published>2017-12-09T12:10:02-05:00</published>
+    <updated>2017-12-09T12:10:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-studded-pleather-1-3-4"/>
+    <title>Wrights Studded Pleather - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866316836-wrights-2011.jpg?v=1512839404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            39.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Studded Pleather Band is available in a 1 3/4" width on an 8 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% polyurethane 50% Iron)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262159893</id>
+      <title>1 3/4&quot; / 8 Yards/Reel / 836 Black / Silver</title>
+      <s:price currency="USD">39.62</s:price>
+      <s:sku>MR1866316836</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262127125</id>
+    <published>2017-12-09T12:09:57-05:00</published>
+    <updated>2017-12-09T12:09:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pleather-grommet-band-3-4"/>
+    <title>Wrights Pleather Grommet Band - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866320836-wrights-2011.jpg?v=1512839401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            31.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pleather Grommet Band is available in a 3/4" width on an 8 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% polyurethane 50% Iron)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262127125</id>
+      <title>3/4&quot; / 8 Yards/Reel / 836 Black / Silver</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>MR1866320836</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262094357</id>
+    <published>2017-12-09T12:09:54-05:00</published>
+    <updated>2017-12-09T12:09:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pyramid-studded-pleather-band-3-4"/>
+    <title>Wrights Pyramid Studded Pleather Band - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866318836-wrights-2011.jpg?v=1512839396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            39.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pyramid Studded Pleather Band is available in a 3/4" width on an 8 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% polyurethane 50% Iron)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Leather Pleather &amp; Suede</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262094357</id>
+      <title>3/4&quot; / 8 Yards/Reel / 836 Black / Silver</title>
+      <s:price currency="USD">39.62</s:price>
+      <s:sku>MR1866318836</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+</feed>

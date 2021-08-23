@@ -1,0 +1,4325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/bows.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:30-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414039573</id>
+    <published>2020-10-07T13:17:30-04:00</published>
+    <updated>2020-10-07T13:17:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-satin-bow-with-twist-tie-5-8"/>
+    <title>JKM Satin Bow With Twist Tie - 5/8&quot;</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x5171-jkm.jpg?v=1512853342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            16.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Satin Bow With Twist Tie is a ready made fabric satin bow 2 1/2" x 1 3/4" with a 5" long twist tie for easy attachment to any project. It is made of 5/8" single face satin (finished on one side) and is available in a great selection of colors. It comes in 100 bows per box of the same color.<br>(Product Characteristic: Bows) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Premade Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 030 White</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-030032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 031 Black</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-031032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 043 Moss</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-043032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 050 Royal</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-050032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 052 Light Blue</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-052032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 055 Navy</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-055032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 058 Orange</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-058032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 065 Red</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-065032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 117 Light Pink</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-117032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 175 Shocking Pink</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-175032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 185 Citrus</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-185032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 286 Purple Haze</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-286032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 535 Green Grass</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-535032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 705 Chocolate</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-705032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 810 Ivory</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-810032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 908 Scarlet</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-908032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 928 Old Gold</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-928032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414039573</id>
+      <title>5/8&quot; / 100 Bows/Color/Box / 974 Ant Gold</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>RE5171-974032X1</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414072341</id>
+    <published>2020-10-07T13:17:27-04:00</published>
+    <updated>2020-10-07T13:17:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-satin-bow-with-twist-tie-7-8"/>
+    <title>JKM Satin Bow With Twist Tie - 7/8&quot;</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x5170-jkm.jpg?v=1512853362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            20.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Satin Bow With Twist Tie is a small ready made fabric satin bow 3 1/4" x 2" with a 5" long twist tie for easy attachment to any project. It is made of 7/8" single face satin (finished on one side) and is available in a great selection of colors. It comes in 100 bows per box of the same color.<br>(Product Characteristic: Bows) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Premade Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 030 White</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-030053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 031 Black</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-031053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 043 Moss</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-043053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 050 Royal</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-050053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 052 Light Blue</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-052053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 055 Navy</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-055053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 058 Orange</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-058053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 065 Red</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-065053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 117 Light Pink</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-117053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 175 Shocking Pink</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-175053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 185 Citrus</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-185053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 286 Purple Haze</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-286053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 535 Green Grass</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-535053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 705 Chocolate</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-705053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 810 Ivory</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-810053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 908 Scarlet</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-908053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 928 Old Gold</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-928053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414072341</id>
+      <title>7/8&quot; / 100 Bows/Color/Box / 974 Ant Gold</title>
+      <s:price currency="USD">20.15</s:price>
+      <s:sku>RE5170-974053X2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77432750101</id>
+    <published>2020-10-07T13:11:18-04:00</published>
+    <updated>2020-10-07T13:11:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-pull-bow-ribbon-3-8"/>
+    <title>JKM Sheer Pull Bow Ribbon - 3/8&quot;</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x2532-jkm.jpg?v=1512854703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Pull Bow is a Gold or Silver Edge Sheer Ribbon with a Satin Stripe down the middle and with a string to make a Pull Bow to any length you need. It is available in 3/8" Width on 25 Yards/Spool. It is perfect for corsage bows.<br>(Product Characteristic: Metallic) / (Fabric Content: 92% Nylon 8% Metallic Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 030 White</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-030-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-031-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-043-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 044 Green</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-044-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 050 Royal</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-050-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 052 Light Blue</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-052-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-055-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-061-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 062 Peach</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-062-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-065-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 070 Silver</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-070-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 091 Beige</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-091-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 099 Mauve</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-099-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77455917077</id>
+    <published>2020-10-07T12:51:25-04:00</published>
+    <updated>2020-10-07T12:51:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-raffia"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Raffia</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x241-33-harvest.gif?v=1512857132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            13.02 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-raffia">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Raffia is a 4" Bow available in assorted colors.<br>(Product Characteristic: Wraphia) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-17-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Natural with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-17-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Natural with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77456015381</id>
+    <published>2020-10-07T12:51:24-04:00</published>
+    <updated>2020-10-07T12:51:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-bowtie"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Satin Bowtie</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x245-10-harvest.gif?v=1512857141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            16.27 - 65.09
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-bowtie">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Satin Bowtie is a 4 3/4" Bow using 1 1/2" Ribbon available in assorted colors.<br>(Product Characteristic: Satin Ribbon - Soft) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457326101</id>
+    <published>2020-10-07T12:51:18-04:00</published>
+    <updated>2020-10-07T12:51:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-satin-stripes"/>
+    <title>JKM Pull Bow - Sheer with Satin Stripes</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR250-111-harvest.gif?v=1512857194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            22.13 - 221.32
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-satin-stripes">(26 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sheer With Satin Stripes is a folded piece of 1" ribbon which pulls out to an 18 loop, 6" diameter bow. It is available in assorted colors.<br>(Product Characteristic: Satin and Sheer Combo) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-02-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Ivory/Gold</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-52-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Ivory/Silver</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-62-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-11-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-20-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-05-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-12-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-23-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / White</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-01-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / White/Gold</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-51-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / White/Silver</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-61-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-02-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Ivory/Gold</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-52-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Ivory/Silver</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-62-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-11-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-20-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-05-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-12-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-23-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / White</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-01-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / White/Gold</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-51-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / White/Silver</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-61-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457522709</id>
+    <published>2020-10-07T12:51:17-04:00</published>
+    <updated>2020-10-07T12:51:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-flower-petal-bow"/>
+    <title>JKM Flower Petal Bow</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR816-group-harvest.gif?v=1512857202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            16.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solid Fabric Petals come on a 10 yard spool (approx. 172 petals per roll) and can be made into a petal bow. Available in white and ivory.<br>(Product Characteristic: Satin Ribbon - Soft) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457522709</id>
+      <title>As Shown / 10 Yards/Spool / Ivory</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HAPR816-02</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457522709</id>
+      <title>As Shown / 10 Yards/Spool / White</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HAPR816-01</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457621013</id>
+    <published>2020-10-07T12:51:16-04:00</published>
+    <updated>2020-10-07T12:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-flower-petal-gingham-check-bow"/>
+    <title>JKM Flower Petal Gingham Check Bow</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR817-group-harvest.gif?v=1512857206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            18.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solid Fabric Petals come on a 10 yard spool (approx. 172 petal per spool) and can be made into a petal bow. Available in blue/white or pink/white gingham fabric.<br>(Product Characteristic: Gingham) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457621013</id>
+      <title>As Shown / 10 Yards/Spool / Light Blue/White Checker</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>HAPR817-20</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457621013</id>
+      <title>As Shown / 10 Yards/Spool / Pink/White Checker</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>HAPR817-05</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457719317</id>
+    <published>2020-10-07T12:51:15-04:00</published>
+    <updated>2020-10-07T12:51:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-acetate"/>
+    <title>JKM Pull Bow - Metallic Acetate</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR818-401-harvest.gif?v=1512857211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            19.53 - 195.28
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-acetate">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Acetate is a folded piece of 1" ribbon which pulls out to an 18 loop, 6" diameter bow. Available in Gold or Silver.<br>(Product Characteristic: Metallic Solid) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR818-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR818-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR818-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR818-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457883157</id>
+    <published>2020-10-07T12:51:13-04:00</published>
+    <updated>2020-10-07T12:51:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-gingham-1-1-2-width"/>
+    <title>JKM Pull Bow Gingham - 1 1/2&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR822-11-harvest.gif?v=1512857220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow Gingham - 1 1/2" Width on a 10 yard spool is available in several colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Gingham) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Purple</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Yellow</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77458079765</id>
+    <published>2020-10-07T12:51:11-04:00</published>
+    <updated>2020-10-07T12:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-gingham-1-4-width"/>
+    <title>JKM Pull Bow Gingham - 1/4&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR832-20-harvest.gif?v=1512857230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow Gingham - 1/4" Width on a 25 yard spool is available in several colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Gingham) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Black</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-39</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-20</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-34</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-05</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Purple</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-11</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-16</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77458669589</id>
+    <published>2020-10-07T12:51:08-04:00</published>
+    <updated>2020-10-07T12:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-center-satin-stripe-3-8-width"/>
+    <title>JKM Pull Bow - Center Satin Stripe &amp; 3/8&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR831-10-harvest.gif?v=1512857250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            4.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Center Satin Stripe, 3/8" Width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Satin and Sheer Combo) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Brown</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-27</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Forest Green</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Grey</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mauve</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Navy</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Royal Blue</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-23</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / White</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459226645</id>
+    <published>2020-10-07T12:51:05-04:00</published>
+    <updated>2020-10-07T12:51:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-edge-sheer-3-8-width"/>
+    <title>JKM Pull Bow - Metallic Edge Sheer &amp; 3/8&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr834-50-harvest.gif?v=1512857278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            4.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Edge Sheer, 3/8" width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Brown/Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-27</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Forest Green with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Grey with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lavender with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-57</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-50</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Grey with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-42</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mauve with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mint with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Navy with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Royal Blue with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-23</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-44</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459521557</id>
+    <published>2020-10-07T12:51:04-04:00</published>
+    <updated>2020-10-07T12:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-edge-sheer-1-width"/>
+    <title>JKM Pull Bow - Metallic Edge Sheer &amp; 1&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr825g-20-harvest.gif?v=1512857292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Edge Sheer, 1" width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Blue/Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-20</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-02</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-11</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-05</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Pink with White Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825W-05</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-01</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825S-01</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459882005</id>
+    <published>2020-10-07T12:51:02-04:00</published>
+    <updated>2020-10-07T12:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-edge-sheer-1-1-2-width"/>
+    <title>JKM Pull Bow - Metallic Edge Sheer &amp; 1 1/2&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr835w-lb-harvest.gif?v=1512857317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            9.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Edge Sheer, 1 1/2" width on a 25 yard spool is available in assorted colors with gold or silver edge. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-BG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-BG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Hunter Green with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-HG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-IV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-IV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-LV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-LV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-LB</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-LB</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mauve with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-MV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-MT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mint with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-MT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Navy with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-NV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Peach</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-PH</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Peach with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-PH</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-PK</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-PK</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835-WT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-WT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-YL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-YL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459980309</id>
+    <published>2020-10-07T12:51:01-04:00</published>
+    <updated>2020-10-07T12:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-metallic-trim-1-1-2-width"/>
+    <title>JKM Pull Bow - Sheer with Metallic Trim &amp; 1 1/2&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr839-10-harvest.gif?v=1512857332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sheer with Metallic Trim, 1 1/2" width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Grey with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-G-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460144149</id>
+    <published>2020-10-07T12:50:58-04:00</published>
+    <updated>2020-10-07T12:50:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-thin-metallic-edge"/>
+    <title>JKM Pull Bow - Sheer with Thin Metallic Edge</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr841-10-harvest.gif?v=1512857348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            5.42 - 7.59
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-thin-metallic-edge">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sheer with Thin Metallic Edge is available in 7/8" or 1 1/2" width on a 25 yard spool in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Grey with Silver Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Yellow with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-41</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-29</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-10</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Grey with Silver Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-40</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-02</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-11</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-20</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Yellow with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-16</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-05</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Red with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-12</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-01</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-41</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-29</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79266185237</id>
+    <published>2020-10-07T12:42:31-04:00</published>
+    <updated>2020-10-07T12:42:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-bow-tied-with-ribbon-3-4x1"/>
+    <title>JKM Small Bow Tied with Ribbon - 3/4&quot;x1&quot;</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl625-jkm-new.png?v=1538063821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            46.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our small bow tied with ribbon comes in 30 beautiful colors, and 100 bows per package. 1 package per box.<br>(Product Characteristic: Bows) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Premade Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 003 Baby Pink</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625003</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 011 Peach</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625011</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 041 Tan</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625041</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 052 Grey</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625052</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 069 Dark Pink</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625069</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 073 Ivory</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625073</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 076 Yellow</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625076</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 080 French Blue</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625080</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 081 Blue</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625081</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 091 Mint</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625091</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 092 Celadon</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625092</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 114 Dark Peach</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625114</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 123 Dark Navy</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625123</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 124 Powder Pink</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625124</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 132 Brown</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625132</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266185237</id>
+      <title>3/4&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">46.58</s:price>
+      <s:sku>RCL625139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79266578453</id>
+    <published>2020-10-07T12:42:28-04:00</published>
+    <updated>2020-10-07T12:42:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-medium-bow-tied-with-ribbon-1-1-4-width"/>
+    <title>JKM Medium Bow Tied with Ribbon - 1 1/4&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl925-jkm-new.png?v=1538063822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            53.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our medium bow tied with ribbon comes in 30 beautiful colors, and 100 bows per package. 1 package per box.<br>(Product Characteristic: Bows) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Premade Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 003 Baby Pink</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925003</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 011 Peach</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925011</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 041 Tan</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925041</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 052 Grey</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925052</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 069 Dark Pink</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925069</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 073 Ivory</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925073</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 076 Yellow</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925076</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 080 French Blue</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925080</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 081 Blue</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925081</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 091 Mint</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925091</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 092 Celadon</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925092</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 114 Dark Peach</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925114</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 123 Dark Navy</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925123</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 124 Powder Pink</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925124</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 132 Brown</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925132</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266578453</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>RCL925139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79266971669</id>
+    <published>2020-10-07T12:42:26-04:00</published>
+    <updated>2020-10-07T12:42:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-bow-tied-with-thread-1-width"/>
+    <title>JKM Small Bow Tied with Thread - 1&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl627-jkm.jpg?v=1513021578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            34.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our small bow tied with thread comes in 30 beautiful colors, and 100 bows per package. 1 package per box.<br>(Product Characteristic: Bows) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Premade Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 003 Baby Pink</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627003</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 011 Peach</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627011</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 041 Tan</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627041</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 052 Grey</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627052</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 069 Dark Pink</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627069</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 073 Ivory</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627073</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 076 Yellow</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627076</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 080 French Blue</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627080</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 081 Blue</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627081</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 091 Mint</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627091</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 092 Celadon</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627092</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 114 Dark Peach</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627114</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 123 Dark Navy</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627123</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 124 Powder Pink</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627124</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 132 Brown</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627132</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79266971669</id>
+      <title>1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">34.45</s:price>
+      <s:sku>RCL627139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79267430421</id>
+    <published>2020-10-07T12:42:23-04:00</published>
+    <updated>2020-10-07T12:42:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-medium-bow-tied-with-thread-1-1-4-width"/>
+    <title>JKM Medium Bow Tied with Thread - 1 1/4&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl927-jkm-new.png?v=1538063822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            41.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our medium bow tied with thread comes in 30 beautiful colors, and 100 bows per package. 1 package per box.<br>(Product Characteristic: Bows) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Premade Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 003 Baby Pink</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927003</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 011 Peach</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927011</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 041 Tan</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927041</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 052 Grey</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927052</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 069 Dark Pink</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927069</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 073 Ivory</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927073</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 076 Yellow</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927076</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 080 French Blue</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927080</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 081 Blue</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927081</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 091 Mint</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927091</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 092 Celadon</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927092</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 114 Dark Peach</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927114</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 123 Dark Navy</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927123</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 124 Powder Pink</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927124</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 132 Brown</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927132</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267430421</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">41.38</s:price>
+      <s:sku>RCL927139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79267790869</id>
+    <published>2020-10-07T12:42:21-04:00</published>
+    <updated>2020-10-07T12:42:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-bow-tied-with-thread-1-1-2-width"/>
+    <title>JKM Large Bow Tied with Thread - 1 1/2&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl227-jkm-new.png?v=1538063822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            48.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our large bow tied with thread comes in 30 beautiful colors, and 100 bows per package. 1 package per box.<br>(Product Characteristic: Bows) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Premade Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 003 Baby Pink</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227003</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 011 Peach</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227011</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 041 Tan</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227041</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 052 Grey</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227052</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 069 Dark Pink</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227069</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 073 Ivory</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227073</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 076 Yellow</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227076</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 080 French Blue</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227080</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 081 Blue</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227081</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 091 Mint</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227091</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 092 Celadon</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227092</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 114 Dark Peach</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227114</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 123 Dark Navy</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227123</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 124 Powder Pink</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227124</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 132 Brown</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227132</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79267790869</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">48.75</s:price>
+      <s:sku>RCL227139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79321006101</id>
+    <published>2020-10-07T12:38:40-04:00</published>
+    <updated>2020-10-07T12:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-organza-ribbon"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Organza Ribbon</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x243-27-harvest.gif?v=1513024788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            13.02 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-organza-ribbon">(46 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Organza Ribbon is a 4 1/2" Bow using 1 1/2" Ribbon available in assorted colors.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Antique Gold/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-29-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hunter Green with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-19-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lavender with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-11-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Light Blue with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-20-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-17-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Navy with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-22-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Peach with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-03-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Rust with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-45-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Yellow with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-16-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Antique Gold/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-29-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hunter Green with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-19-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lavender with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-11-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Light Blue with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-20-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-17-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Navy with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-22-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Peach with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-03-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Rust with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-45-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Yellow with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-16-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79321333781</id>
+    <published>2020-10-07T12:38:37-04:00</published>
+    <updated>2020-10-07T12:38:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-edge-organza"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Satin Edge Organza</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x244-09-harvest.gif?v=1513024826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            13.02 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-edge-organza">(46 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Satin Edge Organza Ribbon is a 4 1/2" Bow using 1 1/2" Ribbon available in assorted colors.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-29-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hunter Green with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-19-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lavender with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-11-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Light Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-20-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lt. Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Moss with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-17-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Navy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-22-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Peach with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-03-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Rust with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-45-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / White with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Yellow with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-16-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-29-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hunter Green with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-19-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lavender with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-11-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Light Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-20-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lt. Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Moss with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-17-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Navy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-22-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Peach with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-03-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Rust with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-45-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / White with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Yellow with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-16-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79321628693</id>
+    <published>2020-10-07T12:38:33-04:00</published>
+    <updated>2020-10-07T12:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-ribbon"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Satin Ribbon</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbow262-09-harvest.gif?v=1513024864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            9.76 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-ribbon">(56 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Satin Ribbon is available in a 3" Bow using 7/8" Ribbon or a 5" Bow using 1 1/2" Ribbon. Both are available in assorted colors.<br>(Product Characteristic: Satin Ribbon - Soft) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-85-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / White</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-85-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / White</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-85-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / White</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-85-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / White</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

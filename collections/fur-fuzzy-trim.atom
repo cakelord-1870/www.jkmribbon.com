@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/fur-fuzzy-trim.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:13:42-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77423968277</id>
+    <published>2020-10-07T13:13:42-04:00</published>
+    <updated>2020-10-07T13:13:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-white-faux-fur-2-4"/>
+    <title>Wrights White Faux Fur - 2&quot; &amp; 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868783030-wrights.jpg?v=1512854158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.36 - 21.40
+            <a href="https://www.jkmribbon.com/products/wrights-white-faux-fur-2-4">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Faux Fur is available in 2" Width 6 Yards/Reel<br>(Product Characteristic: Fur; Suede; Feather Trim) / (Fabric Content: 80% Acrylic 20% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fur &amp; Fuzzy Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77423968277</id>
+      <title>4&quot; / 6 Yards/Reel / 030 White</title>
+      <s:price currency="USD">21.40</s:price>
+      <s:sku>MR1868784030</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77423968277</id>
+      <title>2&quot; / 6 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.36</s:price>
+      <s:sku>MR1868783030</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77424001045</id>
+    <published>2020-10-07T13:13:40-04:00</published>
+    <updated>2020-10-07T13:13:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fur-4"/>
+    <title>Wrights Fur - 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862219001-wrights.jpg?v=1512854162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            30.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fur is available in 4" Width 6 Yards/Reel<br>(Product Characteristic: Fur; Suede; Feather Trim) / (Fabric Content: 100% Acrylic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fur &amp; Fuzzy Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424001045</id>
+      <title>4&quot; / 6 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">30.29</s:price>
+      <s:sku>MR1862219001</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424001045</id>
+      <title>4&quot; / 6 Yards/Reel / 030 White</title>
+      <s:price currency="USD">30.29</s:price>
+      <s:sku>MR1862220030</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77424001045</id>
+      <title>4&quot; / 6 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">30.29</s:price>
+      <s:sku>MR1863388034</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77274873877</id>
+    <published>2017-12-09T12:23:27-05:00</published>
+    <updated>2017-12-09T12:23:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-leopard-fur-trim-4"/>
+    <title>Wrights Leopard Fur Trim - 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868045001-wrights.jpg?v=1512840209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            16.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leopard Fur Trim is available in 4" Width 6 Yards/Reel<br>(Product Characteristic: Fur; Suede; Feather Trim) / (Fabric Content: 80% Acrylic 20% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fur &amp; Fuzzy Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77274873877</id>
+      <title>4&quot; / 6 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">16.44</s:price>
+      <s:sku>MR1868045001</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77274841109</id>
+    <published>2017-12-09T12:23:24-05:00</published>
+    <updated>2017-12-09T12:23:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-white-fur-1"/>
+    <title>Wrights White Fur - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868786030-wrights.jpg?v=1512840206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Fur is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Fur; Suede; Feather Trim) / (Fabric Content: 80% Acrylic 20% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fur &amp; Fuzzy Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77274841109</id>
+      <title>1&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.16</s:price>
+      <s:sku>MR1868786030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262782485</id>
+    <published>2017-12-09T12:10:49-05:00</published>
+    <updated>2017-12-09T12:10:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-iridescent-faux-fur-4"/>
+    <title>Wrights Iridescent Faux Fur - 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863389030-wrights-2011.jpg?v=1512839451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            29.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iridescent Faux Fur is available in 4" width on a 6 yard reel.<br>(Product Characteristic: Fur; Suede; Feather Trim) / (Fabric Content: 90% Acrylic 10% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fur &amp; Fuzzy Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262782485</id>
+      <title>4&quot; / 6 Yards/Reel / 030 White</title>
+      <s:price currency="USD">29.12</s:price>
+      <s:sku>MR1863389030</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262749717</id>
+    <published>2017-12-09T12:10:45-05:00</published>
+    <updated>2017-12-09T12:10:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-black-faux-fur-2-4"/>
+    <title>Wrights Black Faux Fur - 2&quot; &amp; 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866301031-wrights-2011.jpg?v=1512839448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            19.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Faux Fur is available in 2" and 4" widths on a 6 yard reel.<br>(Product Characteristic: Fur; Suede; Feather Trim) / (Fabric Content: 80% Acrylic 20% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fur &amp; Fuzzy Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262749717</id>
+      <title>4&quot; / 6 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">19.79</s:price>
+      <s:sku>MR1866301031</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

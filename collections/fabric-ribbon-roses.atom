@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/fabric-ribbon-roses.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:41:44-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79273984021</id>
+    <published>2020-10-07T12:41:44-04:00</published>
+    <updated>2020-10-07T12:41:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-rosebud-ribbon-with-folded-leaves-1-2x1-1-4"/>
+    <title>JKM Rosebud Ribbon with Folded Leaves - 1/2&quot;x1 1/4&quot;</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl810-jkm-new.png?v=1538063830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            62.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our rosebud ribbon with folded leaves comes in 40 beautiful colors, and 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 201</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810201</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 202</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810202</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 203</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810203</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 204</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810204</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 205</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810205</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 206</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810206</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 207</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810207</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 208</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810208</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 209</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810209</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 210</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810210</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 211</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810211</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 212</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810212</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 213</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810213</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 214</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810214</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 215</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810215</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 216</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810216</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 217</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810217</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 218</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810218</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 219</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810219</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 220</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810220</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 221</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810221</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 222</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810222</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 223</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810223</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 224</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810224</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 225</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810225</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 226</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810226</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 227</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810227</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 228</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810228</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 232</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810232</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 233</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810233</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 234</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810234</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 235</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810235</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 236</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810236</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 237</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810237</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 238</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810238</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 239</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810239</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 240</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810240</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 241</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810241</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 242</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810242</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79273984021</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 243</title>
+      <s:price currency="USD">62.83</s:price>
+      <s:sku>RCL810243</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79275229205</id>
+    <published>2020-10-07T12:41:40-04:00</published>
+    <updated>2020-10-07T12:41:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-rose-ribbon-with-folded-leaves-1-2x1-1-4"/>
+    <title>JKM Rose Ribbon with Folded Leaves - 1/2&quot;x1 1/4&quot;</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl820-jkm-new.png?v=1538063831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            50.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our rose ribbon with folded leaves comes in 40 beautiful colors, and 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 301</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820301</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 302</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820302</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 303</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820303</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 304</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820304</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 305</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820305</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 306</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820306</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 307</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820307</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 308</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820308</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 309</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820309</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 310</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820310</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 311</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820311</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 312</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820312</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 313</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820313</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 314</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820314</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 315</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820315</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 316</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820316</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 317</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820317</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 318</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820318</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 319</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820319</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 320</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820320</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 321</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820321</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 322</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820322</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 323</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820323</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 324</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820324</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 325</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820325</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 326</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820326</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 327</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820327</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 328</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820328</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 332</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820332</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 333</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820333</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 334</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820334</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 335</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820335</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 336</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820336</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 337</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820337</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 338</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820338</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 339</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820339</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 340</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820340</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 341</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820341</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 342</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820342</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79275229205</id>
+      <title>1/2&quot;x1 1/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 343</title>
+      <s:price currency="USD">50.70</s:price>
+      <s:sku>RCL820343</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394739221</id>
+    <published>2017-12-09T15:32:52-05:00</published>
+    <updated>2017-12-09T15:32:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-rose-with-flat-leaves-green-leaves-only-1-2x1-1-2"/>
+    <title>JKM Large Rose with Flat Leaves (Green Leaves Only) - 1/2&quot;x1 1/2&quot;</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl924-jkm-new.png?v=1538063832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            55.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our large rose ribbon with flat leaves comes in 15 beautiful colors. Available with green leaves only. 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394739221</id>
+      <title>1/2&quot;x1 1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>RCL924139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394706453</id>
+    <published>2017-12-09T15:32:37-05:00</published>
+    <updated>2017-12-09T15:32:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-rose-with-flat-leaves-green-leaves-only-1-2x1"/>
+    <title>JKM Small Rose with Flat Leaves (Green Leaves Only) - 1/2&quot;x1&quot;</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl624-jkm-new.png?v=1538063831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            47.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our small rose ribbon with flat leaves comes in 15 beautiful colors. Available with green leaves only. 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394706453</id>
+      <title>1/2&quot;x1&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">47.45</s:price>
+      <s:sku>RCL624139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394673685</id>
+    <published>2017-12-09T15:32:21-05:00</published>
+    <updated>2017-12-09T15:32:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-rose-with-folded-leaves-green-leaves-only-3-4-width"/>
+    <title>JKM Large Rose with Folded Leaves (Green Leaves Only) - 3/4&quot; Width</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl902-jkm-new.png?v=1538063828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            55.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our large rose ribbon with no leaves comes in 15 beautiful colors. Available with green leaves only. 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394673685</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">55.03</s:price>
+      <s:sku>RCL902139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394640917</id>
+    <published>2017-12-09T15:32:06-05:00</published>
+    <updated>2017-12-09T15:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-rose-with-folded-leaves-green-leaves-only-1-2-width"/>
+    <title>JKM Small Rose with Folded Leaves (Green Leaves Only) - 1/2&quot; Width</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl602-jkm-new.png?v=1536616121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            49.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our small rose ribbon with no leaves comes in 15 beautiful colors. Available with green leaves only. 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394640917</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">49.83</s:price>
+      <s:sku>RCL602139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394280469</id>
+    <published>2017-12-09T15:31:50-05:00</published>
+    <updated>2017-12-09T15:31:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-rose-ribbon-with-no-leaves-3-4-width"/>
+    <title>JKM Large Rose Ribbon with No Leaves - 3/4&quot; Width</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl923-jkm-new.png?v=1538063830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            32.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our large rose ribbon with no leaves comes in 15 beautiful colors, and 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394280469</id>
+      <title>3/4&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">32.93</s:price>
+      <s:sku>RCL923139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394182165</id>
+    <published>2017-12-09T15:31:35-05:00</published>
+    <updated>2017-12-09T15:31:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-rose-ribbon-with-no-leaves-3-8-width"/>
+    <title>JKM Small Rose Ribbon with No Leaves - 3/8&quot; Width</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xl623-jkm-new.png?v=1538063830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            25.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our small rose ribbon with no leaves is approx. 3/8" wide and comes in 15 beautiful colors, and 100 pieces per bag. 1 bag per box.<br>(Product Characteristic: Ribbon Roses; Flowers) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Roses</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 001 White</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623001</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 002 Light Pink</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623002</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 008 Light Yellow</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623008</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 027 Light Navy</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623027</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 035 Lilac</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623035</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 037 Lavender</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623037</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 039 Antique White</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623039</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 040 Beige</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623040</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 055 Black</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623055</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 071 Scarlet</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623071</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 106 Light Peach</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623106</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 112 Dark Brown</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623112</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 119 Wine</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623119</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 125 Pearl Pink</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623125</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394182165</id>
+      <title>1/2&quot; / 100 Pcs/Pkg; 1 Pkg/Box / 139 Light Blue</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RCL623139</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

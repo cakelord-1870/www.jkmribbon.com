@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/christmas-trims.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:19:59-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77408534549</id>
+    <published>2020-10-07T13:19:59-04:00</published>
+    <updated>2020-10-07T13:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-christmas-present-applique-iron-on"/>
+    <title>JKM Christmas Present Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A746A-jkm.jpg?v=1512852707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            63.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas present applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408534549</id>
+      <title>1 1/4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / A Red</title>
+      <s:price currency="USD">63.40</s:price>
+      <s:sku>ABCA746A</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408534549</id>
+      <title>1 1/4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / B Green</title>
+      <s:price currency="USD">63.40</s:price>
+      <s:sku>ABCA746B</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408534549</id>
+      <title>1 1/4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / C Blue</title>
+      <s:price currency="USD">63.40</s:price>
+      <s:sku>ABCA746C</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77408600085</id>
+    <published>2020-10-07T13:19:58-04:00</published>
+    <updated>2020-10-07T13:19:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-christmas-present-applique-stick-on"/>
+    <title>JKM Christmas Present Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A746A-jkm_ac52de19-6be2-45a4-8dec-5c0fff44390e.jpg?v=1512852712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            209.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas present applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408600085</id>
+      <title>1 1/4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / A-SO Red</title>
+      <s:price currency="USD">209.21</s:price>
+      <s:sku>ABCA746A-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408600085</id>
+      <title>1 1/4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / B-SO Green</title>
+      <s:price currency="USD">209.21</s:price>
+      <s:sku>ABCA746B-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408600085</id>
+      <title>1 1/4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / C-SO Blue</title>
+      <s:price currency="USD">209.21</s:price>
+      <s:sku>ABCA746C-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77408731157</id>
+    <published>2020-10-07T13:19:57-04:00</published>
+    <updated>2020-10-07T13:19:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-silver-snowflake-style-ii-applique-iron-stick-on"/>
+    <title>JKM Silver Snowflake Style II Applique (Iron &amp; Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-4813B-jkm-new.png?v=1538063865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            105.66 - 348.68
+            <a href="https://www.jkmribbon.com/products/jkm-silver-snowflake-style-ii-applique-iron-stick-on">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver snowflake style II applique is perfect for Christmas and other holiday crafts. Iron &amp; Stick-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408731157</id>
+      <title>2 3/4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">105.66</s:price>
+      <s:sku>ABC4813B</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408731157</id>
+      <title>2 3/4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">348.68</s:price>
+      <s:sku>ABC4813B-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77408829461</id>
+    <published>2020-10-07T13:19:55-04:00</published>
+    <updated>2020-10-07T13:19:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-snowflake-applique-iron-on"/>
+    <title>JKM Snowflake Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A1418A-jkm.jpg?v=1512852720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            26.42 - 33.06
+            <a href="https://www.jkmribbon.com/products/jkm-snowflake-applique-iron-on">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snowflake applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408829461</id>
+      <title>1&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">26.42</s:price>
+      <s:sku>ABCA1418A</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408829461</id>
+      <title>1&quot; / 1 Pc/Pkg; 100 Pkgs/Box / B Silver</title>
+      <s:price currency="USD">33.06</s:price>
+      <s:sku>ABCA1418B</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77408829461</id>
+      <title>1&quot; / 1 Pc/Pkg; 100 Pkgs/Box / C Gold</title>
+      <s:price currency="USD">33.06</s:price>
+      <s:sku>ABCA1418C</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77409058837</id>
+    <published>2020-10-07T13:19:54-04:00</published>
+    <updated>2020-10-07T13:19:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-snowflake-applique-stick-on"/>
+    <title>JKM Snowflake Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A1418A-jkm_8d3f5a0b-92d5-4690-886e-6b2e5223c7c5.jpg?v=1512852729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            87.17 - 108.96
+            <a href="https://www.jkmribbon.com/products/jkm-snowflake-applique-stick-on">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Snowflake applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409058837</id>
+      <title>1&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">87.17</s:price>
+      <s:sku>ABCA1418A-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409058837</id>
+      <title>1&quot; / 1 Pc/Pkg; 300 Pkgs/Box / B-SO Silver</title>
+      <s:price currency="USD">108.96</s:price>
+      <s:sku>ABCA1418B-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409058837</id>
+      <title>1&quot; / 1 Pc/Pkg; 300 Pkgs/Box / C-SO Gold</title>
+      <s:price currency="USD">108.96</s:price>
+      <s:sku>ABCA1418C-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261242389</id>
+    <published>2017-12-09T12:08:41-05:00</published>
+    <updated>2017-12-09T12:08:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-christmas-tree-applique-stick-on"/>
+    <title>JKM Small Christmas Tree Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg27-4403A-jkm_f175618c-6a5c-4eeb-b097-baecde3ea057.jpg?v=1512839323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            479.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small christmas tree applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261242389</id>
+      <title>3 3/4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">479.43</s:price>
+      <s:sku>ABC4403A-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261209621</id>
+    <published>2017-12-09T12:08:38-05:00</published>
+    <updated>2017-12-09T12:08:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-christmas-tree-applique-iron-on"/>
+    <title>JKM Small Christmas Tree Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg27-4403A-jkm.jpg?v=1512839320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            145.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small christmas tree applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261209621</id>
+      <title>3 3/4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">145.28</s:price>
+      <s:sku>ABC4403A</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261176853</id>
+    <published>2017-12-09T12:08:34-05:00</published>
+    <updated>2017-12-09T12:08:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-christmas-tree-applique-stick-on"/>
+    <title>JKM Large Christmas Tree Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg27-A735-jkm_838d22c6-9045-4cd8-b49f-704a43f5a58f.jpg?v=1512839317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            740.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large christmas tree applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261176853</id>
+      <title>4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">740.94</s:price>
+      <s:sku>ABCA735-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261144085</id>
+    <published>2017-12-09T12:08:31-05:00</published>
+    <updated>2017-12-09T12:08:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-christmas-tree-applique-iron-on"/>
+    <title>JKM Large Christmas Tree Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg27-A735-jkm.jpg?v=1512839313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            224.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large christmas tree applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261144085</id>
+      <title>4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">224.53</s:price>
+      <s:sku>ABCA735</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261111317</id>
+    <published>2017-12-09T12:08:28-05:00</published>
+    <updated>2017-12-09T12:08:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-white-santa-applique-stick-on"/>
+    <title>JKM White Santa Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg27-xmas40102-jkm-new.png?v=1538063866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            862.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White santa applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261111317</id>
+      <title>3 1/2&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">862.98</s:price>
+      <s:sku>ABCXMAS40102-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261078549</id>
+    <published>2017-12-09T12:08:25-05:00</published>
+    <updated>2017-12-09T12:08:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-white-santa-applique-iron-on"/>
+    <title>JKM White Santa Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg27-xmas40102-jkm-new_bcd01594-9ca9-4eef-91fe-945d62a011fc.png?v=1538063866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            261.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White santa applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261078549</id>
+      <title>3 1/2&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">261.51</s:price>
+      <s:sku>ABCXMAS40102</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77261013013</id>
+    <published>2017-12-09T12:08:21-05:00</published>
+    <updated>2017-12-09T12:08:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-gold-christmas-tree-style-ii-applique-stick-on"/>
+    <title>JKM Gold Christmas Tree Style Ii Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-R06905B-jkm.jpg?v=1512839304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            479.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold christmas tree style ii applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77261013013</id>
+      <title>4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">479.43</s:price>
+      <s:sku>ABCR06905B-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260914709</id>
+    <published>2017-12-09T12:08:18-05:00</published>
+    <updated>2017-12-09T12:08:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-angel-with-horn-applique-stick-on"/>
+    <title>JKM Angel with Horn Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-R06873A-jkm-new_985d0647-7334-4fa9-8370-4f559ec0cb9e.png?v=1538063866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            653.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angel with horn applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260914709</id>
+      <title>3 1/2&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">653.77</s:price>
+      <s:sku>ABCR06873A-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260849173</id>
+    <published>2017-12-09T12:08:15-05:00</published>
+    <updated>2017-12-09T12:08:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-angel-with-horn-applique-iron-on"/>
+    <title>JKM Angel with Horn Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-R06873A-jkm-new.png?v=1538063866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            198.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angel with horn applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260849173</id>
+      <title>3 1/2&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">198.11</s:price>
+      <s:sku>ABCR06873A</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260783637</id>
+    <published>2017-12-09T12:08:10-05:00</published>
+    <updated>2017-12-09T12:08:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-angel-with-halo-applique-stick-on"/>
+    <title>JKM Angel with Halo Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-R06875A-jkm-new.png?v=1538063863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            653.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angel with halo applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260783637</id>
+      <title>3&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">653.77</s:price>
+      <s:sku>ABCR06875A-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260619797</id>
+    <published>2017-12-09T12:08:07-05:00</published>
+    <updated>2017-12-09T12:08:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-gold-snowflake-applique-stick-on"/>
+    <title>JKM Large Gold Snowflake Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-4811A-jkm-new_d6abf903-fc56-40da-8afb-89e394b0c990.png?v=1538063865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            348.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large gold snowflake applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260619797</id>
+      <title>2 1/2&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">348.68</s:price>
+      <s:sku>ABC4811A-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260554261</id>
+    <published>2017-12-09T12:08:04-05:00</published>
+    <updated>2017-12-09T12:08:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-gold-snowflake-applique-iron-on"/>
+    <title>JKM Large Gold Snowflake Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-4811A-jkm-new.png?v=1538063865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            105.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large gold snowflake applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260554261</id>
+      <title>2 1/2&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">105.66</s:price>
+      <s:sku>ABC4811A</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260488725</id>
+    <published>2017-12-09T12:08:01-05:00</published>
+    <updated>2017-12-09T12:08:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-toy-soldier-applique-stick-on"/>
+    <title>JKM Large Toy Soldier Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A4963-jkm_4f633e46-e08e-44a1-aded-8e5967ccbff1.jpg?v=1512839283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            588.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large toy soldier applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260488725</id>
+      <title>3 3/4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">588.40</s:price>
+      <s:sku>ABCA4963-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260390421</id>
+    <published>2017-12-09T12:07:58-05:00</published>
+    <updated>2017-12-09T12:07:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-large-toy-soldier-applique-iron-on"/>
+    <title>JKM Large Toy Soldier Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A4963-jkm.jpg?v=1512839280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            178.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large toy soldier applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260390421</id>
+      <title>3 3/4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">178.34</s:price>
+      <s:sku>ABCA4963</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260292117</id>
+    <published>2017-12-09T12:07:52-05:00</published>
+    <updated>2017-12-09T12:07:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-toy-soldier-applique-stick-on"/>
+    <title>JKM Small Toy Soldier Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A4962-jkm_24959080-09db-450b-8b3a-668f5faf1f61.jpg?v=1512839277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            183.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small toy soldier applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260292117</id>
+      <title>2&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">183.06</s:price>
+      <s:sku>ABCA4962-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260128277</id>
+    <published>2017-12-09T12:07:48-05:00</published>
+    <updated>2017-12-09T12:07:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-small-toy-soldier-applique-iron-on"/>
+    <title>JKM Small Toy Soldier Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A4962-jkm.jpg?v=1512839271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            55.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small toy soldier applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260128277</id>
+      <title>2&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">55.47</s:price>
+      <s:sku>ABCA4962</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77260029973</id>
+    <published>2017-12-09T12:07:45-05:00</published>
+    <updated>2017-12-09T12:07:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-silver-snowflake-applique-stick-on"/>
+    <title>JKM Silver Snowflake Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-4810B-jkm-new_2c9ce71d-c2c2-48d2-b3ff-697383ec30e1.png?v=1538063864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            348.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver snowflake applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77260029973</id>
+      <title>2 1/2&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">348.68</s:price>
+      <s:sku>ABC4810B-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77259964437</id>
+    <published>2017-12-09T12:07:40-05:00</published>
+    <updated>2017-12-09T12:07:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-silver-snowflake-applique-iron-on"/>
+    <title>JKM Silver Snowflake Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-4810B-jkm-new.png?v=1538063864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            105.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver snowflake applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77259964437</id>
+      <title>2 1/2&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">105.66</s:price>
+      <s:sku>ABC4810B</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77259833365</id>
+    <published>2017-12-09T12:07:37-05:00</published>
+    <updated>2017-12-09T12:07:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-poinsettia-applique-stick-on"/>
+    <title>JKM Poinsettia Applique (Stick On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A4949-jkm_562e5674-51c2-4d99-9c10-cabeb013ba37.jpg?v=1512839260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            457.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Poinsettia applique is perfect for Christmas and other holiday crafts. Stick-on applique.<br>(Product Characteristic: Applique Stick on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77259833365</id>
+      <title>3 1/4&quot; / 1 Pc/Pkg; 300 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">457.64</s:price>
+      <s:sku>ABCA4949-SO</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77259735061</id>
+    <published>2017-12-09T12:07:34-05:00</published>
+    <updated>2017-12-09T12:07:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-poinsettia-applique-iron-on"/>
+    <title>JKM Poinsettia Applique (Iron On)</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpg26-A4949-jkm.jpg?v=1512839256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            138.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Poinsettia applique is perfect for Christmas and other holiday crafts. Iron-on applique.<br>(Product Characteristic: Applique Iron on-Christmas) / (Fabric Content: 100% Rayon Thread 100% Polyester Base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Trims</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77259735061</id>
+      <title>3 1/4&quot; / 1 Pc/Pkg; 100 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">138.72</s:price>
+      <s:sku>ABCA4949</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/belting-bands-straps.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:18:23-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412827157</id>
+    <published>2020-10-07T13:18:23-04:00</published>
+    <updated>2020-10-07T13:18:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-white-natural-spaghetti-straps"/>
+    <title>JKM White &amp; Natural Spaghetti Straps</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xstraps-whtnat-jkm.jpg?v=1512853064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            77.04 - 83.75
+            <a href="https://www.jkmribbon.com/products/jkm-white-natural-spaghetti-straps">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our white &amp; natural spaghetti straps come in 2 beautiful colors and are available in the following sizes: 1/4" &amp; 3/8" widths on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412827157</id>
+      <title>1/4&quot; / 145 Yards/Spool / 0000 White</title>
+      <s:price currency="USD">77.04</s:price>
+      <s:sku>CESSPCC4-10000</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412827157</id>
+      <title>1/4&quot; / 145 Yards/Spool / 3855 Natural</title>
+      <s:price currency="USD">77.04</s:price>
+      <s:sku>CESSPCC4-13855</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412827157</id>
+      <title>3/8&quot; / 145 Yards/Spool / 0000 White</title>
+      <s:price currency="USD">83.75</s:price>
+      <s:sku>CESSPCC41H0000</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412827157</id>
+      <title>3/8&quot; / 145 Yards/Spool / 3855 Natural</title>
+      <s:price currency="USD">83.75</s:price>
+      <s:sku>CESSPCC41H3855</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412859925</id>
+    <published>2020-10-07T13:18:21-04:00</published>
+    <updated>2020-10-07T13:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-denim-spaghetti-straps"/>
+    <title>JKM Denim Spaghetti Straps</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xstraps-denim-jkm.jpg?v=1512853067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            93.79 - 100.49
+            <a href="https://www.jkmribbon.com/products/jkm-denim-spaghetti-straps">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our denim spaghetti straps come in one beautiful color and are available in the following sizes: 1/4" &amp; 3/8" widths on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412859925</id>
+      <title>1/4&quot; / 145 Yards/Spool / 33646 Denim</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCD4-133646</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412859925</id>
+      <title>3/8&quot; / 145 Yards/Spool / 33646 Denim</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCD41H33646</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412892693</id>
+    <published>2020-10-07T13:18:18-04:00</published>
+    <updated>2020-10-07T13:18:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-gingham-spaghetti-straps"/>
+    <title>JKM Gingham Spaghetti Straps</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xstraps-gingham-jkm.jpg?v=1512853078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            93.79 - 100.49
+            <a href="https://www.jkmribbon.com/products/jkm-gingham-spaghetti-straps">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our gingham spaghetti straps come in 12 beautiful colors and are available in the following sizes: 1/4" &amp; 3/8" widths on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / Black</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1BLK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / Blue</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1BLU</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / BMT Baby Mint</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1BMT</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / BPK Baby Pink</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1BPK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / BYB Baby Blue</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1BYB</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / LAV Lavender</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1LAV</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / Navy</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1NVY</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / Pink</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1PNK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / Red</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1RED</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>1/4&quot; / 145 Yards/Spool / YLW Yellow</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCG4-1YLW</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / Black</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HBLK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / Blue</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HBLU</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / BMT Baby Mint</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HBMT</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / BPK Baby Pink</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HBPK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / BYB Baby Blue</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HBYB</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / LAV Lavender</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HLAV</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / Navy</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HNVY</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / Pink</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HPNK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / Red</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HRED</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412892693</id>
+      <title>3/8&quot; / 145 Yards/Spool / YLW Yellow</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCG41HYLW</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412925461</id>
+    <published>2020-10-07T13:18:16-04:00</published>
+    <updated>2020-10-07T13:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-stripe-spaghetti-straps"/>
+    <title>JKM Stripe Spaghetti Straps</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xstraps-stripe-jkm.jpg?v=1512853085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            93.79 - 100.49
+            <a href="https://www.jkmribbon.com/products/jkm-stripe-spaghetti-straps">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our stripe spaghetti straps come in 2 beautiful colors and are available in the following sizes: 1/4" &amp; 3/8" widths on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412925461</id>
+      <title>1/4&quot; / 145 Yards/Spool / BYB Baby Blue</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCS4-1BYB</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412925461</id>
+      <title>1/4&quot; / 145 Yards/Spool / Red</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCS4-1RED</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412925461</id>
+      <title>3/8&quot; / 145 Yards/Spool / BYB Baby Blue</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCS41HBYB</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412925461</id>
+      <title>3/8&quot; / 145 Yards/Spool / Red</title>
+      <s:price currency="USD">100.49</s:price>
+      <s:sku>CESSPCS41HRED</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412958229</id>
+    <published>2020-10-07T13:18:15-04:00</published>
+    <updated>2020-10-07T13:18:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-white-natural-double-needle-belting-1-width"/>
+    <title>JKM White &amp; Natural Double Needle Belting - 1&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xdouble-whtnat-jkm.jpg?v=1512853089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            123.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our white &amp; natural double needle belting comes in 2 beautiful colors and is available in the following sizes: 1" width on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412958229</id>
+      <title>1&quot; / 145 Yards/Spool / 0000 White</title>
+      <s:price currency="USD">123.93</s:price>
+      <s:sku>CEDNPCC4-60000</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412958229</id>
+      <title>1&quot; / 145 Yards/Spool / 3855 Natural</title>
+      <s:price currency="USD">123.93</s:price>
+      <s:sku>CEDNPCC4-63855</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412990997</id>
+    <published>2020-10-07T13:18:12-04:00</published>
+    <updated>2020-10-07T13:18:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-solid-colors-double-needle-belting-1-width"/>
+    <title>JKM Solid Colors Double Needle Belting - 1&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xdouble-solid-jkm.jpg?v=1512853105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            133.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our solid color double needle belting comes in 18 beautiful colors and is available in the following sizes: 1" width on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 10249 Hunter</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-610249</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 12153 Wedgewood</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-612153</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 1643 Misty Green</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-61643</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 1998 Mauve</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-61998</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 21392 Dusty Mauve</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-621392</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 2283 Grey</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-62283</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 2384 Blue</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-62384</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 5092 Baby Pink</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-65092</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 5291 Vibrant Pink</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-65291</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 5588 Burgundy</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-65588</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 6421 Yellow</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-66421</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 7198 Bel Blue</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-67198</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 9021 Navy</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-69021</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 9025 Royal</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-69025</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 9212 Khaki</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-69212</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 96186 Sea Blue</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-696186</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 9703 Red</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-69703</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412990997</id>
+      <title>1&quot; / 145 Yards/Spool / 9999 Black</title>
+      <s:price currency="USD">133.97</s:price>
+      <s:sku>CEDNPCC4-69999</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77413056533</id>
+    <published>2020-10-07T13:18:10-04:00</published>
+    <updated>2020-10-07T13:18:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-gingham-double-needle-belting-1-width"/>
+    <title>JKM Gingham Double Needle Belting - 1&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xdouble-gingham-jkm.jpg?v=1512853119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            144.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our gingham double needle belting comes in 12 beautiful colors and is available in the following sizes: 1" width on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / Black</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6BLK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / Blue</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6BLU</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / BMT Baby Mint</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6BMT</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / BPK Baby Pink</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6BPK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / BYB Baby Blue</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6BYB</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / LAV Lavender</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6LAV</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / Navy</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6NVY</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / Pink</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6PNK</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / Red</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6RED</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413056533</id>
+      <title>1&quot; / 145 Yards/Spool / YLW Yellow</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCG4-6YLW</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77413089301</id>
+    <published>2020-10-07T13:18:09-04:00</published>
+    <updated>2020-10-07T13:18:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-stripe-double-needle-belting-1-width"/>
+    <title>JKM Stripe Double Needle Belting - 1&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xdouble-stripe-jkm.jpg?v=1512853124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            144.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our stripe needle belting comes in 2 beautiful colors and is available in the following sizes: 1" width on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413089301</id>
+      <title>1&quot; / 145 Yards/Spool / BYB Baby Blue</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCS4-6BYB</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413089301</id>
+      <title>1&quot; / 145 Yards/Spool / Red</title>
+      <s:price currency="USD">144.04</s:price>
+      <s:sku>CEDNPCS4-6RED</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414170645</id>
+    <published>2020-10-07T13:17:24-04:00</published>
+    <updated>2020-10-07T13:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-belting-heavy-weight-1-1-8"/>
+    <title>Wrights Belting Heavy Weight - 1 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861211001-wrights-2011.jpg?v=1512853422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            15.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belting Heavy Weight is available in a 1 1/8" width in several color combinations.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414170645</id>
+      <title>1 1/8&quot; / 10 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">15.85</s:price>
+      <s:sku>MR1861211001</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414170645</id>
+      <title>1 1/8&quot; / 10 Yards/Reel / 487 Navy / White</title>
+      <s:price currency="USD">15.85</s:price>
+      <s:sku>MR1861210487</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414170645</id>
+      <title>1 1/8&quot; / 10 Yards/Reel / 937 Black / White</title>
+      <s:price currency="USD">15.85</s:price>
+      <s:sku>MR1861210937</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77416562709</id>
+    <published>2020-10-07T13:16:28-04:00</published>
+    <updated>2020-10-07T13:16:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-belting-1"/>
+    <title>Wrights Belting - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861003031-wrights.jpg?v=1512853567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belting is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416562709</id>
+      <title>1&quot; / 10 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1864010029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416562709</id>
+      <title>1&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861004030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416562709</id>
+      <title>1&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861003031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416562709</id>
+      <title>1&quot; / 10 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861004061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416562709</id>
+      <title>1&quot; / 10 Yards/Reel / 069 Turquoise</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861004069</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416562709</id>
+      <title>1&quot; / 10 Yards/Reel / 149 Camel</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861004149</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416562709</id>
+      <title>1&quot; / 10 Yards/Reel / 221 Fuchsia</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861004221</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77416955925</id>
+    <published>2020-10-07T13:16:26-04:00</published>
+    <updated>2020-10-07T13:16:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-cotton-belting-1"/>
+    <title>Wrights Cotton Belting - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862344069-wrights_9294fcec-f55d-4f76-87fe-9fb99dff8056.jpg?v=1512853585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            7.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton Belting is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 022 Bright Pink</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862341022</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862338055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 059 Orchid</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862342059</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862340061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862336065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 069 Turquoise</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862344069</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 092 Seal Brown</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862335092</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416955925</id>
+      <title>1&quot; / 10 Yards/Reel / 1173 Sage</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR18623371173</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77417054229</id>
+    <published>2020-10-07T13:16:24-04:00</published>
+    <updated>2020-10-07T13:16:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-band-knit-stretch-1"/>
+    <title>Wrights Band Knit Stretch - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863186030-wrights.jpg?v=1512853590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            26.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Band Knit Stretch is available in 1" Width 15 Yards/Reel<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: 85% Nylon 15% Spandex)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417054229</id>
+      <title>1&quot; / 15 Yards/Reel / 030 White</title>
+      <s:price currency="USD">26.83</s:price>
+      <s:sku>MR1863186030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417054229</id>
+      <title>1&quot; / 15 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">26.83</s:price>
+      <s:sku>MR1863187031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77417152533</id>
+    <published>2020-10-07T13:16:23-04:00</published>
+    <updated>2020-10-07T13:16:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-elastic-band-3-8"/>
+    <title>Wrights Elastic Band - 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863194030-wrights.jpg?v=1512853594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            6.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elastic Band is available in 3/8" Width 6 Yards/Reel<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: 86% Nylon 14% Lycra)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417152533</id>
+      <title>3/8&quot; / 6 Yards/Reel / 030 White</title>
+      <s:price currency="USD">6.06</s:price>
+      <s:sku>MR1863194030</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417152533</id>
+      <title>3/8&quot; / 6 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">6.06</s:price>
+      <s:sku>MR1863195031</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77417283605</id>
+    <published>2020-10-07T13:16:22-04:00</published>
+    <updated>2020-10-07T13:16:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-belting-1-1-2-id-mr1866188"/>
+    <title>Wrights Belting - 1 1/2&quot; (ID: MR1866188)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866188031-wrights.jpg?v=1512853597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            24.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belting is available in 1 1/2" Width 6 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 85% Polyurethane 15% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417283605</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">24.70</s:price>
+      <s:sku>MR1866188031</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417283605</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">24.70</s:price>
+      <s:sku>MR1866188034</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77417447445</id>
+    <published>2020-10-07T13:16:20-04:00</published>
+    <updated>2020-10-07T13:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-belting-3"/>
+    <title>Wrights Belting - 3&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866208070-wrights.jpg?v=1512853603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            40.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belting is available in 3" Width 6 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 85% Polyurethane 15% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417447445</id>
+      <title>3&quot; / 6 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">40.80</s:price>
+      <s:sku>MR1866208031</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417447445</id>
+      <title>3&quot; / 6 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">40.80</s:price>
+      <s:sku>MR1866208034</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77417512981</id>
+    <published>2020-10-07T13:16:18-04:00</published>
+    <updated>2020-10-07T13:16:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-saddle-stitch-belting-1-id-mr1862339"/>
+    <title>Wrights Saddle Stitch Belting - 1&quot; (ID: MR1862339)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862339937-wrights.jpg?v=1512853607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            7.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Saddle Stitch Belting is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417512981</id>
+      <title>1&quot; / 10 Yards/Reel / 490 Khaki/Brown</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862343490</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417512981</id>
+      <title>1&quot; / 10 Yards/Reel / 937 Black/White</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862339937</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77417807893</id>
+    <published>2020-10-07T13:16:17-04:00</published>
+    <updated>2020-10-07T13:16:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-saddle-stitch-belting-1-id-mr1861063"/>
+    <title>Wrights Saddle Stitch Belting - 1&quot; (ID: MR1861063)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861063042-wrights.jpg?v=1512853615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Saddle Stitch Belting is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Polypropylene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417807893</id>
+      <title>1&quot; / 10 Yards/Reel / 040 Delft</title>
+      <s:price currency="USD">10.10</s:price>
+      <s:sku>MR1862097040</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417807893</id>
+      <title>1&quot; / 10 Yards/Reel / 042 Apple Green</title>
+      <s:price currency="USD">10.10</s:price>
+      <s:sku>MR1861063042</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417807893</id>
+      <title>1&quot; / 10 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">10.10</s:price>
+      <s:sku>MR1861064061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417807893</id>
+      <title>1&quot; / 10 Yards/Reel / 067 Dusty Rose</title>
+      <s:price currency="USD">10.10</s:price>
+      <s:sku>MR1862098067</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417807893</id>
+      <title>1&quot; / 10 Yards/Reel / 086 Canary</title>
+      <s:price currency="USD">10.10</s:price>
+      <s:sku>MR1862099086</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417807893</id>
+      <title>1&quot; / 10 Yards/Reel / 955 Cadet Blue</title>
+      <s:price currency="USD">10.10</s:price>
+      <s:sku>MR1862100955</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77417971733</id>
+    <published>2020-10-07T13:16:15-04:00</published>
+    <updated>2020-10-07T13:16:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-belting-1-1-2-id-mr1861005"/>
+    <title>Wrights Belting - 1 1/2&quot; (ID: MR1861005)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861005028-wrights.jpg?v=1512853620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belting is available in 1 1/2" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417971733</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 028 Oyster</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>MR1861005028</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417971733</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>MR1861005030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417971733</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>MR1861005031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77417971733</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>MR1861005055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77418299413</id>
+    <published>2020-10-07T13:16:13-04:00</published>
+    <updated>2020-10-07T13:16:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-neon-belting-1-id-mr1862092"/>
+    <title>Wrights Neon Belting - 1&quot; (ID: MR1862092)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862092051-wrights_f6a0208d-437d-48f5-bf32-1dfbcf7ab7b7.jpg?v=1512853639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            7.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neon Belting is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Polypropylene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418299413</id>
+      <title>1&quot; / 10 Yards/Reel / 022 Bright Pink</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862093022</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418299413</id>
+      <title>1&quot; / 10 Yards/Reel / 038 Neon Green</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862095038</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418299413</id>
+      <title>1&quot; / 10 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862094046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418299413</id>
+      <title>1&quot; / 10 Yards/Reel / 051 Lavender</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862092051</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418299413</id>
+      <title>1&quot; / 10 Yards/Reel / 058 Orange</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862096058</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418299413</id>
+      <title>1&quot; / 10 Yards/Reel / 904 Hot Pink</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862131904</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77418496021</id>
+    <published>2020-10-07T13:16:12-04:00</published>
+    <updated>2020-10-07T13:16:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-webbing-2"/>
+    <title>Wrights Webbing - 2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861001030-wrights.jpg?v=1512853643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Webbing is available in 2" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Polypropylene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418496021</id>
+      <title>2&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>MR1861001030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418496021</id>
+      <title>2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>MR1861002031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77418692629</id>
+    <published>2020-10-07T13:16:10-04:00</published>
+    <updated>2020-10-07T13:16:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-webbing-1-id-mr1861066"/>
+    <title>Wrights Webbing - 1&quot; (ID: MR1861066)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861066031-wrights.jpg?v=1512853651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Webbing is available in 1" Width 15 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 100% Polypropylene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418692629</id>
+      <title>1&quot; / 15 Yards/Reel / 030 White</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>MR1861065030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418692629</id>
+      <title>1&quot; / 15 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>MR1861066031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418692629</id>
+      <title>1&quot; / 15 Yards/Reel / 047 Dark Grey</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>MR1861067047</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418692629</id>
+      <title>1&quot; / 15 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>MR1861068055</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418692629</id>
+      <title>1&quot; / 15 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>MR1861069065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418692629</id>
+      <title>1&quot; / 15 Yards/Reel / 073 Tan</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>MR1861070073</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418692629</id>
+      <title>1&quot; / 15 Yards/Reel / 928 Antique Gold</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>MR1861071928</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77427671061</id>
+    <published>2020-10-07T13:12:13-04:00</published>
+    <updated>2020-10-07T13:12:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-belting-2"/>
+    <title>Wrights Belting - 2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861200028-wrights.jpg?v=1512854443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belting is available in 2" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427671061</id>
+      <title>2&quot; / 10 Yards/Reel / 028 Oyster</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1861200028</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427671061</id>
+      <title>2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1861200031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77427965973</id>
+    <published>2020-10-07T13:12:10-04:00</published>
+    <updated>2020-10-07T13:12:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-webbing-1-id-mr1861203"/>
+    <title>Wrights Webbing - 1&quot; (ID: MR1861203)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861203030-wrights_d340afd2-1168-4bc7-b124-604712e09e92.jpg?v=1512854454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Webbing is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427965973</id>
+      <title>1&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861203030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427965973</id>
+      <title>1&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861203031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427965973</id>
+      <title>1&quot; / 10 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861203055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427965973</id>
+      <title>1&quot; / 10 Yards/Reel / 149 Camel</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861203149</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77428129813</id>
+    <published>2020-10-07T13:12:08-04:00</published>
+    <updated>2020-10-07T13:12:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-neon-belting-1-id-mr1862094"/>
+    <title>Wrights Neon Belting - 1&quot; (ID: MR1862094)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862094050-wrights.jpg?v=1512854458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            7.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neon Belting is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77428129813</id>
+      <title>1&quot; / 10 Yards/Reel / 050 Royal</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862094050</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77428129813</id>
+      <title>1&quot; / 10 Yards/Reel / 092 Seal Brown</title>
+      <s:price currency="USD">7.21</s:price>
+      <s:sku>MR1862094092</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79280701461</id>
+    <published>2020-10-07T12:41:00-04:00</published>
+    <updated>2020-10-07T12:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-solid-colors-spaghetti-straps"/>
+    <title>JKM Solid Colors Spaghetti Straps</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xstraps-solid-jkm.jpg?v=1513022371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            87.09 - 93.79
+            <a href="https://www.jkmribbon.com/products/jkm-solid-colors-spaghetti-straps">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our solid color spaghetti straps come in 18 beautiful colors and are available in the following sizes: 1/4" &amp; 3/8" widths on 145 yard rolls.<br>(Product Characteristic: Belting; Webbing; Straps) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Belting Bands &amp; Straps</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 10249 Hunter</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-110249</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 12153 Wedgewood</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-112153</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 1643 Misty Green</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-11643</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 1998 Mauve</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-11998</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 21392 Dusty Mauve</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-121392</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 2283 Grey</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-12283</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 2384 Blue</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-12384</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 5092 Baby Pink</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-15092</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 5291 Vibrant Pink</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-15291</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 5588 Burgundy</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-15588</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 6421 Yellow</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-16421</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 7198 Bel Blue</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-17198</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 9021 Navy</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-19021</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 9025 Royal</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-19025</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 9212 Khaki</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-19212</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 96186 Sea Blue</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-196186</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 9703 Red</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-19703</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>1/4&quot; / 145 Yards/Spool / 9999 Black</title>
+      <s:price currency="USD">87.09</s:price>
+      <s:sku>CESSPCC4-19999</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 10249 Hunter</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H10249</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 12153 Wedgewood</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H12153</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 1643 Misty Green</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H1643</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 1998 Mauve</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H1998</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 21392 Dusty Mauve</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H21392</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 2283 Grey</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H2283</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 2384 Blue</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H2384</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 5092 Baby Pink</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H5092</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 5291 Vibrant Pink</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H5291</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 5588 Burgundy</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H5588</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 6421 Yellow</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H6421</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 7198 Bel Blue</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H7198</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 9021 Navy</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H9021</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 9025 Royal</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H9025</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 9212 Khaki</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H9212</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 96186 Sea Blue</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H96186</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 9703 Red</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H9703</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79280701461</id>
+      <title>3/8&quot; / 145 Yards/Spool / 9999 Black</title>
+      <s:price currency="USD">93.79</s:price>
+      <s:sku>CESSPCC41H9999</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+</feed>

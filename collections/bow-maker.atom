@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/bow-maker.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-06T14:53:22-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77230407701</id>
+    <published>2020-10-06T14:53:22-04:00</published>
+    <updated>2020-10-06T14:53:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/c-g-bowmaker-with-video"/>
+    <title>C &amp; G Bowmaker with Video</title>
+    <s:type>Bows</s:type>
+    <s:vendor>C &amp; G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbowmaker-jkm_f5842eca-661c-481b-b3c6-c630c1686366.jpg?v=1512837450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C &amp; G<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            20.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make bows instantly. This is not the peg type bowmaker, but instead a unique bowmaker that really works! Small bows to large bows or any combination of size and type of ribbon can be accommodated. Spring loaded sections allow you to build a bow as you go. You are not limited to one size. You do not have to re-adjust to make another bow. It is automatic. Interrupted while making your bow?.......simply walk away and the spring action keeps your bow in place until you are ready to finish it. No bowmaking experience necessary. A step-by-step 30 minute video gives you the "hands-on" experience to begin making professional bows. A great help to those who have a hard time making bows. The perfect extra pair of hands that holds your bow as you create the effect you are looking for. A significant value with the bowmaker and a detailed "how to" video included at a reasonable price. No more high prices for ready made bows. The perfect gift for friends and family. And........you can reorder all the ribbons you like at wholesale prices from JKM Ribbon.<br>(Product Characteristic: Bowmaker; Slitter) / (Fabric Content: Plastic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bow Maker</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77230407701</id>
+      <title>As Shown / 1 Bowmaker/Box / BOWMAKER &amp; VIDEO</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>CGBOWDABRA</s:sku>
+      <s:grams>503</s:grams>
+    </s:variant>
+  </entry>
+</feed>

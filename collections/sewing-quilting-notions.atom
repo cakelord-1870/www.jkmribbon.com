@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/sewing-quilting-notions.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:11:24-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77432389653</id>
+    <published>2020-10-07T13:11:24-04:00</published>
+    <updated>2020-10-07T13:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-no-melt-mylar-template"/>
+    <title>Wrights No Melt Mylar Template</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x882670050-wrights.jpg?v=1512854612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            5.07 - 71.32
+            <a href="https://www.jkmribbon.com/products/wrights-no-melt-mylar-template">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No Melt Mylar Template is available in 12"x18" Width 1 Pc/Pkg, 25 Pkgs/Box is available in 50 Pcs/Pkg, 3 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432389653</id>
+      <title>12&quot;x18&quot; / 1 Pc/Pkg; 25 Pkgs/Box / 050 As Shown</title>
+      <s:price currency="USD">71.32</s:price>
+      <s:sku>MR882670050</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432389653</id>
+      <title>As Shown / 50 Pcs/Pkg; 3 Pkgs/Box / 160 As Shown</title>
+      <s:price currency="USD">5.07</s:price>
+      <s:sku>MR882670160</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77289390101</id>
+    <published>2017-12-09T12:39:33-05:00</published>
+    <updated>2017-12-09T12:39:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-hairpin-lace-tool"/>
+    <title>Wrights Hairpin Lace Tool</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x3707405B01-wrights-2011.jpg?v=1512841175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            9.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hairpin Lace Tool is availabe 1 piece per package and comes 3 packages per box.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77289390101</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / B01 Natural</title>
+      <s:price currency="USD">9.81</s:price>
+      <s:sku>MR3707405B01</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77289357333</id>
+    <published>2017-12-09T12:39:30-05:00</published>
+    <updated>2017-12-09T12:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-circular-knit-talley-counter"/>
+    <title>Wrights Circular Knit Talley Counter</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x3417347000-wrights-2011.jpg?v=1512841172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            7.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Circular Knit Talley Counter is available 1 piece per package and comes 3 packages per box.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77289357333</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / 000 As Shown</title>
+      <s:price currency="USD">7.55</s:price>
+      <s:sku>MR3417347000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77289324565</id>
+    <published>2017-12-09T12:39:27-05:00</published>
+    <updated>2017-12-09T12:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-yarn-talkers"/>
+    <title>Wrights Yarn Talkers</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x3412001079-wrights-2011.jpg?v=1512841169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            5.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yarn Talkers is available 1 piece per package and comes 3 packages per box.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77289324565</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / 079 Yellow</title>
+      <s:price currency="USD">5.05</s:price>
+      <s:sku>MR3412001079</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77289291797</id>
+    <published>2017-12-09T12:39:24-05:00</published>
+    <updated>2017-12-09T12:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-3-in-1-gauge"/>
+    <title>Wrights 3 in 1 Gauge</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x3401003001-wrights-2011.jpg?v=1512841166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            7.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 in 1 Gauge is available 1 piece per package and comes 3 packages per box.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77289291797</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / 001 As Shown</title>
+      <s:price currency="USD">7.73</s:price>
+      <s:sku>MR3401003001</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77289095189</id>
+    <published>2017-12-09T12:39:08-05:00</published>
+    <updated>2017-12-09T12:39:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-square-4-1-2"/>
+    <title>Wrights Simpli-EZ Square - 4 1/2&quot;</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8828001-wrights.jpg?v=1512841151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            19.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ Square - 41/2" is a 4 1/2" x 4 1/2" square ruler and is available 1 piece per package, 3 packages per box. Designed by Darlene Zimmerman, the ruler is marked in black for right handed users and in red for left handed users. The markings are in 1/4" increments and the numbers read correctly any way the ruler is turned. There are 45 degree lines for centering when squaring up blocks. This ruler is useful for cutting squares and trimming blocks to size.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77289095189</id>
+      <title>4 1/2&quot; / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>MR8828001</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77289062421</id>
+    <published>2017-12-09T12:39:05-05:00</published>
+    <updated>2017-12-09T12:39:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-easy-dresden-quilt-set"/>
+    <title>Wrights Easy Dresden Quilt Set</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x882700-wrights.jpg?v=1512841147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            5.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy Dresden Quilt Set is available in 1 Pc/Pkg, 1 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77289062421</id>
+      <title>As Shown / 1 Pc/Pkg; 1 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">5.41</s:price>
+      <s:sku>MR882700</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77289029653</id>
+    <published>2017-12-09T12:39:02-05:00</published>
+    <updated>2017-12-09T12:39:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-easy-star-geese-acrylic"/>
+    <title>Wrights Easy Star + Geese Acrylic</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8823748-wrights.jpg?v=1512841144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            26.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy Star + Geese Acrylic is available in 1 Pc/Pkg, 3 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77289029653</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">26.03</s:price>
+      <s:sku>MR8823748</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77288996885</id>
+    <published>2017-12-09T12:38:58-05:00</published>
+    <updated>2017-12-09T12:38:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-fat-cats-acrylic"/>
+    <title>Wrights Fat Cats Acrylic</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8823747-wrights.jpg?v=1512841141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            24.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fat Cats Acrylic is available in 1 Pc/Pkg, 3 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77288996885</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">24.96</s:price>
+      <s:sku>MR8823747</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77288964117</id>
+    <published>2017-12-09T12:38:55-05:00</published>
+    <updated>2017-12-09T12:38:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simply-crazy-tool"/>
+    <title>Wrights Simply Crazy Tool</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8823746-wrights.jpg?v=1512841138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            14.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply Crazy Tool is available in 1 Pc/Pkg, 3 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77288964117</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">14.38</s:price>
+      <s:sku>MR8823746</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77288931349</id>
+    <published>2017-12-09T12:38:52-05:00</published>
+    <updated>2017-12-09T12:38:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-easy-heart-tool"/>
+    <title>Wrights Easy Heart Tool</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8823745-wrights.jpg?v=1512841134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            44.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy Heart Tool is available in 1 Pc/Pkg, 3 Pkgs/Box<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77288931349</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">44.10</s:price>
+      <s:sku>MR8823745</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77263077397</id>
+    <published>2017-12-09T12:11:17-05:00</published>
+    <updated>2017-12-09T12:11:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-flip-n-set"/>
+    <title>Wrights Simpli-EZ Flip-n-Set</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829414-wrights-2011.jpg?v=1512839480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            72.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ Flip-n-Set is available 1 piece per package, 3 packages per box. Designed by Darlene Zimmerman, it can cut triangles to setting blocks on point. It folds open to cut triangles for 4" to 16" blocks. There is no math to figure. It can be used to square corners on quilts.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77263077397</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">72.81</s:price>
+      <s:sku>MR8829414</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77263044629</id>
+    <published>2017-12-09T12:11:14-05:00</published>
+    <updated>2017-12-09T12:11:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-tri-mate"/>
+    <title>Wrights Simpli-EZ Tri-Mate</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829416-wrights-2011.jpg?v=1512839477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ Tri-Mate is available 1 piece per package, 3 packages per box. Designed by Joy Hoffman, it is ideal for use with a rotary cutter. You can cut triangles 4 times as wide as they are tall and with finished heights from 1/2" to 3". Use with Tri-Recs tool for more design options.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77263044629</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">23.95</s:price>
+      <s:sku>MR8829416</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77263011861</id>
+    <published>2017-12-09T12:11:11-05:00</published>
+    <updated>2017-12-09T12:11:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-pineapple"/>
+    <title>Wrights Simpli-EZ Pineapple</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829417-wrights-2011.jpg?v=1512839474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            66.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ Pineapple is available 1 piece per package, 3 packages per box. Designed by Kimberly Einmo, you can make pineapple blocks with no math, no trapezoids, no stress and make blocks in almost unlimited range of sizes. Make both traditional and non-traditional pineapple blocks. It also makes log cabin, album style and many other quilt blocks quickly and easily.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77263011861</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">66.33</s:price>
+      <s:sku>MR8829417</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262979093</id>
+    <published>2017-12-09T12:11:08-05:00</published>
+    <updated>2017-12-09T12:11:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-piping-wizard"/>
+    <title>Wrights Simpli-EZ Piping Wizard</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829424-wrights-2011.jpg?v=1512839470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            46.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ Piping Wizard is available 1 piece per package, 3 packages per box. Designed by Linda McGehee allows you to cut perfect seam allowances after covering the piping cord. It can be used with multiple sizes of cording and seam allowance. Always a perfect seam allowance. After making the corded piping, trim the seam allowance to the perfect 1/4" or 1/2". Great for working with piping for quilts, garments and craft projects.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262979093</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">46.12</s:price>
+      <s:sku>MR8829424</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262946325</id>
+    <published>2017-12-09T12:11:05-05:00</published>
+    <updated>2017-12-09T12:11:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-45-degree-triangle-6-1-2"/>
+    <title>Wrights Simpli-EZ 45 Degree Triangle - 6 1/2&quot;</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829421-wrights-2011.jpg?v=1512839467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            20.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ 45 Degree Triangle is available 1 piece per package, 3 packages per box. Designed by Darlene Zimmerman, it is great for use with Kaleidoscope quilts. There are many sizes in this one tool.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262946325</id>
+      <title>6 1/2&quot; / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">20.86</s:price>
+      <s:sku>MR8829421</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262913557</id>
+    <published>2017-12-09T12:11:02-05:00</published>
+    <updated>2017-12-09T12:11:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-30-degree-triangle-9-1-2"/>
+    <title>Wrights Simpli-EZ 30 Degree Triangle - 9 1/2&quot;</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829418-wrights-2011.jpg?v=1512839464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            25.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ 30 Degree Triangle is available 1 piece per package, 3 packages per box. Designed by Darlene Zimmerman, for Dresden plates and fans, it eliminates the need for center applique, can be finished with curved edges or points, has many sizes in this one tool and uses even size strips.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262913557</id>
+      <title>9 1/2&quot; / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">25.62</s:price>
+      <s:sku>MR8829418</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262880789</id>
+    <published>2017-12-09T12:10:59-05:00</published>
+    <updated>2017-12-09T12:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-double-wedding-ring"/>
+    <title>Wrights Simpli-EZ Double Wedding Ring</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829419-wrights-2011.jpg?v=1512839461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            38.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ Double Wedding Ring is available 1 piece per package, 3 packages per box. Designed by Darlene Zimmerman, it is one tool that centers, melons and squares. Inside curvers are cut as easily as outside curves using this tool. A and B units can be cut from strips or squares.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262880789</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">38.63</s:price>
+      <s:sku>MR8829419</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262848021</id>
+    <published>2017-12-09T12:10:55-05:00</published>
+    <updated>2017-12-09T12:10:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-simpli-ez-jelly-roll-ruler-5-x-10"/>
+    <title>Wrights Simpli-EZ Jelly Roll Ruler 5&quot; x 10&quot;</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829425-wrights-2011.jpg?v=1512839458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            34.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simpli-EZ Jelly Roll Ruler is 5" x 10" and is available 1 piece per package, 3 packages per box. Designed by Kimberly Einmo, it is perfect for cutting 10" Layer Cke Squares into many coordinating units for use with Jelly Rolls, Honey Buns and Charm Packs. The "Ghost Shadow" on the 1 1/2", 2 1/2" and 5" lines in Aqua Mint ink line up perfectly for: cutting 1 1/2" Honey Bun Strips into Squares and rectangles; cutting 2 1/2" Jelly Roll Strip into squares and rectangles; and cutting 10" Layer Cake squares into squares, rectangles and triangles.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262848021</id>
+      <title>5&quot; x 10&quot; / 1 Pc/Pkg; 3 Pkg/Box / As Shown</title>
+      <s:price currency="USD">34.17</s:price>
+      <s:sku>MR8829425</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77254885397</id>
+    <published>2017-12-09T12:04:39-05:00</published>
+    <updated>2017-12-09T12:04:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-45-colored-diamond-template"/>
+    <title>Wrights 45° Colored Diamond Template</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x882670183-wrights-new.png?v=1538063862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            15.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 45° colored diamond template comes with 1 piece per package. 3 packages per box. Product Details: These colored acrylic templates cut shapes in multiple sizes. Perfect for quilting, sewing, crafts and even scrapbooking.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: 100% Acrylic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77254885397</id>
+      <title>45 Degree / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">15.57</s:price>
+      <s:sku>MR882670183</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77254852629</id>
+    <published>2017-12-09T12:04:35-05:00</published>
+    <updated>2017-12-09T12:04:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-easy-circle-cut-acrylic"/>
+    <title>Wrights Easy Circle Cut Acrylic</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8823749-wrights.jpg?v=1512839078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            34.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our easy circle cut acrylic comes with 1 piece per package. 3 packages per box. Product Details: Rotary cut circles up to 10" for quilting, crafting and art projects. Circle sizes include 1/4" seam allowance.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: 100% Acrylic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77254852629</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">34.23</s:price>
+      <s:sku>MR8823749</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77236338709</id>
+    <published>2017-12-09T11:43:54-05:00</published>
+    <updated>2017-12-09T11:43:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-45-colored-petal-template"/>
+    <title>Wrights 45° Colored Petal Template</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x882670189-wrights-new.png?v=1538063828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            14.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 45° colored petal template comes with 1 piece per package. 3 packages per box. Product Details: These colored acrylic templates cut shapes in multiple sizes. Perfect for quilting, sewing, crafts and even scrapbooking.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: 100% Acrylic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77236338709</id>
+      <title>45 Degree / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">14.06</s:price>
+      <s:sku>MR882670189</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77236305941</id>
+    <published>2017-12-09T11:43:51-05:00</published>
+    <updated>2017-12-09T11:43:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-glass-head-pins-1-1-4-width"/>
+    <title>Wrights Glass Head Pins - 1 1/4&quot; Width</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8814266-wrights-new.png?v=1538063828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            6.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our glass head pins comes with 150 pieces per package. 3 packages per box. Product Details: Pins measure 1.25" (3mm). Glass head is safe to iron over.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: 40% Glass 60% Steel)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77236305941</id>
+      <title>1 1/4&quot; / 150 Pcs/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">6.19</s:price>
+      <s:sku>MR881426</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77234896917</id>
+    <published>2017-12-09T11:42:00-05:00</published>
+    <updated>2017-12-09T11:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-easy-dresden"/>
+    <title>Wrights Easy Dresden</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x8829306-wrights.jpg?v=1512837723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            14.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our easy dresden comes with 1 piece per package. 3 packages per box. Product Details: Can be used for Dresden plates, grandmother's fans, tumblers and ice cream borders. Cuts multiple sizes and a variety of designs. Easy to use for beginners and experienced quilters alike. Includes Dresden Spokes pattern. Built-in 1/4" seam allowance. Ideal for use with a rotary cutter.<br>(Product Characteristic: Sewing; Quilting Tools) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77234896917</id>
+      <title>As Shown / 1 Pc/Pkg; 3 Pkgs/Box / As Shown</title>
+      <s:price currency="USD">14.26</s:price>
+      <s:sku>MR8829306</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77234864149</id>
+    <published>2017-12-09T11:41:56-05:00</published>
+    <updated>2017-12-09T11:41:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-dear-jane-book"/>
+    <title>Wrights Dear Jane Book</title>
+    <s:type>Sewing &amp; Quiltinq</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x882670199-wrights.jpg?v=1512837719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Sewing &amp; Quiltinq<br>
+        <strong>Price: </strong>
+            16.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our dear jane book comes with 1 piece per package. 1 package per box. Product Details: Calling all lovers of quilts, patterns and quilt history! In Dear Jane, a twentieth century quilting teacher meets a nineteenth century quiltmaker. Brenda Manges Papadakis has lovingly recreated the two hundred twenty five patterns from the celebrated Jane A. Blakely Stickle quilt. Accompanying the patterns are a remarkable series of letters from Brenda to Jane, drawing us into the historical context of Jane's achievement and connecting her to our quilting lives today. Among the patterns and letters you will find a dozen quilts from the 1990's, all inspired by Jane's supreme example of quiltmaking artistry in 1863. Brenda's meticulous research has been a devoted labor of love, not only for a splendid quilt but also for the woman who created it. You will be moved by her letters to Jane, and enlightened about the times in which she lived. You will also be kept delightfully busy with the large collection of block which challenge you to create your own Baby Jane quilt. *© 2002 EZ Quilting® by Wrights® West Warren, MA 01092<br>(Product Characteristic: How To Books; Kits) / (Fabric Content: 100% Paper)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sewing &amp; Quilting Notions</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77234864149</id>
+      <title>As Shown / 1 Pc/Pkg; 1 Pkg/Box / As Shown</title>
+      <s:price currency="USD">16.05</s:price>
+      <s:sku>MR882670199</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

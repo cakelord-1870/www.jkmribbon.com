@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/valentine-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:18:29-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412696085</id>
+    <published>2020-10-07T13:18:29-04:00</published>
+    <updated>2020-10-07T13:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pink-passion-ribbon-with-wire-edge"/>
+    <title>JKM Pink Passion Ribbon with Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x97369w-jkm.jpg?v=1512853048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            24.02 - 33.30
+            <a href="https://www.jkmribbon.com/products/jkm-pink-passion-ribbon-with-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our pink passion ribbon with wire edge comes in one beautiful color and is available in 1-1/2" &amp; 2-1/2" width on 20 yard spools.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412696085</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">24.02</s:price>
+      <s:sku>RE97369W061-09H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412696085</id>
+      <title>2 1/2&quot; / 20 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">33.30</s:price>
+      <s:sku>RE97369W061-40H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461028885</id>
+    <published>2020-10-07T12:50:39-04:00</published>
+    <updated>2020-10-07T12:50:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-hearts-with-wire-edge"/>
+    <title>JKM Sheer Hearts with Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x525-01-harvest.gif?v=1512857511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            10.85 - 13.02
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-hearts-with-wire-edge">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Hearts with Wire Edge is available in 1 1/2" and 2 1/2" Widths on 25 yards spools.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461028885</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red with White Heart Print/Wire Edge</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA525-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461028885</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Red Heart Print/Wire Edge</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA525-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461028885</id>
+      <title>2 1/2&quot; / 25 Yards/Spool / Red with White Heart Print/Wire Edge</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HA526-12</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461028885</id>
+      <title>2 1/2&quot; / 25 Yards/Spool / White with Red Heart Print/Wire Edge</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HA526-01</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461061653</id>
+    <published>2020-10-07T12:50:38-04:00</published>
+    <updated>2020-10-07T12:50:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-red-with-hearts-and-wire-edge"/>
+    <title>JKM Sheer Red with Hearts and Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x522-121-harvest.gif?v=1512857516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            10.85 - 13.02
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-red-with-hearts-and-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Red with Hearts and Wire Edge is available in 1 1/2" and 2 1/2" Widths on 25 yard rolls.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461061653</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red with White Heart Print/Wire Edge</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA522-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461061653</id>
+      <title>2 1/2&quot; / 25 Yards/Spool / Red with White Heart Print/Wire Edge</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HA523-12</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461094421</id>
+    <published>2020-10-07T12:50:37-04:00</published>
+    <updated>2020-10-07T12:50:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-solid-hearts-on-sheer-with-wire-edge-2-1-2-width"/>
+    <title>JKM Solid Hearts on Sheer with Wire Edge - 2 1/2&quot; Width</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x385-01-harvest.gif?v=1512857522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solid Hearts on Sheer with Wire Edge - 2 1/2" Width is available on a 10 yard roll.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461094421</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Clear with Red Hearts/Wire Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA385-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461094421</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Red with Red Hearts/Wire Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA385-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461127189</id>
+    <published>2020-10-07T12:50:36-04:00</published>
+    <updated>2020-10-07T12:50:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-satin-and-sheer-hearts-with-wire-edge"/>
+    <title>JKM Satin and Sheer Hearts with Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x383-01-harvest.gif?v=1512857528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            5.42 - 5.97
+            <a href="https://www.jkmribbon.com/products/jkm-satin-and-sheer-hearts-with-wire-edge">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Satin and Sheer Hearts with Wire Edge is available in 1" and 1 1/2" Widths on 10 yard spools.<br>(Product Characteristic: Satin and Sheer Combo) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461127189</id>
+      <title>1&quot; / 10 Yards/Spool / Red with Red Heart/Wire Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA383-12</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461127189</id>
+      <title>1&quot; / 10 Yards/Spool / White with Red Heart/Wire Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA383-01</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461127189</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Red with Red Heart/Wire Edge</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA384-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461159957</id>
+    <published>2020-10-07T12:50:35-04:00</published>
+    <updated>2020-10-07T12:50:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-random-hearts-on-sheer-ribbon-3-8-width"/>
+    <title>JKM Random Hearts on Sheer Ribbon - 3/8&quot; Width</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x376-051-harvest.gif?v=1512857534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            5.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Random Hearts on Sheer Ribbon - 3/8" Width<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461159957</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink with White Heart Print</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA376-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461159957</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red with White Heart Print</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA376-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461159957</id>
+      <title>3/8&quot; / 25 Yards/Spool / White with White Heart Print</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA376-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461192725</id>
+    <published>2020-10-07T12:50:34-04:00</published>
+    <updated>2020-10-07T12:50:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-lots-of-hearts-on-sheer-ribbon-5-8-width"/>
+    <title>JKM Lots of Hearts on Sheer Ribbon - 5/8&quot; Width</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x423-05-harvest.gif?v=1512857542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            5.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lots of Hearts on Sheer Ribbon - 5/8" Width is available on 25 yard spools in assorted sheer colors.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461192725</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Ivory Hearts on Edge Ribbon</title>
+      <s:price currency="USD">5.64</s:price>
+      <s:sku>HA423-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461192725</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Light Blue Hearts on Edge Ribbon</title>
+      <s:price currency="USD">5.64</s:price>
+      <s:sku>HA423-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461192725</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Pink Hearts on Edge Ribbon</title>
+      <s:price currency="USD">5.64</s:price>
+      <s:sku>HA423-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461192725</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Red Hearts on Edge Ribbon</title>
+      <s:price currency="USD">5.64</s:price>
+      <s:sku>HA423-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461192725</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / White Hearts on Edge Ribbon</title>
+      <s:price currency="USD">5.64</s:price>
+      <s:sku>HA423-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461225493</id>
+    <published>2020-10-07T12:50:33-04:00</published>
+    <updated>2020-10-07T12:50:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-with-hearts-on-the-edge-1-1-2-width"/>
+    <title>JKM Sheer with Hearts on the Edge - 1 1/2&quot; Width</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x403-091-harvest.gif?v=1512857550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            8.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer with Hearts on the Edge - 1 1/2" Width on 10 yard spools are available in assorted colors.<br>(Product Characteristic: Other Valentine Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461225493</id>
+      <title>5/8&quot; / 25 Yards/Spool / Fuchsia with Heart</title>
+      <s:price currency="USD">8.57</s:price>
+      <s:sku>HA403-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461225493</id>
+      <title>5/8&quot; / 25 Yards/Spool / Ivory with Heart</title>
+      <s:price currency="USD">8.57</s:price>
+      <s:sku>HA403-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461225493</id>
+      <title>5/8&quot; / 25 Yards/Spool / Orange with Heart</title>
+      <s:price currency="USD">8.57</s:price>
+      <s:sku>HA403-33</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461225493</id>
+      <title>5/8&quot; / 25 Yards/Spool / Red with Heart</title>
+      <s:price currency="USD">8.57</s:price>
+      <s:sku>HA403-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461225493</id>
+      <title>5/8&quot; / 25 Yards/Spool / Yellow with Heart</title>
+      <s:price currency="USD">8.57</s:price>
+      <s:sku>HA403-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1952383762519</id>
+    <published>2020-10-07T12:16:09-04:00</published>
+    <updated>2020-10-07T12:16:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-adore-wire-edge"/>
+    <title>Morex Adore Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xadore-wired-ribbon.jpg?v=1547597990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            12.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adore Valentine's Day… This glittered sheer wired ribbon will add not only a fun design but also provide a great value in a larger roll. <br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: 98% Polyester 2% Wired)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1952383762519</id>
+      <title>2 1/2&quot; / 50 Yards/Spool / 609 White/Red</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>MO710860-50-609</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1952383828055</id>
+    <published>2020-10-07T12:16:08-04:00</published>
+    <updated>2020-10-07T12:16:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-kiss-me-wire-edge"/>
+    <title>Morex Kiss Me Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xkiss-me-wired-ribbon.jpg?v=1547597991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            11.75 - 16.45
+            <a href="https://www.jkmribbon.com/products/morex-kiss-me-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say no more, Just Kiss Me! For Valentine's day or any time, our new whimsical Kiss Me wire edge ribbon is available in two popular sizes. Sweet kisses are a perfect lipstick hot pink on a white satin background wired ribbon. <br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1952383828055</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 022 Pink/White</title>
+      <s:price currency="USD">11.75</s:price>
+      <s:sku>MO710640-25-022</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1952383828055</id>
+      <title>2 1/2&quot; / 25 Yards/Spool / 022 Pink/White</title>
+      <s:price currency="USD">16.45</s:price>
+      <s:sku>MO710660-25-022</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1952383795287</id>
+    <published>2020-10-07T12:16:08-04:00</published>
+    <updated>2020-10-07T12:16:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-forever-more-wire-edge"/>
+    <title>Morex Forever More Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xforever-more-wired-ribbon.jpg?v=1547597991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            10.05 - 12.90
+            <a href="https://www.jkmribbon.com/products/morex-forever-more-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You shall love Forever More! Top trending glistening red foil adores this sheer wired ribbon. Heart and swirls delight to add a modern twist to this Valentine pattern. Our new Forever More design is not only a great pattern, it is available in two popular sizes and a great value on a larger put up. <br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: 98% Polyester 2% Wired)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1952383795287</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / 609 Red/Red</title>
+      <s:price currency="USD">10.05</s:price>
+      <s:sku>MO710940-50-609</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1952383795287</id>
+      <title>2 1/2&quot; / 50 Yards/Spool / 609 Red/Red</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>MO710960-50-609</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1952383860823</id>
+    <published>2020-10-07T12:16:07-04:00</published>
+    <updated>2020-10-07T12:16:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-tender-heart"/>
+    <title>Morex Tender Heart</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xtender-heart-ribbon.jpg?v=1547597991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            7.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tender Heart is a beautiful 5/8" grosgrain ribbon offered in pink or red with hot-pink and pink hearts. This romantic ribbon is perfect for Valentine's Day, special occasions, and any project where you want to show your love.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1952383860823</id>
+      <title>5/8&quot; / 20 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">7.05</s:price>
+      <s:sku>MO92203-20-022</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1952383860823</id>
+      <title>5/8&quot; / 20 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">7.05</s:price>
+      <s:sku>MO92203-20-609</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77305151509</id>
+    <published>2017-12-09T12:55:54-05:00</published>
+    <updated>2017-12-09T12:55:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-satin-with-double-hearts-3-8-width"/>
+    <title>JKM Satin with Double Hearts - 3/8&quot; Width</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x380-HEART1-harvest.gif?v=1512842157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Satin with Double Hearts - 3/8" Width is available on 50 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Valentine Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77305151509</id>
+      <title>3/8&quot; / 50 Yards/Spool / White Satin with Red Heart</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA380-HEART</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+</feed>

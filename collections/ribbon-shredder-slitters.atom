@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/ribbon-shredder-slitters.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T11:37:31-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77230571541</id>
+    <published>2017-12-09T11:37:31-05:00</published>
+    <updated>2017-12-09T11:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-poly-satin-ribbon-shredder"/>
+    <title>Morex Poly Satin Ribbon Shredder</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xshredder-morex.jpg?v=1512837454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            2.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The McPack poly satin ribbon shredder from Morex is the perfect tool for personalizing and enhancing curling ribbon projects.<br>(Product Characteristic: Bowmaker; Slitter) / (Fabric Content: Plastic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ribbon Shredder &amp; Slitters</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77230571541</id>
+      <title>As Shown / 1 Pc/Pkg; 1 Pkg/Box / As Shown</title>
+      <s:price currency="USD">2.32</s:price>
+      <s:sku>MO204</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

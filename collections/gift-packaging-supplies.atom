@@ -1,0 +1,2704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/gift-packaging-supplies.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:19:07-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77411614741</id>
+    <published>2020-10-07T13:19:07-04:00</published>
+    <updated>2020-10-07T13:19:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-two-tone-pouches"/>
+    <title>JKM Two Tone Pouches</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x25090-jkm.jpg?v=1512852913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            7.23 - 13.55
+            <a href="https://www.jkmribbon.com/products/jkm-two-tone-pouches">(25 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our two tone pouch comes in 5 beautiful colors and the following sizes: 3" x 4", 4" x 5 1/2", 5" x 6 1/2", 6" x 14", 8" x 10". 12 pieces per package, 1 package per box.<br>(Product Characteristic: Gift Bags) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pouches</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>As Shown / 12 Pcs/Pkg; 1 Pkg/Box / 044 Green</title>
+      <s:price currency="USD">7.23</s:price>
+      <s:sku>RE25090-044-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>As Shown / 12 Pcs/Pkg; 1 Pkg/Box / 053 Blue</title>
+      <s:price currency="USD">7.23</s:price>
+      <s:sku>RE25090-053-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>As Shown / 12 Pcs/Pkg; 1 Pkg/Box / 058 Orange</title>
+      <s:price currency="USD">7.23</s:price>
+      <s:sku>RE25090-058-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>As Shown / 12 Pcs/Pkg; 1 Pkg/Box / 217 Raspberry</title>
+      <s:price currency="USD">7.23</s:price>
+      <s:sku>RE25090-217-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>As Shown / 12 Pcs/Pkg; 1 Pkg/Box / 940 Violet</title>
+      <s:price currency="USD">7.23</s:price>
+      <s:sku>RE25090-940-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>4&quot;x5 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 044 Green</title>
+      <s:price currency="USD">8.13</s:price>
+      <s:sku>RE25090-044-5</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>4&quot;x5 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 053 Blue</title>
+      <s:price currency="USD">8.13</s:price>
+      <s:sku>RE25090-053-5</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>4&quot;x5 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 058 Orange</title>
+      <s:price currency="USD">8.13</s:price>
+      <s:sku>RE25090-058-5</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>4&quot;x5 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 217 Raspberry</title>
+      <s:price currency="USD">8.13</s:price>
+      <s:sku>RE25090-217-5</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>4&quot;x5 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 940 Violet</title>
+      <s:price currency="USD">8.13</s:price>
+      <s:sku>RE25090-940-5</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>5&quot;x6 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 044 Green</title>
+      <s:price currency="USD">10.84</s:price>
+      <s:sku>RE25090-044-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>5&quot;x6 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 053 Blue</title>
+      <s:price currency="USD">10.84</s:price>
+      <s:sku>RE25090-053-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>5&quot;x6 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 058 Orange</title>
+      <s:price currency="USD">10.84</s:price>
+      <s:sku>RE25090-058-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>5&quot;x6 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 217 Raspberry</title>
+      <s:price currency="USD">10.84</s:price>
+      <s:sku>RE25090-217-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>5&quot;x6 1/2&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 940 Violet</title>
+      <s:price currency="USD">10.84</s:price>
+      <s:sku>RE25090-940-6</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>6&quot;x14&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 044 Green</title>
+      <s:price currency="USD">12.64</s:price>
+      <s:sku>RE25090-044-14</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>6&quot;x14&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 053 Blue</title>
+      <s:price currency="USD">12.64</s:price>
+      <s:sku>RE25090-053-14</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>6&quot;x14&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 058 Orange</title>
+      <s:price currency="USD">12.64</s:price>
+      <s:sku>RE25090-058-14</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>6&quot;x14&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 217 Raspberry</title>
+      <s:price currency="USD">12.64</s:price>
+      <s:sku>RE25090-217-14</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>6&quot;x14&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 940 Violet</title>
+      <s:price currency="USD">12.64</s:price>
+      <s:sku>RE25090-940-14</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>8&quot;x10&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 044 Green</title>
+      <s:price currency="USD">13.55</s:price>
+      <s:sku>RE25090-044-10</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>8&quot;x10&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 053 Blue</title>
+      <s:price currency="USD">13.55</s:price>
+      <s:sku>RE25090-053-10</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>8&quot;x10&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 058 Orange</title>
+      <s:price currency="USD">13.55</s:price>
+      <s:sku>RE25090-058-10</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>8&quot;x10&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 217 Raspberry</title>
+      <s:price currency="USD">13.55</s:price>
+      <s:sku>RE25090-217-10</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411614741</id>
+      <title>8&quot;x10&quot; / 12 Pcs/Pkg; 1 Pkg/Box / 940 Violet</title>
+      <s:price currency="USD">13.55</s:price>
+      <s:sku>RE25090-940-10</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77437796373</id>
+    <published>2020-10-07T13:07:51-04:00</published>
+    <updated>2020-10-07T13:07:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sequined-gift-bag-purse"/>
+    <title>JKM Sequined Gift Bag Purse</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB176group1-harvest.gif?v=1512855207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            14.94 - 149.43
+            <a href="https://www.jkmribbon.com/products/jkm-sequined-gift-bag-purse">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Gift Purses with coordinating sequins are available in size 4 1/4" x 3 3/4" in assorted colors in small and bulk quantities.<br>(Product Characteristic: Sequins; Jewels; Beads) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB176-39-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 12 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB176-09-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB176-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB176-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB176-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB176-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB176-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 120 Pcs/Box / Black</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB176-39-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 120 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB176-09-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB176-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB176-11-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB176-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB176-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437796373</id>
+      <title>4 1/4&quot; x 3 3/4&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB176-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77437861909</id>
+    <published>2020-10-07T13:07:48-04:00</published>
+    <updated>2020-10-07T13:07:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-embroidered-cross"/>
+    <title>JKM Sheer Bags with Embroidered Cross</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb085-05-harvest.gif?v=1512855223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            10.87 - 122.26
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-embroidered-cross">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Gift Bag with ribbon tie comes in 3 1/4" x 4 3/4" and 4" x 6" in several bag and embroidered cross colors available in small and bulk quantities.<br>(Product Characteristic: Embroidered Design) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 12 Pcs/Box / Ivory with Gold Cross</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB084-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 12 Pcs/Box / Ivory with Silver Cross</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB084-42-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 12 Pcs/Box / Light Blue with Gold Cross</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB084-20-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 12 Pcs/Box / Pink with Gold Cross</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB084-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 12 Pcs/Box / White with Gold Cross</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB084-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 12 Pcs/Box / White with Silver Cross</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB084-44-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 120 Pcs/Box / Ivory with Gold Cross</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB084-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 120 Pcs/Box / Ivory with Silver Cross</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB084-42-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 120 Pcs/Box / Light Blue with Gold Cross</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB084-20-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 120 Pcs/Box / Pink with Gold Cross</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB084-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 120 Pcs/Box / White with Gold Cross</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB084-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>3 1/4&quot; X 4 3/4&quot; / 120 Pcs/Box / White with Silver Cross</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB084-44-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Ivory with Gold Cross</title>
+      <s:price currency="USD">12.23</s:price>
+      <s:sku>HAB085-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Light Blue with Gold Cross</title>
+      <s:price currency="USD">12.23</s:price>
+      <s:sku>HAB085-20-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Pink with Gold Cross</title>
+      <s:price currency="USD">12.23</s:price>
+      <s:sku>HAB085-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / White with Gold Cross</title>
+      <s:price currency="USD">12.23</s:price>
+      <s:sku>HAB085-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Ivory with Gold Cross</title>
+      <s:price currency="USD">122.26</s:price>
+      <s:sku>HAB085-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Light Blue with Gold Cross</title>
+      <s:price currency="USD">122.26</s:price>
+      <s:sku>HAB085-20-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Pink with Gold Cross</title>
+      <s:price currency="USD">122.26</s:price>
+      <s:sku>HAB085-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437861909</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / White with Gold Cross</title>
+      <s:price currency="USD">122.26</s:price>
+      <s:sku>HAB085-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77437894677</id>
+    <published>2020-10-07T13:07:46-04:00</published>
+    <updated>2020-10-07T13:07:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-beads-cross"/>
+    <title>JKM Sheer Bags with Beads &amp; Cross</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb985-01-harvest.gif?v=1512855229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            33.96 - 285.28
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-beads-cross">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Gift Bag with ribbon tie and beads comes in 3" x 4 1/2" and 5 1/2" x 6" in small and bulk quantities.<br>(Product Characteristic: Embroidered Design) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437894677</id>
+      <title>3&quot; x 4 1/2&quot; / 12 Pcs/Box / White with Beads/Gold Cross</title>
+      <s:price currency="USD">33.96</s:price>
+      <s:sku>HAB985-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437894677</id>
+      <title>3&quot; x 4 1/2&quot; / 72 Pcs/Box / White with Beads/Gold Cross</title>
+      <s:price currency="USD">203.77</s:price>
+      <s:sku>HAB985-01-72PCS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437894677</id>
+      <title>5 1/2&quot; x 6&quot; / 12 Pcs/Box / White with Beads/Gold Cross</title>
+      <s:price currency="USD">47.55</s:price>
+      <s:sku>HAB986-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437894677</id>
+      <title>5 1/2&quot; x 6&quot; / 72 Pcs/Box / White with Beads/Gold Cross</title>
+      <s:price currency="USD">285.28</s:price>
+      <s:sku>HAB986-01-72PCS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77437927445</id>
+    <published>2020-10-07T13:07:43-04:00</published>
+    <updated>2020-10-07T13:07:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-embroidered-designs"/>
+    <title>JKM Sheer Bags with Embroidered Designs</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb086-08-harvest.gif?v=1512855242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            9.51 - 108.68
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-embroidered-designs">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Gift Bags with embroidered designs come in several sizes and colors in small and bulk quantities.<br>(Product Characteristic: Embroidered Design) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Black with Lavender Flower</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB086-39-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Ivory with Forget Me Not Flower</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB086-04-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Ivory with Lavender Flower</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB086-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Ivory with Red Heart</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB086-08-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Lavender with Lavender Flower</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB086-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Black with Lavender Flower</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB086-39-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Ivory with Forget Me Not Flower</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB086-04-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Ivory with Lavender Flower</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB086-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Ivory with Red Heart</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB086-08-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Lavender with Lavender Flower</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB086-11-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Ivory with Forget Me Not Flower</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB786-04-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Ivory with Lavender Flower</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB786-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Ivory with Red Heart</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB786-08-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Lavender with Lavender Flower</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB786-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Ivory with Forget Me Not Flower</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB786-04-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Ivory with Lavender Flower</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB786-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Ivory with Red Heart</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB786-08-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77437927445</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Lavender with Lavender Flower</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB786-11-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77438025749</id>
+    <published>2020-10-07T13:07:41-04:00</published>
+    <updated>2020-10-07T13:07:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-sequins"/>
+    <title>JKM Sheer Bags with Sequins</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb759-harvest.gif?v=1512855252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            19.02 - 190.19
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-bags-with-sequins">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Gift Bags with embroidered sequin designs are 5" x 7" available in small and bulk quantities.<br>(Product Characteristic: Sequins; Jewels; Beads) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / White Sheer w Gold Embroid/Circle Sequin</title>
+      <s:price currency="USD">19.02</s:price>
+      <s:sku>HAB759-74-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / White Sheer w Gold Embroid/Pattern Sequin</title>
+      <s:price currency="USD">19.02</s:price>
+      <s:sku>HAB759-75-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / White Sheer w Gold Embroid/Sequin</title>
+      <s:price currency="USD">19.02</s:price>
+      <s:sku>HAB759-73-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / White Sheer w Silver Embroid/Sequin</title>
+      <s:price currency="USD">19.02</s:price>
+      <s:sku>HAB759-41-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / White Sheer w Silver Embroid/Star Sequin</title>
+      <s:price currency="USD">19.02</s:price>
+      <s:sku>HAB759-42-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / White Sheer w Gold Embroid/Circle Sequin</title>
+      <s:price currency="USD">190.19</s:price>
+      <s:sku>HAB759-74-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / White Sheer w Gold Embroid/Pattern Sequin</title>
+      <s:price currency="USD">190.19</s:price>
+      <s:sku>HAB759-75-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / White Sheer w Gold Embroid/Sequin</title>
+      <s:price currency="USD">190.19</s:price>
+      <s:sku>HAB759-73-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / White Sheer w Silver Embroid/Sequin</title>
+      <s:price currency="USD">190.19</s:price>
+      <s:sku>HAB759-41-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438025749</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / White Sheer w Silver Embroid/Star Sequin</title>
+      <s:price currency="USD">190.19</s:price>
+      <s:sku>HAB759-42-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77438156821</id>
+    <published>2020-10-07T13:07:39-04:00</published>
+    <updated>2020-10-07T13:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pearl-lace-trimmed-pouches"/>
+    <title>JKM Pearl &amp; Lace Trimmed Pouches</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB087-011-harvest.gif?v=1512855273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            13.58 - 176.60
+            <a href="https://www.jkmribbon.com/products/jkm-pearl-lace-trimmed-pouches">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Pouch with Pearls and Lace Trim are available in 2 sizes in small and bulk quantities.<br>(Product Characteristic: Satins) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>3 1/2&quot; x 3 1/4&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>HAB087-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>4 1/2&quot; x 3 1/4&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>HAB087-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>3 1/2&quot; x 3 1/4&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">135.85</s:price>
+      <s:sku>HAB087-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>4 1/2&quot; x 3 1/4&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">135.85</s:price>
+      <s:sku>HAB087-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>4 1/2&quot; x 4 1/4&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">17.66</s:price>
+      <s:sku>HAB088-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>4 1/2&quot; x 4 1/4&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">17.66</s:price>
+      <s:sku>HAB088-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>4 1/2&quot; x 4 1/4&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">176.60</s:price>
+      <s:sku>HAB088-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438156821</id>
+      <title>4 1/2&quot; x 4 1/4&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">176.60</s:price>
+      <s:sku>HAB088-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77438189589</id>
+    <published>2020-10-07T13:07:36-04:00</published>
+    <updated>2020-10-07T13:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-heart-shaped-bag-with-fancy-trim"/>
+    <title>JKM Heart Shaped Bag with Fancy Trim</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb089-10-harvest.gif?v=1512855285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            23.09 - 230.94
+            <a href="https://www.jkmribbon.com/products/jkm-heart-shaped-bag-with-fancy-trim">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Bag in the shape of a heart has fancy lace trim available in 5 1/4" x 6" in several colors in small and bulk quantities.<br>(Product Characteristic: Heart Shaped Bag) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>HAB089-39-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 12 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>HAB089-10-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>HAB089-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>HAB089-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>HAB089-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>HAB089-40-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>HAB089-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 120 Pcs/Box / Black</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HAB089-39-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 120 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HAB089-10-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HAB089-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HAB089-11-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HAB089-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HAB089-40-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438189589</id>
+      <title>5 1/4&quot; x 6&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">230.94</s:price>
+      <s:sku>HAB089-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77438222357</id>
+    <published>2020-10-07T13:07:32-04:00</published>
+    <updated>2020-10-07T13:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-gift-bags-with-hearts"/>
+    <title>JKM Sheer Gift Bags with Hearts</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB080group-harvest.gif?v=1512855306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.79 - 108.68
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-gift-bags-with-hearts">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Hearts) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB078-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB078-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB078-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB078-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB078-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB078-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB079-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB079-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB079-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB079-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB079-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB079-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB080-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB080-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB080-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB080-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB080-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB080-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>6&quot; x 10&quot; / 12 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB081-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>6&quot; x 10&quot; / 12 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB081-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>6&quot; x 10&quot; / 12 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB081-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>6&quot; x 10&quot; / 120 Pcs/Box / Pink with Pink Heart</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB081-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>6&quot; x 10&quot; / 120 Pcs/Box / Red with Red Heart</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB081-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438222357</id>
+      <title>6&quot; x 10&quot; / 120 Pcs/Box / White with White Heart</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB081-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77438648341</id>
+    <published>2020-10-07T13:07:29-04:00</published>
+    <updated>2020-10-07T13:07:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-star-print-gift-bag"/>
+    <title>JKM Star Print Gift Bag</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB923group-harvest.gif?v=1512855317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            33.96 - 152.83
+            <a href="https://www.jkmribbon.com/products/jkm-star-print-gift-bag">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Stars) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>3 1/4&quot; x 5&quot; x 1 1/2&quot; / 3 Pcs/Pkg; 12 Pkgs/Box / Ivory/Gold Star</title>
+      <s:price currency="USD">33.96</s:price>
+      <s:sku>HAB920-27-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>3 1/4&quot; x 5&quot; x 1 1/2&quot; / 3 Pcs/Pkg; 12 Pkgs/Box / Ivory/Silver Star</title>
+      <s:price currency="USD">33.96</s:price>
+      <s:sku>HAB920-40-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>3 1/4&quot; x 5&quot; x 1 1/2&quot; / 3 Pcs/Pkg; 36 Pkgs/Box / Ivory/Gold Star</title>
+      <s:price currency="USD">101.89</s:price>
+      <s:sku>HAB920-27-36PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>3 1/4&quot; x 5&quot; x 1 1/2&quot; / 3 Pcs/Pkg; 36 Pkgs/Box / Ivory/Silver Star</title>
+      <s:price currency="USD">101.89</s:price>
+      <s:sku>HAB920-40-36PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>5 3/4&quot; x 9 3/4&quot; x 2&quot; / 2 Pcs/Pkg; 12 Pkgs/Box / Ivory/Gold Star</title>
+      <s:price currency="USD">36.68</s:price>
+      <s:sku>HAB923-27-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>5 3/4&quot; x 9 3/4&quot; x 2&quot; / 2 Pcs/Pkg; 12 Pkgs/Box / Ivory/Silver Star</title>
+      <s:price currency="USD">36.68</s:price>
+      <s:sku>HAB923-40-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>5 3/4&quot; x 9 3/4&quot; x 2&quot; / 2 Pcs/Pkg; 50 Pkgs/Box / Ivory/Gold Star</title>
+      <s:price currency="USD">152.83</s:price>
+      <s:sku>HAB923-27-50PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438648341</id>
+      <title>5 3/4&quot; x 9 3/4&quot; x 2&quot; / 2 Pcs/Pkg; 50 Pkgs/Box / Ivory/Silver Star</title>
+      <s:price currency="USD">152.83</s:price>
+      <s:sku>HAB923-40-50PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77438910485</id>
+    <published>2020-10-07T13:07:26-04:00</published>
+    <updated>2020-10-07T13:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-star-print-wine-bags"/>
+    <title>JKM Star Print Wine Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB977group-harvest.gif?v=1512855323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            19.25 - 192.45
+            <a href="https://www.jkmribbon.com/products/jkm-star-print-wine-bags">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Stars) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438910485</id>
+      <title>6 1/2&quot; x 15&quot; / 10 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">19.25</s:price>
+      <s:sku>HAB977-10-10PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438910485</id>
+      <title>6 1/2&quot; x 15&quot; / 10 Pcs/Box / Hunter Green</title>
+      <s:price currency="USD">19.25</s:price>
+      <s:sku>HAB977-19-10PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438910485</id>
+      <title>6 1/2&quot; x 15&quot; / 10 Pcs/Box / Red</title>
+      <s:price currency="USD">19.25</s:price>
+      <s:sku>HAB977-12-10PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438910485</id>
+      <title>6 1/2&quot; x 15&quot; / 100 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">192.45</s:price>
+      <s:sku>HAB977-10-100PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438910485</id>
+      <title>6 1/2&quot; x 15&quot; / 100 Pcs/Box / Hunter Green</title>
+      <s:price currency="USD">192.45</s:price>
+      <s:sku>HAB977-19-100PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77438910485</id>
+      <title>6 1/2&quot; x 15&quot; / 100 Pcs/Box / Red</title>
+      <s:price currency="USD">192.45</s:price>
+      <s:sku>HAB977-12-100PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77439172629</id>
+    <published>2020-10-07T13:07:23-04:00</published>
+    <updated>2020-10-07T13:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-gift-bags-with-flower"/>
+    <title>JKM Sheer Gift Bags with Flower</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB012group-harvest.gif?v=1512855339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            9.51 - 95.09
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-gift-bags-with-flower">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Floral Accents) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-10-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-27-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Moss</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-17-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-40-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB012-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-10-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-27-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-11-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Moss</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-17-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-40-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439172629</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB012-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77439402005</id>
+    <published>2020-10-07T13:07:21-04:00</published>
+    <updated>2020-10-07T13:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-satin-rose-print-gift-bag"/>
+    <title>JKM Satin Rose Print Gift Bag</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB796group1-harvest.gif?v=1512855354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            10.87 - 176.60
+            <a href="https://www.jkmribbon.com/products/jkm-satin-rose-print-gift-bag">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Floral; Other Designs) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB796-09-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">14.94</s:price>
+      <s:sku>HAB796-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB796-09-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">149.43</s:price>
+      <s:sku>HAB796-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>6&quot; x 10&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">17.66</s:price>
+      <s:sku>HAB797-09-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>6&quot; x 10&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">17.66</s:price>
+      <s:sku>HAB797-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>6&quot; x 10&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">176.60</s:price>
+      <s:sku>HAB797-09-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>6&quot; x 10&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">176.60</s:price>
+      <s:sku>HAB797-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB798-09-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>HAB798-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB798-09-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">108.68</s:price>
+      <s:sku>HAB798-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>HAB799-09-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>HAB799-12-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">135.85</s:price>
+      <s:sku>HAB799-09-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439402005</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">135.85</s:price>
+      <s:sku>HAB799-12-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77439729685</id>
+    <published>2020-10-07T13:07:18-04:00</published>
+    <updated>2020-10-07T13:07:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-rose-petal-print-gift-bags"/>
+    <title>JKM Rose Petal Print Gift Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB892-111-harvest.gif?v=1512855367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            20.38 - 203.77
+            <a href="https://www.jkmribbon.com/products/jkm-rose-petal-print-gift-bags">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Floral; Other Designs) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 12 Pcs/Box / Fuchsia</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HAB892-09-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HAB892-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HAB892-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 12 Pcs/Box / Orange</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HAB892-03-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HAB892-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 12 Pcs/Box / White</title>
+      <s:price currency="USD">20.38</s:price>
+      <s:sku>HAB892-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 120 Pcs/Box / Fuchsia</title>
+      <s:price currency="USD">203.77</s:price>
+      <s:sku>HAB892-09-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">203.77</s:price>
+      <s:sku>HAB892-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">203.77</s:price>
+      <s:sku>HAB892-11-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 120 Pcs/Box / Orange</title>
+      <s:price currency="USD">203.77</s:price>
+      <s:sku>HAB892-03-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">203.77</s:price>
+      <s:sku>HAB892-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439729685</id>
+      <title>5&quot; x 6 1/2&quot; / 120 Pcs/Box / White</title>
+      <s:price currency="USD">203.77</s:price>
+      <s:sku>HAB892-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77439926293</id>
+    <published>2020-10-07T13:07:16-04:00</published>
+    <updated>2020-10-07T13:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-butterfly-print-gift-bags"/>
+    <title>JKM Butterfly Print Gift Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB893group-harvest.gif?v=1512855374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            13.58 - 135.85
+            <a href="https://www.jkmribbon.com/products/jkm-butterfly-print-gift-bags">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Floral; Other Designs) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439926293</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>HAB893-20-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439926293</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Moss</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>HAB893-17-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439926293</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">135.85</s:price>
+      <s:sku>HAB893-20-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439926293</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Moss</title>
+      <s:price currency="USD">135.85</s:price>
+      <s:sku>HAB893-17-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77439926293</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">135.85</s:price>
+      <s:sku>HAB893-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440155669</id>
+    <published>2020-10-07T13:07:14-04:00</published>
+    <updated>2020-10-07T13:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-floral-print-gift-bags"/>
+    <title>JKM Floral Print Gift Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB894-033-harvest.gif?v=1512855385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            9.51 - 95.09
+            <a href="https://www.jkmribbon.com/products/jkm-floral-print-gift-bags">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Gift Bags in assorted sizes and colors in small and bulk quantities.<br>(Product Characteristic: Floral; Other Designs) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 12 Pcs/Box / Green</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB894-37-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB894-11-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB894-20-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 12 Pcs/Box / Peach</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB894-03-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB894-05-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 12 Pcs/Box / Yellow</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB894-16-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 120 Pcs/Box / Green</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB894-37-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB894-11-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB894-20-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 120 Pcs/Box / Peach</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB894-03-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB894-05-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440155669</id>
+      <title>3 1/2&quot; x 5&quot; x 1&quot; / 120 Pcs/Box / Yellow</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB894-16-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440319509</id>
+    <published>2020-10-07T13:07:12-04:00</published>
+    <updated>2020-10-07T13:07:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-leopard-print-bags"/>
+    <title>JKM Leopard Print Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb744-2-harvest.gif?v=1512855392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.79 - 95.09
+            <a href="https://www.jkmribbon.com/products/jkm-leopard-print-bags">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Flannel Gift Bags in assorted sizes in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440319509</id>
+      <title>2&quot; x 2 1/2&quot; / 12 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB744-2-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440319509</id>
+      <title>2&quot; x 2 1/2&quot; / 120 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB744-2-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440319509</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB745-2-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440319509</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB745-2-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440319509</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB746-2-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440319509</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB746-2-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440450581</id>
+    <published>2020-10-07T13:07:11-04:00</published>
+    <updated>2020-10-07T13:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tiger-print-bags"/>
+    <title>JKM Tiger Print Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb744-3-harvest.gif?v=1512855399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.79 - 95.09
+            <a href="https://www.jkmribbon.com/products/jkm-tiger-print-bags">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Flannel Gift Bags in assorted sizes in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440450581</id>
+      <title>2&quot; x 2 1/2&quot; / 12 Pcs/Box / Tiger Print</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB744-3-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440450581</id>
+      <title>2&quot; x 2 1/2&quot; / 120 Pcs/Box / Tiger Print</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB744-3-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440450581</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Tiger Print</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB745-3-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440450581</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Tiger Print</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB745-3-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440450581</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Tiger Print</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB746-3-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440450581</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Tiger Print</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB746-3-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440548885</id>
+    <published>2020-10-07T13:07:09-04:00</published>
+    <updated>2020-10-07T13:07:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-zebra-print-bags"/>
+    <title>JKM Zebra Print Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb745-1-harvest.gif?v=1512855405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.79 - 95.09
+            <a href="https://www.jkmribbon.com/products/jkm-zebra-print-bags">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Flannel Gift Bags in assorted sizes in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440548885</id>
+      <title>2&quot; x 2 1/2&quot; / 12 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB744-1-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440548885</id>
+      <title>2&quot; x 2 1/2&quot; / 120 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB744-1-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440548885</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB745-1-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440548885</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB745-1-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440548885</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB746-1-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440548885</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB746-1-120PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440679957</id>
+    <published>2020-10-07T13:07:07-04:00</published>
+    <updated>2020-10-07T13:07:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-leopard-print-cotton-bags"/>
+    <title>JKM Leopard Print Cotton Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB748-691-harvest.gif?v=1512855410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            16.30 - 217.36
+            <a href="https://www.jkmribbon.com/products/jkm-leopard-print-cotton-bags">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Cotton Gift Bags in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440679957</id>
+      <title>5&quot; x 5&quot; x 2&quot; / 12 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">16.30</s:price>
+      <s:sku>HAB748-69-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440679957</id>
+      <title>5&quot; x 5&quot; x 2&quot; / 120 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">163.02</s:price>
+      <s:sku>HAB748-69-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440679957</id>
+      <title>7&quot; x 6&quot; x 2 3/4&quot; / 12 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">21.74</s:price>
+      <s:sku>HAB750-69-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440679957</id>
+      <title>7&quot; x 6&quot; x 2 3/4&quot; / 120 Pcs/Box / Leopard Print</title>
+      <s:price currency="USD">217.36</s:price>
+      <s:sku>HAB750-69-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440745493</id>
+    <published>2020-10-07T13:07:06-04:00</published>
+    <updated>2020-10-07T13:07:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-paw-print-cotton-bags"/>
+    <title>JKM Paw Print Cotton Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB748-791-harvest.gif?v=1512855415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            16.30 - 217.36
+            <a href="https://www.jkmribbon.com/products/jkm-paw-print-cotton-bags">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Cotton Gift Bags in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440745493</id>
+      <title>5&quot; x 5&quot; x 2&quot; / 12 Pcs/Box / Paw Print</title>
+      <s:price currency="USD">16.30</s:price>
+      <s:sku>HAB748-79-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440745493</id>
+      <title>5&quot; x 5&quot; x 2&quot; / 120 Pcs/Box / Paw Print</title>
+      <s:price currency="USD">163.02</s:price>
+      <s:sku>HAB748-79-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440745493</id>
+      <title>7&quot; x 6&quot; x 2 3/4&quot; / 12 Pcs/Box / Paw Print</title>
+      <s:price currency="USD">21.74</s:price>
+      <s:sku>HAB750-79-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440745493</id>
+      <title>7&quot; x 6&quot; x 2 3/4&quot; / 120 Pcs/Box / Paw Print</title>
+      <s:price currency="USD">217.36</s:price>
+      <s:sku>HAB750-79-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440876565</id>
+    <published>2020-10-07T13:07:03-04:00</published>
+    <updated>2020-10-07T13:07:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-zebra-print-cotton-bags"/>
+    <title>JKM Zebra Print Cotton Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB748-891-harvest.gif?v=1512855420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            16.30 - 217.36
+            <a href="https://www.jkmribbon.com/products/jkm-zebra-print-cotton-bags">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Cotton Gift Bags in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440876565</id>
+      <title>5&quot; x 5&quot; x 2&quot; / 12 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">16.30</s:price>
+      <s:sku>HAB748-89-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440876565</id>
+      <title>5&quot; x 5&quot; x 2&quot; / 120 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">163.02</s:price>
+      <s:sku>HAB748-89-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440876565</id>
+      <title>7&quot; x 6&quot; x 2 3/4&quot; / 12 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">21.74</s:price>
+      <s:sku>HAB750-89-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440876565</id>
+      <title>7&quot; x 6&quot; x 2 3/4&quot; / 120 Pcs/Box / Zebra Print</title>
+      <s:price currency="USD">217.36</s:price>
+      <s:sku>HAB750-89-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77440974869</id>
+    <published>2020-10-07T13:07:01-04:00</published>
+    <updated>2020-10-07T13:07:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-zebra-print-sheer-bags"/>
+    <title>JKM Zebra Print Sheer Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb783-harvest.gif?v=1512855427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.79 - 122.26
+            <a href="https://www.jkmribbon.com/products/jkm-zebra-print-sheer-bags">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Sheer Gift Bags in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB780-89-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB780-89-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB781-89-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB781-89-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB782-89-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB782-89-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>6&quot; x 10&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">12.23</s:price>
+      <s:sku>HAB783-89-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77440974869</id>
+      <title>6&quot; x 10&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">122.26</s:price>
+      <s:sku>HAB783-89-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77441171477</id>
+    <published>2020-10-07T13:06:59-04:00</published>
+    <updated>2020-10-07T13:06:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-paw-print-sheer-bags"/>
+    <title>JKM Paw Print Sheer Bags</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xb783-79-harvest.gif?v=1512855434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.79 - 122.26
+            <a href="https://www.jkmribbon.com/products/jkm-paw-print-sheer-bags">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Printed Pattern Sheer Gift Bags in small and bulk quantities.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>3&quot; x 4&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">6.79</s:price>
+      <s:sku>HAB780-79-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>3&quot; x 4&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>HAB780-79-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>4&quot; x 6&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>HAB781-79-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>4&quot; x 6&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">81.51</s:price>
+      <s:sku>HAB781-79-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>5&quot; x 7&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB782-79-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>5&quot; x 7&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB782-79-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>6&quot; x 10&quot; / 12 Pcs/Box / Black/White</title>
+      <s:price currency="USD">12.23</s:price>
+      <s:sku>HAB783-79-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441171477</id>
+      <title>6&quot; x 10&quot; / 120 Pcs/Box / Black/White</title>
+      <s:price currency="USD">122.26</s:price>
+      <s:sku>HAB783-79-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77441466389</id>
+    <published>2020-10-07T13:06:57-04:00</published>
+    <updated>2020-10-07T13:06:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-silky-metallic-round-pouches"/>
+    <title>JKM Silky Metallic Round Pouches</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xB003-harvest.gif?v=1512855447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            9.51 - 95.09
+            <a href="https://www.jkmribbon.com/products/jkm-silky-metallic-round-pouches">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Gift bags in assorted colors in small and bulk quantities.<br>(Product Characteristic: Metallic) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Bags</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 12 Pcs/Box / Burgundy/Gold Edge</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB003-10-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 12 Pcs/Box / Ivory/Gold Edge</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB003-02-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 12 Pcs/Box / Mauve/Silver Edge</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB003-07-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 12 Pcs/Box / Moss/Copper Edge</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB003-17-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 12 Pcs/Box / Royal Blue/Silver Edge</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB003-23-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 12 Pcs/Box / White/Gold Edge</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB003-01-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 12 Pcs/Box / White/Silver Edge</title>
+      <s:price currency="USD">9.51</s:price>
+      <s:sku>HAB003-41-12PCS</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 120 Pcs/Box / Burgundy/Gold Edge</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB003-10-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 120 Pcs/Box / Ivory/Gold Edge</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB003-02-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 120 Pcs/Box / Mauve/Silver Edge</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB003-07-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 120 Pcs/Box / Moss/Copper Edge</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB003-17-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 120 Pcs/Box / Royal Blue/Silver Edge</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB003-23-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 120 Pcs/Box / White/Gold Edge</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB003-01-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77441466389</id>
+      <title>4 1/2&quot; x 4&quot; / 120 Pcs/Box / White/Silver Edge</title>
+      <s:price currency="USD">95.09</s:price>
+      <s:sku>HAB003-41-120PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

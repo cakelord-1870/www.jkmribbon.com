@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/rick-rack-flat-tape.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:06-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414596629</id>
+    <published>2020-10-07T13:17:06-04:00</published>
+    <updated>2020-10-07T13:17:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-rick-rack-1-2-12-yard-reel"/>
+    <title>Wrights Rick Rack - 1/2&quot; &amp; 12 Yard Reel</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866303058-wrights-2011.jpg?v=1512853477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            4.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rick Rack is available in 1/2" width on a 12 Yard Reel in several colors.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414596629</id>
+      <title>1/2&quot; / 12 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">4.93</s:price>
+      <s:sku>MR1866303034</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414596629</id>
+      <title>1/2&quot; / 12 Yards/Reel / 058 Orange</title>
+      <s:price currency="USD">4.93</s:price>
+      <s:sku>MR1866303058</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414596629</id>
+      <title>1/2&quot; / 12 Yards/Reel / 904 Hot Pink</title>
+      <s:price currency="USD">4.93</s:price>
+      <s:sku>MR1866303904</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414596629</id>
+      <title>1/2&quot; / 12 Yards/Reel / 922 Leaf Green</title>
+      <s:price currency="USD">4.93</s:price>
+      <s:sku>MR1866303922</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425672213</id>
+    <published>2020-10-07T13:12:44-04:00</published>
+    <updated>2020-10-07T13:12:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-jumbo-rick-rack-1-1-2"/>
+    <title>Wrights Jumbo Rick Rack - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862323034-wrights.jpg?v=1512854328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jumbo Rick Rack is available in 1 1/2" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 030 White</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862417030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862418031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862323034</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 042 Apple Green</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862421042</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 058 Orange</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862423058</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862422061</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862419065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 079 Yellow</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862420079</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 279 Strawberry</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862416279</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425672213</id>
+      <title>1 1/2&quot; / 15 Yards/Reel / 515 Blue</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>MR1862416515</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425704981</id>
+    <published>2020-10-07T13:12:43-04:00</published>
+    <updated>2020-10-07T13:12:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-poly-rick-rack-1-2"/>
+    <title>Wrights Poly Rick Rack - 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862319031-wrights.jpg?v=1512854333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            5.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Poly Rick Rack is available in 1/2" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425704981</id>
+      <title>1/2&quot; / 15 Yards/Reel / 079 Yellow</title>
+      <s:price currency="USD">5.77</s:price>
+      <s:sku>MR1862320079</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425770517</id>
+    <published>2020-10-07T13:12:42-04:00</published>
+    <updated>2020-10-07T13:12:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-rick-rack-1-2-id-mr1862411"/>
+    <title>Wrights Rick Rack - 1/2&quot; (ID: MR1862411)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862411065-wrights.jpg?v=1512854337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            5.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rick Rack is available in 1/2" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425770517</id>
+      <title>1/2&quot; / 15 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">5.83</s:price>
+      <s:sku>MR1862411065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425770517</id>
+      <title>1/2&quot; / 15 Yards/Reel / 645 Rose</title>
+      <s:price currency="USD">5.83</s:price>
+      <s:sku>MR1862412645</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425803285</id>
+    <published>2020-10-07T13:12:40-04:00</published>
+    <updated>2020-10-07T13:12:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-chenille-rick-rack-3-4"/>
+    <title>Wrights Chenille Rick Rack - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862115883-wrights.jpg?v=1512854341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chenille Rick Rack is available in 3/4" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Acrylic 40% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425803285</id>
+      <title>3/4&quot; / 10 Yards/Reel / 882 Green/Gold</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1862116882</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425803285</id>
+      <title>3/4&quot; / 10 Yards/Reel / 883 Wine/Gold</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1862115883</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460897813</id>
+    <published>2020-10-07T12:50:43-04:00</published>
+    <updated>2020-10-07T12:50:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-basic-narrow-rick-rack-1-4-solid-colors"/>
+    <title>JKM Basic Narrow Rick Rack - 1/4&quot; &amp; Solid Colors</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x249-01-harvest.gif?v=1512857480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            5.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Basic Narrow Rick Rack - 1/4", Solid Colors on 25 yard spools is available in assorted colors.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Black</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-39</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Brown</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-41</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-10</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Hot Pink</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-09</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-02</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-11</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-20</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Lime</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-34</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Orange</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-33</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-05</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-12</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / Royal Blue</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-23</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460897813</id>
+      <title>1/4&quot; / 25 Yards/Spool / White</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA249-01</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460930581</id>
+    <published>2020-10-07T12:50:42-04:00</published>
+    <updated>2020-10-07T12:50:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-rick-rack-1-4-flower-print"/>
+    <title>JKM Rick Rack - 1/4&quot; &amp; Flower Print</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x251-03-harvest.gif?v=1512857490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rick Rack - 1/4", Flower Print on 25 yard spools is available in assorted colors.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460930581</id>
+      <title>1/4&quot; / 25 Yards/Spool / Lavender Flower Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA251-11</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460930581</id>
+      <title>1/4&quot; / 25 Yards/Spool / Light Blue Flower Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA251-20</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460930581</id>
+      <title>1/4&quot; / 25 Yards/Spool / Lime Flower Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA251-34</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460930581</id>
+      <title>1/4&quot; / 25 Yards/Spool / Orange Flower Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA251-03</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460930581</id>
+      <title>1/4&quot; / 25 Yards/Spool / Pink Flower Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA251-05</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460930581</id>
+      <title>1/4&quot; / 25 Yards/Spool / Red Flower Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA251-12</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460930581</id>
+      <title>1/4&quot; / 25 Yards/Spool / Yellow Flower Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA251-16</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460996117</id>
+    <published>2020-10-07T12:50:40-04:00</published>
+    <updated>2020-10-07T12:50:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-rick-rack-1-4-metallic-glitter"/>
+    <title>JKM Rick Rack - 1/4&quot; &amp; Metallic Glitter</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x253-02-harvest.gif?v=1512857502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            5.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rick Rack - 1/4", Metallic Glitter on 10 yard spools is available in assorted colors.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Blue</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-20</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Gold</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-27</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Green</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-18</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Ivory</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-02</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Lavender</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-11</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Pink</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-05</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Purple</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-26</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Red</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-12</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460996117</id>
+      <title>1/4&quot; / 10 Yards/Spool / Silver</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA253-40</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77393887253</id>
+    <published>2017-12-09T15:30:52-05:00</published>
+    <updated>2017-12-09T15:30:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-printed-jumbo-rick-rack-5-8-width"/>
+    <title>Wrights Printed Jumbo Rick Rack - 5/8&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117404-wrights.jpg?v=1512851456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our printed jumbo rick rack comes in 2 beautiful colors. Available in 5/8" width. 2-1/2 yards per package. Note: Easy care-colorfast utility trim; Can be glued, fused or sewn; Non-curl points and easy care; Perfect for craft or apparel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393887253</id>
+      <title>5/8&quot; / 2 Yd/Pkg; 3 Pkgs/Box / 001 Rainbow</title>
+      <s:price currency="USD">8.72</s:price>
+      <s:sku>MR117404001</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393887253</id>
+      <title>5/8&quot; / 2 Yd/Pkg; 3 Pkgs/Box / 002 Pastel</title>
+      <s:price currency="USD">8.72</s:price>
+      <s:sku>MR117404002</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392576533</id>
+    <published>2017-12-09T15:26:32-05:00</published>
+    <updated>2017-12-09T15:26:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-medium-rick-rack-1-2-width-id-mr117225"/>
+    <title>Wrights Metallic Medium Rick Rack - 1/2&quot; Width (ID: MR117225)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117225-wrights.jpg?v=1512851196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            4.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our metallic medium rick rack comes in 2 beautiful colors and is available in 1/2" width. 3 yards per package. 3 packages per box.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392576533</id>
+      <title>1/2&quot; / 3 Yds/Pkg; 3 Pkgs/Box / 046 Gold</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117225046</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392576533</id>
+      <title>1/2&quot; / 3 Yds/Pkg; 3 Pkgs/Box / 070 Silver</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117225070</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392576533</id>
+      <title>1/2&quot; / 3 Yds/Pkg; 3 Pkgs/Box / 928 Antique Gold</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117225928</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392543765</id>
+    <published>2017-12-09T15:26:28-05:00</published>
+    <updated>2017-12-09T15:26:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-baby-rick-rack-1-4-width"/>
+    <title>Wrights Metallic Baby Rick Rack - 1/4&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117224-wrights.jpg?v=1512851191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            4.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our metallic baby rick rack comes in 2 beautiful colors and is available in 1/4" width. 4 yards per package. 3 packages per box.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392543765</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 046 Gold</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117224046</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392543765</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 070 Silver</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117224070</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392510997</id>
+    <published>2017-12-09T15:26:10-05:00</published>
+    <updated>2017-12-09T15:26:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-jumbo-rick-rack-5-8-width"/>
+    <title>Wrights Jumbo Rick Rack - 5/8&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117402-wrights.jpg?v=1512851185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            4.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our jumbo rick rack comes in 12 beautiful colors and is available in 5/8" width. 2-1/2 yards per package. 3 packages per box.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 030 White</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402030</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 031 Black</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402031</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 040 Delft</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402040</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 044 Emerald</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402044</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 052 Light Blue</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402052</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 055 Navy</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402055</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 058 Orange</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402058</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 061 Pink</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402061</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 065 Red</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402065</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 076 Scarlet</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402076</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 078 Yale</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402078</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 086 Canary</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402086</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1232 Berry Sorbet</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR1174021232</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1236 Bark</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR1174021236</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1241 Carrot</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR1174021241</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1242 Mediterranean</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR1174021242</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392510997</id>
+      <title>5/8&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 216 Candy Pink</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>MR117402216</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392478229</id>
+    <published>2017-12-09T15:25:48-05:00</published>
+    <updated>2017-12-09T15:25:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-medium-rick-rack-1-2-width"/>
+    <title>Wrights Medium Rick Rack - 1/2&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117401-wrights.jpg?v=1512851167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            3.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our medium rick rack comes in 21 beautiful colors and is available in 1/2" width. 2-1/2 yards per package. 3 packages per box.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 022 Bright Pink</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401022</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 030 White</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401030</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 031 Black</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401031</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 040 Delft</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401040</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 044 Emerald</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401044</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 052 Light Blue</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401052</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 055 Navy</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401055</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 061 Pink</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401061</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 064 Purple</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401064</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 065 Red</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401065</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 076 Scarlet</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401076</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 078 Yale</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401078</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 086 Canary</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401086</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 092 Seal Brown</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401092</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1232 Berry Sorbet</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR1174011232</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1236 Bark</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR1174011236</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1241 Carrot</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR1174011241</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 1242 Mediterranean</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR1174011242</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 216 Candy Pink</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401216</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 904 Hot Pink</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401904</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 922 Leaf Green</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401922</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392478229</id>
+      <title>1/2&quot; / 2 1/2 Yds/Pkg; 3 Pkgs/Box / 926 Dark Banana</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117401926</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392445461</id>
+    <published>2017-12-09T15:25:36-05:00</published>
+    <updated>2017-12-09T15:25:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-baby-rick-rack-1-4-width"/>
+    <title>Wrights Baby Rick Rack - 1/4&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117400-wrights.jpg?v=1512851146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            3.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our baby rick rack comes in 11 beautiful colors and is available in 1/4" width. 4 yards per package. 3 packages per box.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 030 White</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400030</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 031 Black</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400031</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 044 Emerald</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400044</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 052 Light Blue</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400052</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 061 Pink</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400061</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 065 Red</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400065</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 076 Scarlet</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400076</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 086 Canary</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400086</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 216 Candy Pink</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400216</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392445461</id>
+      <title>1/4&quot; / 4 Yds/Pkg; 3 Pkgs/Box / 922 Leaf Green</title>
+      <s:price currency="USD">3.38</s:price>
+      <s:sku>MR117400922</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279526933</id>
+    <published>2017-12-09T12:30:23-05:00</published>
+    <updated>2017-12-09T12:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-rick-rack-5-8"/>
+    <title>Wrights Rick Rack - 5/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861146001-wrights.jpg?v=1512840626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            26.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rick Rack is available in 5/8" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279526933</id>
+      <title>5/8&quot; / 15 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">26.83</s:price>
+      <s:sku>MR1861146001</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279461397</id>
+    <published>2017-12-09T12:30:20-05:00</published>
+    <updated>2017-12-09T12:30:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-maxi-rick-rack-1-1-4"/>
+    <title>Wrights Maxi Rick Rack - 1 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862064064-wrights.jpg?v=1512840623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            19.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maxi Rick Rack is available in 1 1/4" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279461397</id>
+      <title>1 1/4&quot; / 15 Yards/Reel / 064 Purple</title>
+      <s:price currency="USD">19.47</s:price>
+      <s:sku>MR1862064064</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279363093</id>
+    <published>2017-12-09T12:30:13-05:00</published>
+    <updated>2017-12-09T12:30:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-rick-rack-1-2-id-mr1862414"/>
+    <title>Wrights Rick Rack - 1/2&quot; (ID: MR1862414)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862414030-wrights.jpg?v=1512840616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            4.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rick Rack is available in 1/2" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279363093</id>
+      <title>1/2&quot; / 15 Yards/Reel / 030 White</title>
+      <s:price currency="USD">4.37</s:price>
+      <s:sku>MR1862414030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279330325</id>
+    <published>2017-12-09T12:30:10-05:00</published>
+    <updated>2017-12-09T12:30:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-rick-rack-1"/>
+    <title>Wrights Metallic Rick Rack - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862060046-wrights.jpg?v=1512840613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            31.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Rick Rack is available in 1" Width 24 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Polyester 40% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279330325</id>
+      <title>1&quot; / 24 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">31.15</s:price>
+      <s:sku>MR1862060046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279297557</id>
+    <published>2017-12-09T12:30:06-05:00</published>
+    <updated>2017-12-09T12:30:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-rick-rack-5-8"/>
+    <title>Wrights Metallic Rick Rack - 5/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862751046-wrights.jpg?v=1512840609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Rick Rack is available in 5/8" Width 24 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 80% Metallic 20% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279297557</id>
+      <title>5/8&quot; / 24 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862751046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77236502549</id>
+    <published>2017-12-09T11:44:04-05:00</published>
+    <updated>2017-12-09T11:44:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-printed-medium-rick-rack-1-2-width"/>
+    <title>Wrights Printed Medium Rick Rack - 1/2&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117403-wrights.jpg?v=1512837847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            7.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our printed medium rick rack comes in 2 beautiful colors. Available in 1/2" width. 2-1/2 yards per package. Note: Easy care-colorfast utility trim; Can be glued, fused or sewn; Non-curl points and easy care; Perfect for craft or apparel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77236502549</id>
+      <title>1/2&quot; / 2 Yd/Pkg; 3 Pkgs/Box / 001 Rainbow</title>
+      <s:price currency="USD">7.67</s:price>
+      <s:sku>MR117403001</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77236437013</id>
+    <published>2017-12-09T11:44:01-05:00</published>
+    <updated>2017-12-09T11:44:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-iridescent-medium-rick-rack-1-2-width"/>
+    <title>Wrights Iridescent Medium Rick Rack - 1/2&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117427-wrights.jpg?v=1512837844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            6.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our iridescent medium rick rack comes in one beautiful color and is available in 1/2" width. 2-1/2 yard per package. 3 packages per box. Note: For Glitter Accent as an edging; can be glued fused or sewn, wash warm, use no chlorine; will not shrink or curl.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Metallic 40% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77236437013</id>
+      <title>1/2&quot; / 2 Yd/Pkg; 3 Pkgs/Box / 001 Iridescent</title>
+      <s:price currency="USD">6.04</s:price>
+      <s:sku>MR117427001</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77236404245</id>
+    <published>2017-12-09T11:43:58-05:00</published>
+    <updated>2017-12-09T11:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-medium-rick-rack-1-2-width-id-mr117429"/>
+    <title>Wrights Metallic Medium Rick Rack - 1/2&quot; Width (ID: MR117429)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117429-wrights.jpg?v=1512837840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            6.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our metallic medium rick rack comes in one beautiful color and is available in 1/2" width. 2-1/2 yard per package. 3 packages per box. Note: For Glitter Accent as an edging; can be glued fused or sewn, wash warm, use no chlorine; will not shrink or curl.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 80% Metallic 20% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77236404245</id>
+      <title>1/2&quot; / 2 Yd/Pkg; 3 Pkgs/Box / 001 Rainbow</title>
+      <s:price currency="USD">6.04</s:price>
+      <s:sku>MR117429001</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77231783957</id>
+    <published>2017-12-09T11:38:10-05:00</published>
+    <updated>2017-12-09T11:38:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-jumbo-rick-rack-5-8-width"/>
+    <title>Wrights Metallic Jumbo Rick Rack - 5/8&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x117345-wrights.jpg?v=1512837493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            7.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our metallic jumbo rick rack comes in one beautiful color and is available in 5/8" width. 2.5 yards per package. 3 packages per box.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 95% Metallic 5% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rick Rack &amp; Flat Tape</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77231783957</id>
+      <title>5/8&quot; / 2.5 Yds/Pkg; 3 Pkgs/Box / 046 Gold</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku>MR117345046</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+</feed>

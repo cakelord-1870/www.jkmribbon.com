@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/tulle-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T15:18:41-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77387071509</id>
+    <published>2017-12-09T15:18:41-05:00</published>
+    <updated>2017-12-09T15:18:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-9-plain-edge-tulle-circles"/>
+    <title>JKM 9&quot; Plain Edge Tulle Circles</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xtullecircle-jkm.jpg?v=1512850739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            2.31 - 5.00
+            <a href="https://www.jkmribbon.com/products/jkm-9-plain-edge-tulle-circles">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-cut 9" plain edge tulle circles are a perfect compliment to any wedding. Use them for wedding favors, corsages, bouquets, rice bags, bows and more.<br>(Product Characteristic: Tulle; Mesh; Netting) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tulle Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 0-24 Ivory</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0090-24</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 0-25 White</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0090-25</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-11 Black</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-11</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-12C Blue</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-12C</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-12N Navy</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-12N</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-12R Royal</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-12R</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-14 Gold</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-14</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-15 Emerald</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-15</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-15H Hunter</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-15H</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-15M Mint</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-15M</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-19 Peach</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-19</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-20 Pink</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-20</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-20L Light Pink</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-20L</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-20M Mauve</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-20M</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-21 Orchid</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-21</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-21P Purple</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-21P</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-22 Red</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-22</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-22W Wine</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-22W</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 1-26 Yellow</title>
+      <s:price currency="USD">2.31</s:price>
+      <s:sku>FB0091-26</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 23 White with Silver Dots</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>FB0092-23</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387071509</id>
+      <title>9&quot; / 25 Pcs/Pkg / 25 White with Gold Dots</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>FB0092-25</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77387005973</id>
+    <published>2017-12-09T15:18:18-05:00</published>
+    <updated>2017-12-09T15:18:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-54-tulle-bolts"/>
+    <title>JKM 54&quot; Tulle Bolts</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xtullebolt-jkm.jpg?v=1512850717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            25.38 - 51.92
+            <a href="https://www.jkmribbon.com/products/jkm-54-tulle-bolts">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 54" tulle bolts are perfect for display purposes, including party, special events and caterers. A tulle bolt also works well for bridal veils.<br>(Product Characteristic: Tulle; Mesh; Netting) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tulle Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 24 Ivory</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-24</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 25 White</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-25</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 15 Yards/Bolt / 14 White with Gold Dots</title>
+      <s:price currency="USD">51.92</s:price>
+      <s:sku>FB3712-14</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 15 Yards/Bolt / 23 White with Silver Dots</title>
+      <s:price currency="USD">51.92</s:price>
+      <s:sku>FB3712-23</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 11 Black</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-11</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 12C Blue</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-12C</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 12N Navy</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-12N</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 12R Royal</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-12R</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 14 Gold</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-14</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 15E Emerald</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-15E</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 15H Hunter</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-15H</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 15M Mint</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-15M</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 19 Peach</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-19</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 20L Light Pink</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-20L</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 20M Mauve</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-20M</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 20P Pink</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-20P</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 21 Orchid</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-21</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 21P Purple</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-21P</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 22 Red</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-22</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 22W Wine</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-22W</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77387005973</id>
+      <title>54&quot; / 40 Yards/Bolt / 26 Yellow</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>FB3710-26</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77386973205</id>
+    <published>2017-12-09T15:17:57-05:00</published>
+    <updated>2017-12-09T15:17:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-6-tulle-spool-all-solid-colors"/>
+    <title>JKM 6&quot; Tulle Spool (All Solid Colors)</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xtulle-jkm.jpg?v=1512850694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6" tulle spools are often used for table skirting, decorating trellises or wedding favors. Sometimes referred to as tulle netting, a 6" tulle spool can also be used for decorating costumes or gift wrapping.<br>(Product Characteristic: Tulle; Mesh; Netting) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tulle Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 11 Black</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-11</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 12C Blue</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-12C</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 12N Navy</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-12N</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 12R Royal</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-12R</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 14 Gold</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-14</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 15E Emerald</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-15E</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 15H Hunter</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-15H</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 15M Mint</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-15M</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 19 Peach</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-19</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 20 Pink</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-20</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 20L Light Pink</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-20L</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 20M Mauve</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-20M</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 21 Orchid</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-21</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 21P Purple</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-21P</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 22 Red</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-22</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 22W Wine</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-22W</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 24 Ivory</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-24</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 25 White</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-25</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386973205</id>
+      <title>6&quot; / 25 Yards/Spool / 26 Yellow</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>FB6666-26</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+</feed>

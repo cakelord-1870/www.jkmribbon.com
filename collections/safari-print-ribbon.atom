@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/safari-print-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:48:55-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77469319189</id>
+    <published>2020-10-07T12:48:55-04:00</published>
+    <updated>2020-10-07T12:48:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-special-camouflage-designs-print-on-both-sides"/>
+    <title>JKM Special Camouflage Designs - Print on Both Sides</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x427-01-harvest.gif?v=1512858575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.14 - 17.36
+            <a href="https://www.jkmribbon.com/products/jkm-special-camouflage-designs-print-on-both-sides">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Special Camouflage Designs - Print on Both Sides are available in 3/8", 7/8" and 1 1/2" Widths on 25 yard spools for this special polyester print.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safari Print Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>3/8&quot; / 25 Yards/Spool / Dk. Camouflage Print</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA424-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lt. Camouflage Print</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA424-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>3/8&quot; / 25 Yards/Spool / Orange Leopard Print</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA424-59</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red Leopard Print</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA424-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>3/8&quot; / 25 Yards/Spool / Tan Leopard Print</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA424-54</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>7/8&quot; / 25 Yards/Spool / Dk. Camouflage Print</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA426-02</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>7/8&quot; / 25 Yards/Spool / Lt. Camouflage Print</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA426-01</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>7/8&quot; / 25 Yards/Spool / Orange Leopard Print</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA426-59</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>7/8&quot; / 25 Yards/Spool / Red Leopard Print</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA426-55</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>7/8&quot; / 25 Yards/Spool / Tan Leopard Print</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA426-54</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Dk. Camouflage Print</title>
+      <s:price currency="USD">17.36</s:price>
+      <s:sku>HA427-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lt. Camouflage Print</title>
+      <s:price currency="USD">17.36</s:price>
+      <s:sku>HA427-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Orange Leopard Print</title>
+      <s:price currency="USD">17.36</s:price>
+      <s:sku>HA427-59</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red Leopard Print</title>
+      <s:price currency="USD">17.36</s:price>
+      <s:sku>HA427-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469319189</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Tan Leopard Print</title>
+      <s:price currency="USD">17.36</s:price>
+      <s:sku>HA427-54</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77469417493</id>
+    <published>2020-10-07T12:48:52-04:00</published>
+    <updated>2020-10-07T12:48:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-zebra-print-sheer-ribbon"/>
+    <title>JKM Zebra Print Sheer Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x572-49-harvest.gif?v=1512858606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.38 - 10.85
+            <a href="https://www.jkmribbon.com/products/jkm-zebra-print-sheer-ribbon">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zebra Print Sheer Ribbon is available in 3/8", 5/8" and 1 1/2" Ribbon on a 25 yard spool.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safari Print Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469417493</id>
+      <title>3/8&quot; / 25 Yards/Spool / Black/White Zebra Print</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA572-49</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469417493</id>
+      <title>3/8&quot; / 25 Yards/Spool / Clear/Black Zebra Print</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA572-89</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469417493</id>
+      <title>5/8&quot; / 25 Yards/Spool / Black/White Zebra Print</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA573-49</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469417493</id>
+      <title>5/8&quot; / 25 Yards/Spool / Clear/Black Zebra Print</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA573-89</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469417493</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Black/White Zebra Print</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA574-49</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469417493</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Clear/Black Zebra Print</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HA574-89</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1360526442583</id>
+    <published>2020-10-07T12:16:12-04:00</published>
+    <updated>2020-10-07T12:16:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-glitter-leopard-print-ribbon"/>
+    <title>JKM Glitter Leopard Print Ribbon</title>
+    <s:type>Promotional &amp; Special Deals</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xglitter-leopard-ribbon.jpg?v=1533572613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Promotional &amp; Special Deals<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glitter Leopard Print Ribbon is a safari print ribbon which is printed with a spray on glitter. The 7/8" wide ribbon is available in lime or copper. Add this trendy flocked animal print to any of your decorating projects...with GLITTER LEOPARD Ribbon.<br>(Product Characteristic: Safari; Animal Prints) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safari Print Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1360526442583</id>
+      <title>7/8&quot; / 25 Yards/Spool / 027 Lime</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MO06022-25-027</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1360526442583</id>
+      <title>7/8&quot; / 25 Yards/Spool / 633 Copper</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>MO06022-25-633</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+</feed>

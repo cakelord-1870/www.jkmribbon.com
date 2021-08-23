@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/mesh-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:19:15-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77411549205</id>
+    <published>2020-10-07T13:19:15-04:00</published>
+    <updated>2020-10-07T13:19:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-natural-way-jute-like-mesh-ribbon"/>
+    <title>JKM Natural Way Jute Like Mesh Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x25007-jkm.jpg?v=1512852887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            19.60 - 34.92
+            <a href="https://www.jkmribbon.com/products/jkm-natural-way-jute-like-mesh-ribbon">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Natural Way jute like mesh ribbon comes in 8 beautiful colors and is available in the following sizes: 1", 1-1/2" &amp; 2" widths on 25 yard rolls.<br>(Product Characteristic: Jute; Jute Like) / (Fabric Content: 70% Jute 30% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mesh Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-065-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 090 Burgundy</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-090-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 577 Sage</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-577-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-750-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-810-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 892 Terra</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-892-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 925 Hunter</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-925-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1&quot; / 25 Yards/Spool / 928 Old Gold</title>
+      <s:price currency="USD">19.60</s:price>
+      <s:sku>RE25007-928-05J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-065-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 090 Burgundy</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-090-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 577 Sage</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-577-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-750-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-810-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 892 Terra</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-892-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 925 Hunter</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-925-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 928 Old Gold</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>RE25007-928-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-065-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 090 Burgundy</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-090-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 577 Sage</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-577-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-750-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-810-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 892 Terra</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-892-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 925 Hunter</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-925-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411549205</id>
+      <title>2&quot; / 25 Yards/Spool / 928 Old Gold</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>RE25007-928-16J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77411581973</id>
+    <published>2020-10-07T13:19:11-04:00</published>
+    <updated>2020-10-07T13:19:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-naturally-loose-look-mesh-ribbon"/>
+    <title>JKM Naturally Loose Look Mesh Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x25013-jkm.jpg?v=1512852903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            13.23 - 37.65
+            <a href="https://www.jkmribbon.com/products/jkm-naturally-loose-look-mesh-ribbon">(29 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our naturally loose look mesh ribbon comes in 14 beautiful colors and is available in the following sizes: 1-1/2" &amp; 3" widths on 25 yard spools and *6", *12" &amp; *18" widths on 10 yard spools.<br>(Product Characteristic: Tulle; Mesh; Netting) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mesh Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-043-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-055-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-061-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-065-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 079 Yellow</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-079-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 090 Burgundy</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-090-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 099 Mauve</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-099-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 137 Celadon</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-137-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 354 French Blue</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-354-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-750-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 925 Hunter</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-925-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / 974 Antique Gold</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>RE25013-974-09J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 035 Gold</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-035-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-043-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-055-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-061-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-065-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 079 Yellow</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-079-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 090 Burgundy</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-090-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 099 Mauve</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-099-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 137 Celadon</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-137-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 354 French Blue</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-354-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-750-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 892 Terra</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-892-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 925 Hunter</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-925-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>3&quot; / 25 Yards/Spool / 974 Antique Gold</title>
+      <s:price currency="USD">22.53</s:price>
+      <s:sku>RE25013-974-40J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>6&quot; / 10 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">18.43</s:price>
+      <s:sku>RE25013-750-25F</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>12&quot; / 10 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>RE25013-750-50F</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411581973</id>
+      <title>18&quot; / 10 Yards/Spool / 750 Natural</title>
+      <s:price currency="USD">37.65</s:price>
+      <s:sku>RE25013-750-75F</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460766741</id>
+    <published>2020-10-07T12:50:48-04:00</published>
+    <updated>2020-10-07T12:50:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-jute-ribbon-with-fringe-like-edge"/>
+    <title>JKM Jute Ribbon with Fringe Like Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x546-harvest.gif?v=1512857436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            4.34 - 9.76
+            <a href="https://www.jkmribbon.com/products/jkm-jute-ribbon-with-fringe-like-edge">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jute Ribbon with Fringe Like Edge is available in 1 1/2" and 2 1/2" Widths on 10 yard spool in assorted colors.<br>(Product Characteristic: Jute; Jute Like) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mesh Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Apple Green</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA546-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Black</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA546-39</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA546-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Natural</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA546-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Off White</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA546-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Orange</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA546-33</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Red</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA546-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Black</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA556-39</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Green</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA556-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Grey</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA556-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Ivory</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA556-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Mint</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA556-18</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460766741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Red</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA556-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460799509</id>
+    <published>2020-10-07T12:50:47-04:00</published>
+    <updated>2020-10-07T12:50:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sinamy-banana-fiber-ribbon-2-width"/>
+    <title>JKM Sinamy (Banana Fiber) Ribbon - 2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x976-10-harvest.gif?v=1512857446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            3.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sinamy (Banana Fiber) Ribbon - 2" Width is available on 10 yard spools in assorted colors.<br>(Product Characteristic: Jute; Jute Like) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mesh Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460799509</id>
+      <title>2&quot; / 10 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku>HA976-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460799509</id>
+      <title>2&quot; / 10 Yards/Spool / Ivory</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku>HA976-62</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460799509</id>
+      <title>2&quot; / 10 Yards/Spool / Moss</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku>HA976-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460799509</id>
+      <title>2&quot; / 10 Yards/Spool / Orange</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku>HA976-33</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460832277</id>
+    <published>2020-10-07T12:50:46-04:00</published>
+    <updated>2020-10-07T12:50:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-wide-jute-ribbon"/>
+    <title>JKM Wide Jute Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x123-02-harvest.gif?v=1512857450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.68 - 14.75
+            <a href="https://www.jkmribbon.com/products/jkm-wide-jute-ribbon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wide Jute Ribbon is available in 4" and 9" widths on 10 yard rolls.<br>(Product Characteristic: Jute; Jute Like) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mesh Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460832277</id>
+      <title>4&quot; / 10 Yards/Spool / Natural</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA123-02</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460832277</id>
+      <title>9&quot; / 10 Yards/Spool / Natural</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku>HA124-02</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77476331541</id>
+    <published>2020-10-07T12:43:11-04:00</published>
+    <updated>2020-10-07T12:43:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-mesh-ribbon-1-1-2-width"/>
+    <title>JKM Mesh Ribbon - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x594-12-harvest.gif?v=1512859077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            14.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mesh Ribbon - 1 1/2" Width on a 25 yard roll is available in assorted colors.<br>(Product Characteristic: Jute; Jute Like) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mesh Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77476331541</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Dark Brown</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA594-91</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77476331541</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA594-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77476331541</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Moss</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA594-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77476331541</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Natural</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA594-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77476331541</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>HA594-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

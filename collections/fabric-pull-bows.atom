@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/fabric-pull-bows.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:11:18-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77432750101</id>
+    <published>2020-10-07T13:11:18-04:00</published>
+    <updated>2020-10-07T13:11:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-pull-bow-ribbon-3-8"/>
+    <title>JKM Sheer Pull Bow Ribbon - 3/8&quot;</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x2532-jkm.jpg?v=1512854703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Pull Bow is a Gold or Silver Edge Sheer Ribbon with a Satin Stripe down the middle and with a string to make a Pull Bow to any length you need. It is available in 3/8" Width on 25 Yards/Spool. It is perfect for corsage bows.<br>(Product Characteristic: Metallic) / (Fabric Content: 92% Nylon 8% Metallic Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 030 White</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-030-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-031-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-043-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 044 Green</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-044-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 050 Royal</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-050-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 052 Light Blue</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-052-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-055-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-061-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 062 Peach</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-062-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-065-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 070 Silver</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-070-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 091 Beige</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-091-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77432750101</id>
+      <title>3/8&quot; / 25 Yards/Spool / 099 Mauve</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>RE2532-099-15J</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457326101</id>
+    <published>2020-10-07T12:51:18-04:00</published>
+    <updated>2020-10-07T12:51:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-satin-stripes"/>
+    <title>JKM Pull Bow - Sheer with Satin Stripes</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR250-111-harvest.gif?v=1512857194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            22.13 - 221.32
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-satin-stripes">(26 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sheer With Satin Stripes is a folded piece of 1" ribbon which pulls out to an 18 loop, 6" diameter bow. It is available in assorted colors.<br>(Product Characteristic: Satin and Sheer Combo) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-02-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Ivory/Gold</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-52-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Ivory/Silver</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-62-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-11-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-20-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-05-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-12-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-23-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / White</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-01-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / White/Gold</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-51-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 12 Pcs/Box / White/Silver</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>HAPR250-61-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-02-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Ivory/Gold</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-52-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Ivory/Silver</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-62-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-11-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-20-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-05-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-12-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-23-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / White</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-01-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / White/Gold</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-51-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457326101</id>
+      <title>1&quot; x 18 Loops / 120 Pcs/Box / White/Silver</title>
+      <s:price currency="USD">221.32</s:price>
+      <s:sku>HAPR250-61-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457522709</id>
+    <published>2020-10-07T12:51:17-04:00</published>
+    <updated>2020-10-07T12:51:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-flower-petal-bow"/>
+    <title>JKM Flower Petal Bow</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR816-group-harvest.gif?v=1512857202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            16.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solid Fabric Petals come on a 10 yard spool (approx. 172 petals per roll) and can be made into a petal bow. Available in white and ivory.<br>(Product Characteristic: Satin Ribbon - Soft) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457522709</id>
+      <title>As Shown / 10 Yards/Spool / Ivory</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HAPR816-02</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457522709</id>
+      <title>As Shown / 10 Yards/Spool / White</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HAPR816-01</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457621013</id>
+    <published>2020-10-07T12:51:16-04:00</published>
+    <updated>2020-10-07T12:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-flower-petal-gingham-check-bow"/>
+    <title>JKM Flower Petal Gingham Check Bow</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR817-group-harvest.gif?v=1512857206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            18.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solid Fabric Petals come on a 10 yard spool (approx. 172 petal per spool) and can be made into a petal bow. Available in blue/white or pink/white gingham fabric.<br>(Product Characteristic: Gingham) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457621013</id>
+      <title>As Shown / 10 Yards/Spool / Light Blue/White Checker</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>HAPR817-20</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457621013</id>
+      <title>As Shown / 10 Yards/Spool / Pink/White Checker</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>HAPR817-05</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457719317</id>
+    <published>2020-10-07T12:51:15-04:00</published>
+    <updated>2020-10-07T12:51:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-acetate"/>
+    <title>JKM Pull Bow - Metallic Acetate</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR818-401-harvest.gif?v=1512857211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            19.53 - 195.28
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-acetate">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Acetate is a folded piece of 1" ribbon which pulls out to an 18 loop, 6" diameter bow. Available in Gold or Silver.<br>(Product Characteristic: Metallic Solid) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR818-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR818-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR818-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457719317</id>
+      <title>1&quot; x 16 Loops / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR818-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77457883157</id>
+    <published>2020-10-07T12:51:13-04:00</published>
+    <updated>2020-10-07T12:51:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-gingham-1-1-2-width"/>
+    <title>JKM Pull Bow Gingham - 1 1/2&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR822-11-harvest.gif?v=1512857220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow Gingham - 1 1/2" Width on a 10 yard spool is available in several colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Gingham) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Purple</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77457883157</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Yellow</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR822-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77458079765</id>
+    <published>2020-10-07T12:51:11-04:00</published>
+    <updated>2020-10-07T12:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-gingham-1-4-width"/>
+    <title>JKM Pull Bow Gingham - 1/4&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR832-20-harvest.gif?v=1512857230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow Gingham - 1/4" Width on a 25 yard spool is available in several colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Gingham) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Black</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-39</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-20</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-34</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-05</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Purple</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-11</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458079765</id>
+      <title>1/4&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR832-16</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77458669589</id>
+    <published>2020-10-07T12:51:08-04:00</published>
+    <updated>2020-10-07T12:51:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-center-satin-stripe-3-8-width"/>
+    <title>JKM Pull Bow - Center Satin Stripe &amp; 3/8&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR831-10-harvest.gif?v=1512857250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            4.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Center Satin Stripe, 3/8" Width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Satin and Sheer Combo) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Brown</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-27</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Forest Green</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Grey</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mauve</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Navy</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Royal Blue</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-23</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / White</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77458669589</id>
+      <title>3/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR831-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459226645</id>
+    <published>2020-10-07T12:51:05-04:00</published>
+    <updated>2020-10-07T12:51:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-edge-sheer-3-8-width"/>
+    <title>JKM Pull Bow - Metallic Edge Sheer &amp; 3/8&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr834-50-harvest.gif?v=1512857278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            4.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Edge Sheer, 3/8" width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Brown/Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-27</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Forest Green with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Grey with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lavender with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-57</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-50</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Grey with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-42</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mauve with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mint with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Navy with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Royal Blue with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-23</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-44</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459226645</id>
+      <title>3/8&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HAPR834-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459521557</id>
+    <published>2020-10-07T12:51:04-04:00</published>
+    <updated>2020-10-07T12:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-edge-sheer-1-width"/>
+    <title>JKM Pull Bow - Metallic Edge Sheer &amp; 1&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr825g-20-harvest.gif?v=1512857292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Edge Sheer, 1" width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Blue/Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-20</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-02</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-11</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-05</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / Pink with White Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825W-05</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825G-01</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459521557</id>
+      <title>1&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR825S-01</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459882005</id>
+    <published>2020-10-07T12:51:02-04:00</published>
+    <updated>2020-10-07T12:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-metallic-edge-sheer-1-1-2-width"/>
+    <title>JKM Pull Bow - Metallic Edge Sheer &amp; 1 1/2&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr835w-lb-harvest.gif?v=1512857317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            9.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Metallic Edge Sheer, 1 1/2" width on a 25 yard spool is available in assorted colors with gold or silver edge. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-BG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-BG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Hunter Green with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-HG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-IV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-IV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-LV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-LV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-LB</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-LB</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mauve with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-MV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-MT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mint with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-MT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Navy with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-NV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Peach</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-PH</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Peach with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-PH</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-PK</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-PK</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835-WT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-WT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835W-YL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459882005</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR835G-YL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77459980309</id>
+    <published>2020-10-07T12:51:01-04:00</published>
+    <updated>2020-10-07T12:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-metallic-trim-1-1-2-width"/>
+    <title>JKM Pull Bow - Sheer with Metallic Trim &amp; 1 1/2&quot; Width</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr839-10-harvest.gif?v=1512857332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sheer with Metallic Trim, 1 1/2" width on a 25 yard spool is available in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Grey with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-G-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77459980309</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAPR839-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77460144149</id>
+    <published>2020-10-07T12:50:58-04:00</published>
+    <updated>2020-10-07T12:50:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-thin-metallic-edge"/>
+    <title>JKM Pull Bow - Sheer with Thin Metallic Edge</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr841-10-harvest.gif?v=1512857348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            5.42 - 7.59
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-thin-metallic-edge">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sheer with Thin Metallic Edge is available in 7/8" or 1 1/2" width on a 25 yard spool in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Grey with Silver Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-40</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Yellow with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-41</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HAPR841-29</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Burgundy/Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-10</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Grey with Silver Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-40</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Ivory with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-02</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Lavender with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-11</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-20</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Yellow with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-16</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Pink with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-05</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Red with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-12</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / White with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-01</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / White with Silver Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-41</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77460144149</id>
+      <title>7/8&quot; / 25 Yards/Spool / Yellow with Gold Edge</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HAPR844-29</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79322349589</id>
+    <published>2020-10-07T12:38:28-04:00</published>
+    <updated>2020-10-07T12:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-satin-edge"/>
+    <title>JKM Pull Bow - Sheer with Satin Edge</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xPR815-05-harvest.gif?v=1513024922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            10.42 - 195.28
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-sheer-with-satin-edge">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sheer With Satin Edge is a folded piece of 5/8" or 1 1/2" ribbon which pulls out to an 18 loop, 6" diameter bow. It is available in assorted colors.<br>(Product Characteristic: Satin and Sheer Combo) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-39-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-10-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Cream</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-29-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-09-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-02-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-11-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-20-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Lime Green</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-34-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Orange</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-33-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Peach</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-03-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-05-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Purple</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-26-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-12-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-23-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / White</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-01-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 12 Pcs/Box / Yellow</title>
+      <s:price currency="USD">19.53</s:price>
+      <s:sku>HAPR815-16-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Black</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-39-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-10-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Cream</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-29-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-09-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-02-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-11-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-20-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Lime Green</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-34-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Orange</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-33-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Peach</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-03-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-05-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Purple</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-26-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-12-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-23-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / White</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-01-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>1 1/2&quot; x 18 Loops / 120 Pcs/Box / Yellow</title>
+      <s:price currency="USD">195.28</s:price>
+      <s:sku>HAPR815-16-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Black</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-39-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-10-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Cream</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-29-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Gold</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-27-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-09-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Ivory</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-02-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Lavender</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-11-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-20-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Lime Green</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-34-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Orange</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-33-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Peach</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-03-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Pink</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-05-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Purple</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-26-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Red</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-12-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-23-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Silver</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-40-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / White</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-01-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 12 Pcs/Box / Yellow</title>
+      <s:price currency="USD">10.42</s:price>
+      <s:sku>HAPR819-16-12PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Black</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-39-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Burgundy</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-10-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Cream</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-29-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Gold</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-27-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Hot Pink</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-09-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Ivory</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-02-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Lavender</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-11-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Light Blue</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-20-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Lime Green</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-34-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Orange</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-33-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Peach</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-03-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Pink</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-05-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Purple</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-26-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Red</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-12-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Royal Blue</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-23-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Silver</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-40-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / White</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-01-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322349589</id>
+      <title>5/8&quot; x 18 Loops / 120 Pcs/Box / Yellow</title>
+      <s:price currency="USD">104.15</s:price>
+      <s:sku>HAPR819-16-120P</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79322742805</id>
+    <published>2020-10-07T12:38:23-04:00</published>
+    <updated>2020-10-07T12:38:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pull-bow-sparkle"/>
+    <title>JKM Pull Bow - Sparkle</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xpr801mv1-harvest.gif?v=1513024956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            3.25 - 9.76
+            <a href="https://www.jkmribbon.com/products/jkm-pull-bow-sparkle">(56 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pull Bow - Sparkle is available in 4mm width on a 25 or 100 yard spool and 7mm width on a 50 yard spool widths in assorted colors. Cut off any length to vary the bow size then pull the string to make the bow.<br>(Product Characteristic: Metallic Sheer) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Pull Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Black with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-BK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Burgundy with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-BG</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Gold</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-GG</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Gold with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-G</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Hunter Green with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-HG</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Ivory with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-IV</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Lavender with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-LV</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Light Blue with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-LB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Mauve with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-MV</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Mint with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-MT</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Peach with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-PH</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Pink with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-PK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Purple with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-PL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Red with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-RD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Royal Blue with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-RB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Silver with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-SS</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Silver/Irid with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-S</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / White with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-WT</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 100 Yards/Spool / Yellow with Shimmer</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HAPR801-YL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Black with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-BK</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Burgundy with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-BG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Gold</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-GG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Gold with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-G</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Hunter Green with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-HG</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Ivory with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-IV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Lavender with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-LV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Light Blue with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-LB</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Mauve with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-MV</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Mint with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-MT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Peach with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-PH</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Pink with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-PK</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Purple with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-PL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Red with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-RD</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Royal Blue with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-RB</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Silver with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-SS</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Silver/Irid with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-S</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / White with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-WT</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>4mm / 25 Yards/Spool / Yellow with Shimmer</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>HAPR801-25-YL</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Burgundy with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-BG</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Gold</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-GG</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Gold with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-G</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Hunter Green with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-HG</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Ivory with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-IV</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Lavender with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-LV</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Light Blue with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-LB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Mauve with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-MV</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Mint with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-MT</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Peach with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-PH</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Pink with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-PK</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Purple with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-PL</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Red with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-RD</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Royal Blue with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-RB</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Silver with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-SS</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Silver/Irid with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-S</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / White with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-WT</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79322742805</id>
+      <title>7mm / 50 Yards/Spool / Yellow with Shimmer</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HAPR830-YL</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

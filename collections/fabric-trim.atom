@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/fabric-trim.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:22-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414203413</id>
+    <published>2020-10-07T13:17:22-04:00</published>
+    <updated>2020-10-07T13:17:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-chain-on-ruffled-tulle-2"/>
+    <title>Wrights Chain on Ruffled Tulle - 2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866317836-wrights-2011.jpg?v=1512853427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            39.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chain on Ruffled Tulle is available in a 2" width on an 8 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Nylon 30% Aluminum 10% Polyurethane)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414203413</id>
+      <title>2&quot; / 8 Yards/Reel / 836 Black / Silver</title>
+      <s:price currency="USD">39.62</s:price>
+      <s:sku>MR1866317836</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414432789</id>
+    <published>2020-10-07T13:17:12-04:00</published>
+    <updated>2020-10-07T13:17:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sheer-rose-1-1-2"/>
+    <title>Wrights Sheer Rose - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866309065-wrights-2011.jpg?v=1512853457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            16.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Rose is available in a 1 1/2" width on a 6 yard reel in assorted colors.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 58% polyester 42% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414432789</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 030 White</title>
+      <s:price currency="USD">16.25</s:price>
+      <s:sku>MR1866309030</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414432789</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">16.25</s:price>
+      <s:sku>MR1866309031</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414432789</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">16.25</s:price>
+      <s:sku>MR1866309065</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414432789</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 148 Cranberry</title>
+      <s:price currency="USD">16.25</s:price>
+      <s:sku>MR1866309148</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414432789</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 151 Coffee</title>
+      <s:price currency="USD">16.25</s:price>
+      <s:sku>MR1866309151</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414432789</id>
+      <title>1 1/2&quot; / 6 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">16.25</s:price>
+      <s:sku>MR1866309810</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414498325</id>
+    <published>2020-10-07T13:17:10-04:00</published>
+    <updated>2020-10-07T13:17:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ultra-lash-2-1-2"/>
+    <title>Wrights Ultra Lash - 2 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866302061-wrights-2011.jpg?v=1512853463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ultra Lash is available in a 2 1/2" Width on an 8 yard reel in assorted colors.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414498325</id>
+      <title>2 1/2&quot; / 8 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.14</s:price>
+      <s:sku>MR1866302030</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414498325</id>
+      <title>2 1/2&quot; / 8 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">12.14</s:price>
+      <s:sku>MR1866302031</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414498325</id>
+      <title>2 1/2&quot; / 8 Yards/Reel / 221 Fuchsia</title>
+      <s:price currency="USD">12.14</s:price>
+      <s:sku>MR1866302221</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414498325</id>
+      <title>2 1/2&quot; / 8 Yards/Reel / 560 Chocolate Brown</title>
+      <s:price currency="USD">12.14</s:price>
+      <s:sku>MR1866302560</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414563861</id>
+    <published>2020-10-07T13:17:08-04:00</published>
+    <updated>2020-10-07T13:17:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sparkle-tulle-trim-4"/>
+    <title>Wrights Sparkle Tulle Trim - 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866311151-wrights-2011.jpg?v=1512853471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            27.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparkle Tulle Trim is available in 4" width on a 12 yard reel.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 70% Nylon 30% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414563861</id>
+      <title>4&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">27.14</s:price>
+      <s:sku>MR1866311031</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414563861</id>
+      <title>4&quot; / 12 Yards/Reel / 148 Cranberry</title>
+      <s:price currency="USD">27.14</s:price>
+      <s:sku>MR1866311148</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414629397</id>
+    <published>2020-10-07T13:17:04-04:00</published>
+    <updated>2020-10-07T13:17:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-stretch-sequins-7-8-id-mr1866305"/>
+    <title>Wrights Stretch Sequins - 7/8&quot; (ID: MR1866305)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866305110-wrights-2011.jpg?v=1512853484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            15.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stretch Sequins is available in 7/8" width on a 10 yard reel in assorted colors.<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: 40% PVC 40% Acrylic 20% Rubber)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414629397</id>
+      <title>7/8&quot; / 10 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>MR1866305055</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414629397</id>
+      <title>7/8&quot; / 10 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>MR1866305061</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414629397</id>
+      <title>7/8&quot; / 10 Yards/Reel / 110 Green</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>MR1866305110</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414629397</id>
+      <title>7/8&quot; / 10 Yards/Reel / 221 Fuchsia</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>MR1866305221</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414629397</id>
+      <title>7/8&quot; / 10 Yards/Reel / 973 Blue Radiance</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>MR1866305973</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421805589</id>
+    <published>2020-10-07T13:14:50-04:00</published>
+    <updated>2020-10-07T13:14:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-knife-pleat-1-1-2"/>
+    <title>Wrights Knife Pleat - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1865362061-wrights.jpg?v=1512853910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            21.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Knife Pleat is available in 1 1/2" Width 8 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421805589</id>
+      <title>1 1/2&quot; / 8 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1865362031</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421805589</id>
+      <title>1 1/2&quot; / 8 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1865362034</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421805589</id>
+      <title>1 1/2&quot; / 8 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1865362061</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421805589</id>
+      <title>1 1/2&quot; / 8 Yards/Reel / 901 Nude</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1865362901</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421838357</id>
+    <published>2020-10-07T13:14:49-04:00</published>
+    <updated>2020-10-07T13:14:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-beaded-square-with-gem-3-8"/>
+    <title>Wrights Beaded Square with Gem - 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861112070-wrights.jpg?v=1512853914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            33.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beaded Square with Gem is available in 3/8" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 95% Plastic 5% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421838357</id>
+      <title>3/8&quot; / 10 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>MR1861111046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421838357</id>
+      <title>3/8&quot; / 10 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>MR1861112070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421871125</id>
+    <published>2020-10-07T13:14:48-04:00</published>
+    <updated>2020-10-07T13:14:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-plastic-rhinestones"/>
+    <title>Wrights Plastic Rhinestones</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862204001-wrights.jpg?v=1512853918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            100.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plastic Rhinestones is available in As Shown Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 95% Plastic 5% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421871125</id>
+      <title>As Shown / 10 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">100.96</s:price>
+      <s:sku>MR1862204001</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421871125</id>
+      <title>As Shown / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">100.96</s:price>
+      <s:sku>MR1866273031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421903893</id>
+    <published>2020-10-07T13:14:46-04:00</published>
+    <updated>2020-10-07T13:14:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-rhinestone-chain-3-16"/>
+    <title>Wrights Rhinestone Chain - 3/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1864021001-wrights.jpg?v=1512853922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            17.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rhinestone Chain is available in 3/16" Width 10 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421903893</id>
+      <title>3/16&quot; / 10 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">17.93</s:price>
+      <s:sku>MR1864021001</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421903893</id>
+      <title>3/16&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">17.93</s:price>
+      <s:sku>MR1866272030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421903893</id>
+      <title>3/16&quot; / 10 Yards/Reel / 2117 Brown/Gold</title>
+      <s:price currency="USD">17.93</s:price>
+      <s:sku>MR18662722117</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421936661</id>
+    <published>2020-10-07T13:14:45-04:00</published>
+    <updated>2020-10-07T13:14:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-crystal-chain-rhinestone-1-8"/>
+    <title>Wrights Crystal Chain/Rhinestone - 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862667070-wrights.jpg?v=1512853926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            127.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crystal Chain/Rhinestone is available in 1/8" Width 12 Yards/Reel<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: 60% Glass 40% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421936661</id>
+      <title>1/8&quot; / 12 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">127.74</s:price>
+      <s:sku>MR1862665046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421936661</id>
+      <title>1/8&quot; / 12 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">127.74</s:price>
+      <s:sku>MR1862667070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422002197</id>
+    <published>2020-10-07T13:14:44-04:00</published>
+    <updated>2020-10-07T13:14:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-crystal-rhinestone-3-16"/>
+    <title>Wrights Crystal Rhinestone - 3/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862668070-wrights.jpg?v=1512853930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            148.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crystal Rhinestone is available in 3/16" Width 12 Yards/Reel<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: 60% Glass 40% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422002197</id>
+      <title>3/16&quot; / 12 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">148.14</s:price>
+      <s:sku>MR1862666046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422002197</id>
+      <title>3/16&quot; / 12 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">148.14</s:price>
+      <s:sku>MR1862668070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422034965</id>
+    <published>2020-10-07T13:14:42-04:00</published>
+    <updated>2020-10-07T13:14:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-feather-boa-1-1-2"/>
+    <title>Wrights Feather Boa - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861015065-wrights.jpg?v=1512853940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feather Boa is available in 1 1/2" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 98% Turkey Feathers 2% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861015030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861014031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861015034</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 058 Orange</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1862038058</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1862037061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 064 Purple</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1862039064</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861015065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 904 Hot Pink</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861056904</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422034965</id>
+      <title>1 1/2&quot; / 10 Yards/Reel / 905 Light Tan</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1861015905</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422067733</id>
+    <published>2020-10-07T13:14:40-04:00</published>
+    <updated>2020-10-07T13:14:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-stretch-band-paillettes-1"/>
+    <title>Wrights Stretch Band/Paillettes - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862121879-wrights.jpg?v=1512853944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            38.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stretch Band/Paillettes is available in 1" Width 8 Yards/Reel<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: 60% Nylon 40% PVC)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422067733</id>
+      <title>1&quot; / 8 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">38.08</s:price>
+      <s:sku>MR1862132031</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422067733</id>
+      <title>1&quot; / 8 Yards/Reel / 879 Black/Gold</title>
+      <s:price currency="USD">38.08</s:price>
+      <s:sku>MR1862121879</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422100501</id>
+    <published>2020-10-07T13:14:39-04:00</published>
+    <updated>2020-10-07T13:14:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-paillettes-trim-1"/>
+    <title>Wrights Paillettes Trim - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862168051-wrights.jpg?v=1512853948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            28.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paillettes Trim is available in 1" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Nylon 40% PVC)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422100501</id>
+      <title>1&quot; / 8 Yards/Reel / 038 Neon Green</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>MR1862160038</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422100501</id>
+      <title>1&quot; / 8 Yards/Reel / 214 River</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>MR1862167214</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422100501</id>
+      <title>1&quot; / 8 Yards/Reel / 217 Raspberry</title>
+      <s:price currency="USD">28.85</s:price>
+      <s:sku>MR1863196217</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422133269</id>
+    <published>2020-10-07T13:14:37-04:00</published>
+    <updated>2020-10-07T13:14:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-shimmer-1"/>
+    <title>Wrights Shimmer - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1865374070-wrights.jpg?v=1512853953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            25.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shimmer is available in 1" Width 10 Yards/Reel<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: 60% Metallic 40% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422133269</id>
+      <title>1&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">25.54</s:price>
+      <s:sku>MR1865374031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422133269</id>
+      <title>1&quot; / 10 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">25.54</s:price>
+      <s:sku>MR1865374046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422133269</id>
+      <title>1&quot; / 10 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">25.54</s:price>
+      <s:sku>MR1865374070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422297109</id>
+    <published>2020-10-07T13:14:36-04:00</published>
+    <updated>2020-10-07T13:14:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ostrich-feather-boa-6-id-mr1864181"/>
+    <title>Wrights Ostrich Feather Boa - 6&quot; (ID: MR1864181)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1864181065-wrights.jpg?v=1512853972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            74.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ostrich Feather Boa is available in 6" Width 6 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Turkey Feathers 38% Ostrich Feathers 2% Polyes)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422297109</id>
+      <title>6&quot; / 6 Yards/Reel / 030 White</title>
+      <s:price currency="USD">74.17</s:price>
+      <s:sku>MR1864182030</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422297109</id>
+      <title>6&quot; / 6 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">74.17</s:price>
+      <s:sku>MR1864181065</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422362645</id>
+    <published>2020-10-07T13:14:34-04:00</published>
+    <updated>2020-10-07T13:14:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-bead-with-white-ruffle-1-1-4"/>
+    <title>Wrights Bead with White Ruffle - 1 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862317305-wrights.jpg?v=1512853976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead with White Ruffle is available in 1 1/4" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422362645</id>
+      <title>1 1/4&quot; / 12 Yards/Reel / 304 Pink/White</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>MR1862318304</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422362645</id>
+      <title>1 1/4&quot; / 12 Yards/Reel / 305 Blue/White</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>MR1862317305</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422428181</id>
+    <published>2020-10-07T13:14:33-04:00</published>
+    <updated>2020-10-07T13:14:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-woven-scroll-3-8"/>
+    <title>Wrights Woven Scroll - 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861082028-wrights.jpg?v=1512853982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Woven Scroll is available in 3/8" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 63% Rayon 37% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422428181</id>
+      <title>3/8&quot; / 12 Yards/Reel / 028 Oyster</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861082028</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422428181</id>
+      <title>3/8&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861083030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422428181</id>
+      <title>3/8&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861084031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422428181</id>
+      <title>3/8&quot; / 12 Yards/Reel / 405 Chocolate</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861084405</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422460949</id>
+    <published>2020-10-07T13:14:32-04:00</published>
+    <updated>2020-10-07T13:14:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pearls-on-beading-3-4"/>
+    <title>Wrights Pearls on Beading - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861164030-wrights.jpg?v=1512853987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pearls on Beading is available in 3/4" Width 12 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 80% Polyester 20% Polystyrene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422460949</id>
+      <title>3/4&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1861164030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422460949</id>
+      <title>3/4&quot; / 12 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1861165810</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422460949</id>
+      <title>3/4&quot; / 12 Yards/Reel / 902 Soft Pink</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1863282902</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422493717</id>
+    <published>2020-10-07T13:14:30-04:00</published>
+    <updated>2020-10-07T13:14:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sequin-frizette-trim-1-2"/>
+    <title>Wrights Sequin Frizette Trim - 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861108064-wrights.jpg?v=1512853993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            17.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sequin Frizette Trim is available in 1/2" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Metallic 50% PVC)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422493717</id>
+      <title>1/2&quot; / 10 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">17.88</s:price>
+      <s:sku>MR1861129046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422493717</id>
+      <title>1/2&quot; / 10 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">17.88</s:price>
+      <s:sku>MR1861127070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422493717</id>
+      <title>1/2&quot; / 10 Yards/Reel / 077 Aqua</title>
+      <s:price currency="USD">17.88</s:price>
+      <s:sku>MR1862079077</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422493717</id>
+      <title>1/2&quot; / 10 Yards/Reel / 952 Magenta</title>
+      <s:price currency="USD">17.88</s:price>
+      <s:sku>MR1862078952</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422526485</id>
+    <published>2020-10-07T13:14:28-04:00</published>
+    <updated>2020-10-07T13:14:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-stretch-sequins-7-8-id-mr1861109"/>
+    <title>Wrights Stretch Sequins - 7/8&quot; (ID: MR1861109)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861109064-wrights.jpg?v=1512853999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            21.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stretch Sequins is available in 7/8" Width 10 Yards/Reel<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: 40% PVC 40% Acrylic 20% Rubber)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422526485</id>
+      <title>7/8&quot; / 10 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1861126031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422526485</id>
+      <title>7/8&quot; / 10 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1861186046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422526485</id>
+      <title>7/8&quot; / 10 Yards/Reel / 064 Purple</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1861109064</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422526485</id>
+      <title>7/8&quot; / 10 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1861125070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422526485</id>
+      <title>7/8&quot; / 10 Yards/Reel / 075 Flame</title>
+      <s:price currency="USD">21.63</s:price>
+      <s:sku>MR1861124075</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422559253</id>
+    <published>2020-10-07T13:14:27-04:00</published>
+    <updated>2020-10-07T13:14:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sequin-band"/>
+    <title>Wrights Sequin Band</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862313046-wrights.jpg?v=1512854004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sequin Band is available in As Shown Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Polyester 40% Plastic 10% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422559253</id>
+      <title>As Shown / 12 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">10.51</s:price>
+      <s:sku>MR1862313046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422559253</id>
+      <title>As Shown / 12 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">10.51</s:price>
+      <s:sku>MR1862314070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422592021</id>
+    <published>2020-10-07T13:14:25-04:00</published>
+    <updated>2020-10-07T13:14:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-single-sequin"/>
+    <title>Wrights Single Sequin</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862622069-wrights.jpg?v=1512854014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single Sequin is available in 1/4" Width 24 Yards/Reel is available in 1/4" Width 24 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 90% PVC 10% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862642031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862646061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 064 Purple</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862647064</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862644065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862643070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 204 Lime Fizz</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862652204</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 221 Fuchsia</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862645221</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862623046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422592021</id>
+      <title>1/4&quot; / 24 Yards/Reel / 069 Turquoise</title>
+      <s:price currency="USD">10.30</s:price>
+      <s:sku>MR1862622069</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422624789</id>
+    <published>2020-10-07T13:14:24-04:00</published>
+    <updated>2020-10-07T13:14:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sequin-7-8"/>
+    <title>Wrights Sequin - 7/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1865370046-wrights.jpg?v=1512854018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            22.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sequin is available in 7/8" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% PVC 40% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422624789</id>
+      <title>7/8&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">22.66</s:price>
+      <s:sku>MR1865370031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422624789</id>
+      <title>7/8&quot; / 12 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">22.66</s:price>
+      <s:sku>MR1865370070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77422657557</id>
+    <published>2020-10-07T13:14:22-04:00</published>
+    <updated>2020-10-07T13:14:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sequin-2"/>
+    <title>Wrights Sequin - 2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x18662681004-wrights.jpg?v=1512854023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            72.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sequin is available in 2" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 90% Plastic 10% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422657557</id>
+      <title>2&quot; / 10 Yards/Reel / 1004 Copper/Gold</title>
+      <s:price currency="USD">72.11</s:price>
+      <s:sku>MR18662681004</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77422657557</id>
+      <title>2&quot; / 10 Yards/Reel / 836 Black/Silver</title>
+      <s:price currency="USD">72.11</s:price>
+      <s:sku>MR1866268836</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+</feed>

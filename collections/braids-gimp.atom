@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/braids-gimp.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:46-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77413613589</id>
+    <published>2020-10-07T13:17:46-04:00</published>
+    <updated>2020-10-07T13:17:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-scroll-gimp-jkm-classic-label-trim-1-2-width"/>
+    <title>JKM Scroll Gimp (JKM Classic Label Trim) - 1/2&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x22C006-jkm.jpg?v=1512853232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JKM's scroll gimp is a JKM Classic Label Trim available in 1/2" width on 18 yard rolls. This Trim is one of 11 styles in JKM's Classic Label Trims' Collection which include: Twisted Cord, Cord with Lip, Scroll &amp; French Gimp, and Tassel, Brush &amp; Bullion Fringes. These Trims are High Quality at Affordable Wholesale Prices. There are 12 Vibrant Colors Available for Each of the 11 Styles. A Sample Book with actual samples of each style and each color (132 samples) is available for purchase in the sample cards section under JKM Classic Label Trims' Sample Book. Dry clean only.<br>(Product Characteristic: Gimp) / (Fabric Content: 90% Cotton 10% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 030 White</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006030-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006031-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 035 Gold</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006035-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006043-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 049 Rust</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006049-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006055-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006065-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 091 Beige</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006091-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 092 Brown</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006092-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 201 Wine</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006201-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 700 Sand</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006700-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413613589</id>
+      <title>1/2&quot; / 18 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">8.89</s:price>
+      <s:sku>RF22C006810-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77413711893</id>
+    <published>2020-10-07T13:17:44-04:00</published>
+    <updated>2020-10-07T13:17:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-french-gimp-jkm-classic-label-trim-1-2-width"/>
+    <title>JKM French Gimp (JKM Classic Label Trim) - 1/2&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x22C005-jkm.jpg?v=1512853246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JKM's french gimp is a JKM Classic Label Trim available in 1/2" width on 18 yard rolls. This Trim is one of 11 styles in JKM's Classic Label Trims' Collection which include: Twisted Cord, Cord with Lip, Scroll &amp; French Gimp, and Tassel, Brush &amp; Bullion Fringes. These Trims are High Quality at Affordable Wholesale Prices. There are 12 Vibrant Colors Available for Each of the 11 Styles. A Sample Book with actual samples of each style and each color (132 samples) is available for purchase in the sample cards section under JKM Classic Label Trims' Sample Book. Dry clean only.<br>(Product Characteristic: Gimp) / (Fabric Content: 90% Cotton 10% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 030 White</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005030-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005031-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 035 Gold</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005035-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005043-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 049 Rust</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005049-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005055-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005065-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 091 Beige</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005091-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 092 Brown</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005092-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 201 Wine</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005201-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 700 Sand</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005700-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413711893</id>
+      <title>1/2&quot; / 18 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">12.89</s:price>
+      <s:sku>RF22C005810-02O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77418790933</id>
+    <published>2020-10-07T13:16:08-04:00</published>
+    <updated>2020-10-07T13:16:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-braided-cord-3-16"/>
+    <title>Wrights Braided Cord - 3/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861058031-wrights.jpg?v=1512853655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Braided Cord is available in 3/16" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418790933</id>
+      <title>3/16&quot; / 15 Yards/Reel / 030 White</title>
+      <s:price currency="USD">10.82</s:price>
+      <s:sku>MR1861057030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77418790933</id>
+      <title>3/16&quot; / 15 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">10.82</s:price>
+      <s:sku>MR1861058031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419053077</id>
+    <published>2020-10-07T13:16:07-04:00</published>
+    <updated>2020-10-07T13:16:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-rayon-foldover-1-2"/>
+    <title>Wrights Rayon Foldover - 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862677031-wrights_b07bd64b-64cd-4874-a4f0-abee7d3fd6d1.jpg?v=1512853662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rayon Foldover is available in 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419053077</id>
+      <title>1/2&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">9.89</s:price>
+      <s:sku>MR1862677031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419053077</id>
+      <title>1/2&quot; / 12 Yards/Reel / 986 Ecru</title>
+      <s:price currency="USD">9.89</s:price>
+      <s:sku>MR1862677986</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419216917</id>
+    <published>2020-10-07T13:16:05-04:00</published>
+    <updated>2020-10-07T13:16:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-foldover-band-1-2"/>
+    <title>Wrights Foldover Band - 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862677065-wrights.jpg?v=1512853667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            5.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Foldover Band is available in 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419216917</id>
+      <title>1/2&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">5.87</s:price>
+      <s:sku>MR1862678030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419216917</id>
+      <title>1/2&quot; / 12 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">5.87</s:price>
+      <s:sku>MR1862677055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419216917</id>
+      <title>1/2&quot; / 12 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">5.87</s:price>
+      <s:sku>MR1862677065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419315221</id>
+    <published>2020-10-07T13:16:04-04:00</published>
+    <updated>2020-10-07T13:16:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-mini-gimp-braid-1-4"/>
+    <title>Wrights Mini Gimp Braid - 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861081028-wrights.jpg?v=1512853671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Gimp Braid is available in 1/4" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 80% Rayon 15% Cotton 5% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419315221</id>
+      <title>1/4&quot; / 12 Yards/Reel / 028 Oyster</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861081028</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419315221</id>
+      <title>1/4&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">8.65</s:price>
+      <s:sku>MR1861181030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419347989</id>
+    <published>2020-10-07T13:16:03-04:00</published>
+    <updated>2020-10-07T13:16:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-velvet-scroll-braid-5-8"/>
+    <title>Wrights Velvet Scroll Braid - 5/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862089290-wrights.jpg?v=1512853675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet Scroll Braid is available in 5/8" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Nylon 30% Rayon 20% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419347989</id>
+      <title>5/8&quot; / 8 Yards/Reel / 290 Cornflower Blue</title>
+      <s:price currency="USD">13.19</s:price>
+      <s:sku>MR1862089290</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419347989</id>
+      <title>5/8&quot; / 8 Yards/Reel / 709 Wisteria</title>
+      <s:price currency="USD">13.19</s:price>
+      <s:sku>MR1862090709</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419479061</id>
+    <published>2020-10-07T13:16:01-04:00</published>
+    <updated>2020-10-07T13:16:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-soutache-braid-1-8"/>
+    <title>Wrights Soutache Braid - 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863082064-wrights.jpg?v=1512853680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soutache Braid is available in 1/8" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419479061</id>
+      <title>1/8&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MR1863083031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419479061</id>
+      <title>1/8&quot; / 12 Yards/Reel / 045 Light Grey</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MR1863084045</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419479061</id>
+      <title>1/8&quot; / 12 Yards/Reel / 405 Chocolate</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MR1863083405</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419610133</id>
+    <published>2020-10-07T13:15:59-04:00</published>
+    <updated>2020-10-07T13:15:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-baby-chinese-gimp-3-8"/>
+    <title>Wrights Baby Chinese Gimp - 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862701928-wrights.jpg?v=1512853686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Chinese Gimp is available in 3/8" Width 18 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Rayon 35% Cotton 15% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419610133</id>
+      <title>3/8&quot; / 18 Yards/Reel / 030 White</title>
+      <s:price currency="USD">10.51</s:price>
+      <s:sku>MR1862701030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419610133</id>
+      <title>3/8&quot; / 18 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">10.51</s:price>
+      <s:sku>MR1862701031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419610133</id>
+      <title>3/8&quot; / 18 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">10.51</s:price>
+      <s:sku>MR1862701061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419610133</id>
+      <title>3/8&quot; / 18 Yards/Reel / 928 Antique Gold</title>
+      <s:price currency="USD">10.51</s:price>
+      <s:sku>MR1862701928</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419610133</id>
+      <title>3/8&quot; / 18 Yards/Reel / 986 Ecru</title>
+      <s:price currency="USD">10.51</s:price>
+      <s:sku>MR1862701986</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419806741</id>
+    <published>2020-10-07T13:15:57-04:00</published>
+    <updated>2020-10-07T13:15:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-chinese-gimp"/>
+    <title>Wrights Chinese Gimp</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862702515-wrights.jpg?v=1512853696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.48 - 10.96
+            <a href="https://www.jkmribbon.com/products/wrights-chinese-gimp">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chinese Gimp is available in 1/2" Width 12 Yards/Reel is available in 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 70% Rayon 22% Cotton 8% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR1862702030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR1862702031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR1862702055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR1862702061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 1282 Flag Gold</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR18627021282</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 148 Cranberry</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR1862702148</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 928 Antique Gold</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR1862702928</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 986 Ecru</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>MR1862702986</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419806741</id>
+      <title>1/2&quot; / 12 Yards/Reel / 1292 Gold Metallic</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>MR18627021292</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77419905045</id>
+    <published>2020-10-07T13:15:56-04:00</published>
+    <updated>2020-10-07T13:15:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-cord-gimp-1mm"/>
+    <title>Wrights Cord Gimp - 1mm</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862704034-wrights.jpg?v=1512853700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cord Gimp Gimp is available in 1mm Width 18 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Cotton 40% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419905045</id>
+      <title>1mm / 18 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MR1862704031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77419905045</id>
+      <title>1mm / 18 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>MR1862704034</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420003349</id>
+    <published>2020-10-07T13:15:54-04:00</published>
+    <updated>2020-10-07T13:15:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pressed-tab-gimp-5-8"/>
+    <title>Wrights Pressed Tab Gimp - 5/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862705052-wrights.jpg?v=1512853705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pressed Tab Gimp is available in 5/8" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420003349</id>
+      <title>5/8&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1862705030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420003349</id>
+      <title>5/8&quot; / 12 Yards/Reel / 052 Light Blue</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1862705052</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420003349</id>
+      <title>5/8&quot; / 12 Yards/Reel / 986 Ecru</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1862705986</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420199957</id>
+    <published>2020-10-07T13:15:53-04:00</published>
+    <updated>2020-10-07T13:15:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-file-braid-gimp-1-4"/>
+    <title>Wrights File Braid Gimp - 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862706052-wrights.jpg?v=1512853711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>File Braid Gimp is available in 1/4" Width 18 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Polyester 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420199957</id>
+      <title>1/4&quot; / 18 Yards/Reel / 030 White</title>
+      <s:price currency="USD">9.46</s:price>
+      <s:sku>MR1862706030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420199957</id>
+      <title>1/4&quot; / 18 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">9.46</s:price>
+      <s:sku>MR1862706031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420199957</id>
+      <title>1/4&quot; / 18 Yards/Reel / 052 Light Blue</title>
+      <s:price currency="USD">9.46</s:price>
+      <s:sku>MR1862706052</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420199957</id>
+      <title>1/4&quot; / 18 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">9.46</s:price>
+      <s:sku>MR1862706055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420199957</id>
+      <title>1/4&quot; / 18 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">9.46</s:price>
+      <s:sku>MR1862706065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420298261</id>
+    <published>2020-10-07T13:15:51-04:00</published>
+    <updated>2020-10-07T13:15:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-daisy-gimp-1"/>
+    <title>Wrights Daisy Gimp - 1&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862709055-wrights.jpg?v=1512853716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daisy Gimp is available in 1" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Rayon 50% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420298261</id>
+      <title>1&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">9.11</s:price>
+      <s:sku>MR1862709031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420298261</id>
+      <title>1&quot; / 12 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">9.11</s:price>
+      <s:sku>MR1862709055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420331029</id>
+    <published>2020-10-07T13:15:50-04:00</published>
+    <updated>2020-10-07T13:15:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-pearl-gimp-1-2"/>
+    <title>Wrights Pearl Gimp - 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862715060-wrights.jpg?v=1512853720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            21.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pearl Gimp is available in 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 40% Plastic 35% Polyester 25% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420331029</id>
+      <title>1/2&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">21.92</s:price>
+      <s:sku>MR1862715030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420331029</id>
+      <title>1/2&quot; / 12 Yards/Reel / 060 Cream</title>
+      <s:price currency="USD">21.92</s:price>
+      <s:sku>MR1862715060</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420363797</id>
+    <published>2020-10-07T13:15:48-04:00</published>
+    <updated>2020-10-07T13:15:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-velvet-scroll-gimp-3-4"/>
+    <title>Wrights Velvet Scroll Gimp - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1864078560-wrights.jpg?v=1512853723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet Scroll Gimp is available in 3/4" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Nylon 30% Rayon 20% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420363797</id>
+      <title>3/4&quot; / 8 Yards/Reel / 511 Toast</title>
+      <s:price currency="USD">13.19</s:price>
+      <s:sku>MR1864081511</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420363797</id>
+      <title>3/4&quot; / 8 Yards/Reel / 560 Chocolate Brown</title>
+      <s:price currency="USD">13.19</s:price>
+      <s:sku>MR1864078560</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420396565</id>
+    <published>2020-10-07T13:15:47-04:00</published>
+    <updated>2020-10-07T13:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-gimp-3-4"/>
+    <title>Wrights Metallic Gimp - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862044070-wrights.jpg?v=1512853727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            11.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Gimp is available in 3/4" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Metallic 35% Cotton 5% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420396565</id>
+      <title>3/4&quot; / 10 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">11.54</s:price>
+      <s:sku>MR1862043046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420396565</id>
+      <title>3/4&quot; / 10 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">11.54</s:price>
+      <s:sku>MR1862044070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420429333</id>
+    <published>2020-10-07T13:15:46-04:00</published>
+    <updated>2020-10-07T13:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-beaded-metallic-gimp-5-8"/>
+    <title>Wrights Beaded Metallic Gimp - 5/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862113883-wrights.jpg?v=1512853731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beaded Metallic Gimp is available in 5/8" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Polyester 40% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420429333</id>
+      <title>5/8&quot; / 10 Yards/Reel / 882 Green/Gold</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1862114882</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420429333</id>
+      <title>5/8&quot; / 10 Yards/Reel / 883 Wine/Gold</title>
+      <s:price currency="USD">14.42</s:price>
+      <s:sku>MR1862113883</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420462101</id>
+    <published>2020-10-07T13:15:44-04:00</published>
+    <updated>2020-10-07T13:15:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-braid-3-4"/>
+    <title>Wrights Metallic Braid - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863321070-wrights.jpg?v=1512853735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Braid is available in 3/4" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 50% Metallic 30% Polyester 20% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420462101</id>
+      <title>3/4&quot; / 10 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>MR1863326061</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420462101</id>
+      <title>3/4&quot; / 10 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>MR1863321070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425868821</id>
+    <published>2020-10-07T13:12:38-04:00</published>
+    <updated>2020-10-07T13:12:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-scroll-gimp-color-set-i"/>
+    <title>Wrights Scroll Gimp Color Set I</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1415160031-wrights.jpg?v=1512854349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scroll Gimp Color Set I is available in 1/2" Width, 12 Yards/Reel.<br>(Product Characteristic: Gimp) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425868821</id>
+      <title>1/2&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR1415160031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425868821</id>
+      <title>1/2&quot; / 12 Yards/Reel / 112 Old Gold</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR1415160112</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425868821</id>
+      <title>1/2&quot; / 12 Yards/Reel / 1126 Branch</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR14151601126</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425868821</id>
+      <title>1/2&quot; / 12 Yards/Reel / 1263 French Blue</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR14151601263</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425868821</id>
+      <title>1/2&quot; / 12 Yards/Reel / 149 Camel</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR1415160149</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425868821</id>
+      <title>1/2&quot; / 12 Yards/Reel / 560 Chocolate Brown</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR1415160560</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425868821</id>
+      <title>1/2&quot; / 12 Yards/Reel / 932 Spice</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>MR1415160932</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77427605525</id>
+    <published>2020-10-07T13:12:15-04:00</published>
+    <updated>2020-10-07T13:12:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-braided-gimp-3-4"/>
+    <title>Wrights Braided Gimp - 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x18361351126J-wrights.jpg?v=1512854438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            25.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Braided Gimp is available in 3/4" Width 12 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427605525</id>
+      <title>3/4&quot; / 12 Yards/Reel / 1126J Branch</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR18361351126J</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77427605525</id>
+      <title>3/4&quot; / 12 Yards/Reel / 1263J French Blue</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR18361351263J</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394149397</id>
+    <published>2017-12-09T15:31:29-05:00</published>
+    <updated>2017-12-09T15:31:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-salon-gimp-1-2-width"/>
+    <title>Wrights Salon Gimp - 1/2&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1444266-wrights.jpg?v=1512851494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            17.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our salon gimp comes in 16 beautiful colors and is available in 1/2" width on 12 yard reels.<br>(Product Characteristic: Gimp) / (Fabric Content: 4% Polyester 18% Cotton 78% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394149397</id>
+      <title>1/2&quot; / 12 Yards/Reel / 028 Oyster</title>
+      <s:price currency="USD">17.21</s:price>
+      <s:sku>MR1444266028</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394149397</id>
+      <title>1/2&quot; / 12 Yards/Reel / 033 Taupe</title>
+      <s:price currency="USD">17.21</s:price>
+      <s:sku>MR1444266033</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394149397</id>
+      <title>1/2&quot; / 12 Yards/Reel / 109 Daffodil</title>
+      <s:price currency="USD">17.21</s:price>
+      <s:sku>MR1444266109</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394149397</id>
+      <title>1/2&quot; / 12 Yards/Reel / 511 Toast</title>
+      <s:price currency="USD">17.21</s:price>
+      <s:sku>MR1444266511</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392412693</id>
+    <published>2017-12-09T15:25:28-05:00</published>
+    <updated>2017-12-09T15:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-double-knitted-cord-3-4-width"/>
+    <title>Wrights Double Knitted Cord - 3/4&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1836135-wrights.jpg?v=1512851134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            25.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our double knitted cord comes in one beautiful color and is available in 3/4" width on 12 yard reels.<br>(Product Characteristic: Cord) / (Fabric Content: 5% Polyester 36% Cotton 59% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392412693</id>
+      <title>3/4&quot; / 12 Yards/Reel / 028J Oyster</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR1836135028J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392412693</id>
+      <title>3/4&quot; / 12 Yards/Reel / 031J Black</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR1836135031J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392412693</id>
+      <title>3/4&quot; / 12 Yards/Reel / 112J Old Gold</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR1836135112J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392412693</id>
+      <title>3/4&quot; / 12 Yards/Reel / 149J Camel</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR1836135149J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392412693</id>
+      <title>3/4&quot; / 12 Yards/Reel / 560 Chocolate Brown</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR1836135560</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392412693</id>
+      <title>3/4&quot; / 12 Yards/Reel / 932J Spice</title>
+      <s:price currency="USD">25.65</s:price>
+      <s:sku>MR1836135932J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392379925</id>
+    <published>2017-12-09T15:25:21-05:00</published>
+    <updated>2017-12-09T15:25:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-gimp-braid-1-2-width"/>
+    <title>Wrights Gimp Braid - 1/2&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1836130-wrights.jpg?v=1512851127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our gimp braid comes in 31 beautiful colors and is available in 1/2" width on 12 &amp; 24 yard reels.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 70% Rayon 13% Polyester 17% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392379925</id>
+      <title>1/2&quot; / 12 Yards/Reel / 089J Autumn Gold</title>
+      <s:price currency="USD">10.03</s:price>
+      <s:sku>MR1836130089J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392379925</id>
+      <title>1/2&quot; / 12 Yards/Reel / 149J Camel</title>
+      <s:price currency="USD">10.03</s:price>
+      <s:sku>MR1836130149J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392379925</id>
+      <title>1/2&quot; / 12 Yards/Reel / 2025J Sparkling Champagne</title>
+      <s:price currency="USD">10.03</s:price>
+      <s:sku>MR18361302025J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392379925</id>
+      <title>1/2&quot; / 12 Yards/Reel / 319J Foam Green</title>
+      <s:price currency="USD">10.03</s:price>
+      <s:sku>MR1836130319J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392379925</id>
+      <title>1/2&quot; / 12 Yards/Reel / 514J Sand</title>
+      <s:price currency="USD">10.03</s:price>
+      <s:sku>MR1836130514J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392379925</id>
+      <title>1/2&quot; / 12 Yards/Reel / 955J Cadet Blue</title>
+      <s:price currency="USD">10.03</s:price>
+      <s:sku>MR1836130955J</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77280247829</id>
+    <published>2017-12-09T12:31:32-05:00</published>
+    <updated>2017-12-09T12:31:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-braided-band-1-3-8"/>
+    <title>Wrights Braided Band - 1 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863048937-wrights.jpg?v=1512840695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Braided Band is available in 1 3/8" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Braids &amp; Gimp</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77280247829</id>
+      <title>1 3/8&quot; / 10 Yards/Reel / 937 Black/White</title>
+      <s:price currency="USD">12.36</s:price>
+      <s:sku>MR1863048937</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+</feed>

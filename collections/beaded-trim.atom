@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/beaded-trim.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:16:30-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77416398869</id>
+    <published>2020-10-07T13:16:30-04:00</published>
+    <updated>2020-10-07T13:16:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ribbon-with-bead-fringe-1-1-8"/>
+    <title>Wrights Ribbon with Bead Fringe - 1 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862026059-wrights.jpg?v=1512853559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ribbon with Bead Fringe is available in 1 1/8" Width 8 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416398869</id>
+      <title>1 1/8&quot; / 8 Yards/Reel / 059 Orchid</title>
+      <s:price currency="USD">23.90</s:price>
+      <s:sku>MR1862026059</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416398869</id>
+      <title>1 1/8&quot; / 8 Yards/Reel / 389 Antique White</title>
+      <s:price currency="USD">23.90</s:price>
+      <s:sku>MR1862026389</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77416398869</id>
+      <title>1 1/8&quot; / 8 Yards/Reel / 902 Soft Pink</title>
+      <s:price currency="USD">23.90</s:price>
+      <s:sku>MR1862025902</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77426393109</id>
+    <published>2020-10-07T13:12:25-04:00</published>
+    <updated>2020-10-07T13:12:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-emerald-fringe-2-1-8"/>
+    <title>Wrights Emerald Fringe - 2 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x14478001270-wrights.jpg?v=1512854412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            89.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emerald Fringe is available in 2 1/8" Width 12 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77426393109</id>
+      <title>2 1/8&quot; / 12 Yards/Reel / 1270 Tourmaline</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR14478001270</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77426393109</id>
+      <title>2 1/8&quot; / 12 Yards/Reel / 1271 Almandine</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR14478001271</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77426393109</id>
+      <title>2 1/8&quot; / 12 Yards/Reel / 2092 Smokey Quartz</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR14478002092</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77426655253</id>
+    <published>2020-10-07T13:12:24-04:00</published>
+    <updated>2020-10-07T13:12:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-beaded-fringe-1-3-4"/>
+    <title>Wrights Beaded Fringe - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1447805049-wrights.jpg?v=1512854416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            89.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beaded Fringe is available in 1 3/4" Width 12 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77426655253</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 049 Rust</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR1447805049</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77426655253</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 077 Aqua</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR1447805077</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454114837</id>
+    <published>2020-10-07T13:01:19-04:00</published>
+    <updated>2020-10-07T13:01:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-heart-shaped-beads-clear"/>
+    <title>JKM Heart Shaped Beads - Clear</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbd217-05-harvest.gif?v=1512856981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            7.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heart Shaped Beads - Clear on 25 Yard spools are available in assorted colors.<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454114837</id>
+      <title>As Shown / 25 Yards/Spool / Blue</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HABD217-20</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454114837</id>
+      <title>As Shown / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HABD217-11</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454114837</id>
+      <title>As Shown / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HABD217-05</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454114837</id>
+      <title>As Shown / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HABD217-12</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454114837</id>
+      <title>As Shown / 25 Yards/Spool / White</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HABD217-01</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454147605</id>
+    <published>2020-10-07T13:01:18-04:00</published>
+    <updated>2020-10-07T13:01:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-heart-shaped-beads-pearly"/>
+    <title>JKM Heart Shaped Beads - Pearly</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbd218-12-harvest.gif?v=1512856987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heart Shaped Beads - Pearly on 25 Yard spools are available in assorted colors.<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454147605</id>
+      <title>As Shown / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HABD218-02</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454147605</id>
+      <title>As Shown / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HABD218-05</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454147605</id>
+      <title>As Shown / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>HABD218-12</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279920149</id>
+    <published>2017-12-09T12:30:59-05:00</published>
+    <updated>2017-12-09T12:30:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-beaded-discs-1-3-8"/>
+    <title>Wrights Beaded Discs - 1 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x14478031275-wrights.jpg?v=1512840662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            89.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beaded Discs is available in 1 3/8" Width 12 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279920149</id>
+      <title>1 3/8&quot; / 12 Yards/Reel / 1275 Sage/Crystal</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR14478031275</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279887381</id>
+    <published>2017-12-09T12:30:55-05:00</published>
+    <updated>2017-12-09T12:30:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-diamond-teardrop-fringe-2-1-2"/>
+    <title>Wrights Diamond Teardrop Fringe - 2 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x14478021273-wrights.jpg?v=1512840658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            89.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diamond Teardrop Fringe is available in 2 1/2" Width 12 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279887381</id>
+      <title>2 1/2&quot; / 12 Yards/Reel / 1273 Tobacco/Crystal</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR14478021273</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279854613</id>
+    <published>2017-12-09T12:30:52-05:00</published>
+    <updated>2017-12-09T12:30:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-diamond-fringe-1-3-4"/>
+    <title>Wrights Diamond Fringe - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x14478011272-wrights.jpg?v=1512840655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            89.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diamond Fringe is available in 1 3/4" Width 12 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279854613</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 1272 Chinese Red/Amber</title>
+      <s:price currency="USD">89.81</s:price>
+      <s:sku>MR14478011272</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279756309</id>
+    <published>2017-12-09T12:30:46-05:00</published>
+    <updated>2017-12-09T12:30:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-beaded-straight-fringe-1-3-4"/>
+    <title>Wrights Beaded Straight Fringe - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1445351463J-wrights.jpg?v=1512840648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            48.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beaded Straight Fringe is available in 1 3/4" Width 12 Yards/Reel<br>(Product Characteristic: Fringe) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279756309</id>
+      <title>1 3/4&quot; / 12 Yards/Reel / 463J Fiesta Multi</title>
+      <s:price currency="USD">48.98</s:price>
+      <s:sku>MR1445351463J</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77268320277</id>
+    <published>2017-12-09T12:19:17-05:00</published>
+    <updated>2017-12-09T12:19:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-trim-bead-sequin-embroidery"/>
+    <title>Wrights Trim Bead/Sequin Embroidery</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868744030-wrights.jpg?v=1512839959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            124.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trim Bead/Sequin Embroidery is available in As Shown Width 14 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 60% Polyester 30% PVC 10% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77268320277</id>
+      <title>As Shown / 14 Yards/Reel / 030 White</title>
+      <s:price currency="USD">124.14</s:price>
+      <s:sku>MR1868744030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77264617493</id>
+    <published>2017-12-09T12:13:43-05:00</published>
+    <updated>2017-12-09T12:13:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-iris-bead-fringe-ribbon-1-5-8"/>
+    <title>Wrights Iris Bead Fringe Ribbon - 1 5/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868303030-wrights.jpg?v=1512839627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            34.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iris Bead Fringe Ribbon is available in 1 5/8" Width 10 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 50% Acrylic 30% Glass 20% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77264617493</id>
+      <title>1 5/8&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">34.41</s:price>
+      <s:sku>MR1868303030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77264584725</id>
+    <published>2017-12-09T12:13:39-05:00</published>
+    <updated>2017-12-09T12:13:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sheer-band-with-beads-1-1-2"/>
+    <title>Wrights Sheer Band with Beads - 1 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863336001-wrights.jpg?v=1512839622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            57.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Band with Beads is available in 1 1/2" Width 8 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 43% PVC 37% Rayon 10% Nylon 10% Polyester )</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77264584725</id>
+      <title>1 1/2&quot; / 8 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">57.69</s:price>
+      <s:sku>MR1863336001</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77264551957</id>
+    <published>2017-12-09T12:13:36-05:00</published>
+    <updated>2017-12-09T12:13:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sheer-band-with-beads-1-3-4"/>
+    <title>Wrights Sheer Band with Beads - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863333528-wrights.jpg?v=1512839619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            57.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Band with Beads is available in 1 3/4" Width 8 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 48% PVC 30% Rayon 12% Polyester 10% Nylon )</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77264551957</id>
+      <title>1 3/4&quot; / 8 Yards/Reel / 528 Sage</title>
+      <s:price currency="USD">57.69</s:price>
+      <s:sku>MR1863333528</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77264486421</id>
+    <published>2017-12-09T12:13:33-05:00</published>
+    <updated>2017-12-09T12:13:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-sheer-band-with-beads-2-1-4"/>
+    <title>Wrights Sheer Band with Beads - 2 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863332092-wrights.jpg?v=1512839615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            57.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Band with Beads is available in 2 1/4" Width 8 Yards/Reel<br>(Product Characteristic: Beads; Beaded Trim) / (Fabric Content: 85% PVC 10% Nylon 5% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beaded Trim</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77264486421</id>
+      <title>2 1/4&quot; / 8 Yards/Reel / 092 Seal Brown</title>
+      <s:price currency="USD">57.69</s:price>
+      <s:sku>MR1863332092</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+</feed>

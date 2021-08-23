@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/special-products-accents.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:10:50-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433438229</id>
+    <published>2020-10-07T13:10:50-04:00</published>
+    <updated>2020-10-07T13:10:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-strap-buckles"/>
+    <title>JKM Strap Buckles</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x05FSB-jkm.jpg?v=1512854808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            97.55 - 176.21
+            <a href="https://www.jkmribbon.com/products/jkm-strap-buckles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strap Buckles is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Buckles) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433438229</id>
+      <title>1/2&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">97.55</s:price>
+      <s:sku>WB05FSB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433438229</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">176.21</s:price>
+      <s:sku>WB34FSB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433438229</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">155.66</s:price>
+      <s:sku>WB58FSB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433470997</id>
+    <published>2020-10-07T13:10:48-04:00</published>
+    <updated>2020-10-07T13:10:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-strap-buckle-concave"/>
+    <title>JKM Strap Buckle Concave</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x05SBC-jkm.jpg?v=1512854811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            93.85 - 101.98
+            <a href="https://www.jkmribbon.com/products/jkm-strap-buckle-concave">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strap Buckle Concave is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Buckles) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433470997</id>
+      <title>1/2&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">93.85</s:price>
+      <s:sku>WB05SBC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433470997</id>
+      <title>1&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">100.38</s:price>
+      <s:sku>WB1SBC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433470997</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">101.98</s:price>
+      <s:sku>WB34SBC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433470997</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">97.11</s:price>
+      <s:sku>WB58SBC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433569301</id>
+    <published>2020-10-07T13:10:46-04:00</published>
+    <updated>2020-10-07T13:10:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-strap-buckle-heel-type-with-loose-roller"/>
+    <title>JKM Strap Buckle Heel Type With Loose Roller</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x05SBLR-jkm.jpg?v=1512854814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            93.85 - 180.57
+            <a href="https://www.jkmribbon.com/products/jkm-strap-buckle-heel-type-with-loose-roller">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strap Buckle Heel Type With Loose Roller is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Buckles) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433569301</id>
+      <title>1/2&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">93.85</s:price>
+      <s:sku>WB05SBLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433569301</id>
+      <title>1&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">180.57</s:price>
+      <s:sku>WB1SBLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433569301</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">101.98</s:price>
+      <s:sku>WB34SBLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433569301</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">97.11</s:price>
+      <s:sku>WB58SBLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433602069</id>
+    <published>2020-10-07T13:10:44-04:00</published>
+    <updated>2020-10-07T13:10:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-welded-metal-loop"/>
+    <title>JKM Welded Metal Loop</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15M100W-jkm.jpg?v=1512854817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            47.74 - 53.96
+            <a href="https://www.jkmribbon.com/products/jkm-welded-metal-loop">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welded Metal Loop is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Wire Rings) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433602069</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">47.74</s:price>
+      <s:sku>WB15M100W</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433602069</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">53.96</s:price>
+      <s:sku>WB2M100W</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433634837</id>
+    <published>2020-10-07T13:10:41-04:00</published>
+    <updated>2020-10-07T13:10:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-roller-rings"/>
+    <title>JKM Roller Rings</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1RRM-jkm.jpg?v=1512854820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            51.26 - 60.19
+            <a href="https://www.jkmribbon.com/products/jkm-roller-rings">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roller Rings is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Wire Rings) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433634837</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated w/ White Roller</title>
+      <s:price currency="USD">55.53</s:price>
+      <s:sku>WB15RRM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433634837</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated w/ White Roller</title>
+      <s:price currency="USD">51.26</s:price>
+      <s:sku>WB1RRM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433634837</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated w/ White Roller</title>
+      <s:price currency="USD">60.19</s:price>
+      <s:sku>WB2RRM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433667605</id>
+    <published>2020-10-07T13:10:39-04:00</published>
+    <updated>2020-10-07T13:10:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-metal-safety-buckles"/>
+    <title>JKM Metal Safety Buckles</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x34SBM-jkm.jpg?v=1512854824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            71.60 - 105.85
+            <a href="https://www.jkmribbon.com/products/jkm-metal-safety-buckles">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal Safety Buckles is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Buckles) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">96.83</s:price>
+      <s:sku>WB114SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>1 1/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">105.85</s:price>
+      <s:sku>WB118SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>1 3/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">101.70</s:price>
+      <s:sku>WB138SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>1 5/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">103.77</s:price>
+      <s:sku>WB158SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>1&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">86.13</s:price>
+      <s:sku>WB1SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>2&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">103.77</s:price>
+      <s:sku>WB2SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">71.60</s:price>
+      <s:sku>WB34SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433667605</id>
+      <title>7/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">74.08</s:price>
+      <s:sku>WB78SBM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433700373</id>
+    <published>2020-10-07T13:10:37-04:00</published>
+    <updated>2020-10-07T13:10:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-metal-loop"/>
+    <title>JKM Metal Loop</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x58M100-jkm.jpg?v=1512854828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            14.32 - 33.42
+            <a href="https://www.jkmribbon.com/products/jkm-metal-loop">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal Loop is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Wire Rings) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433700373</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>WB15M100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433700373</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">17.87</s:price>
+      <s:sku>WB1M100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433700373</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">33.42</s:price>
+      <s:sku>WB2M100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433700373</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">27.81</s:price>
+      <s:sku>WB34M100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433700373</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">14.32</s:price>
+      <s:sku>WB58M100</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433765909</id>
+    <published>2020-10-07T13:10:36-04:00</published>
+    <updated>2020-10-07T13:10:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-oval-loops"/>
+    <title>JKM Oval Loops</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x58OL-jkm.jpg?v=1512854831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            37.09 - 41.51
+            <a href="https://www.jkmribbon.com/products/jkm-oval-loops">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oval Loops is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Assorted Wire Rings) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433765909</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">40.47</s:price>
+      <s:sku>WB15OVAL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433765909</id>
+      <title>1&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">39.30</s:price>
+      <s:sku>WB1OVAL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433765909</id>
+      <title>2&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">41.51</s:price>
+      <s:sku>WB2OVAL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433765909</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">37.09</s:price>
+      <s:sku>WB34OVAL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433765909</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">37.09</s:price>
+      <s:sku>WB58OVAL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433831445</id>
+    <published>2020-10-07T13:10:34-04:00</published>
+    <updated>2020-10-07T13:10:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-finger-nail-suspender-clip"/>
+    <title>JKM Finger Nail Suspender Clip</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xA-33-24NP-jkm.jpg?v=1512854835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            57.28 - 62.06
+            <a href="https://www.jkmribbon.com/products/jkm-finger-nail-suspender-clip">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finger Nail Suspender Clip is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Suspender Clips) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433831445</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">62.06</s:price>
+      <s:sku>WBA-33-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433831445</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">57.28</s:price>
+      <s:sku>WBA-33-32NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433831445</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">59.68</s:price>
+      <s:sku>WBA-33-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433896981</id>
+    <published>2020-10-07T13:10:33-04:00</published>
+    <updated>2020-10-07T13:10:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-casted-snap-hook-id-wbal-216"/>
+    <title>JKM Casted Snap Hook (ID: WBAL-216)</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xA-476-jkm.jpg?v=1512854838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            174.25 - 183.79
+            <a href="https://www.jkmribbon.com/products/jkm-casted-snap-hook-id-wbal-216">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casted Snap Hook is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Hooks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433896981</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">174.25</s:price>
+      <s:sku>WBA-476-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433896981</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">183.79</s:price>
+      <s:sku>WBAL-216-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77433929749</id>
+    <published>2020-10-07T13:10:31-04:00</published>
+    <updated>2020-10-07T13:10:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-slide"/>
+    <title>JKM Slide</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-006-16NP-jkm.jpg?v=1512854842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            11.94 - 33.42
+            <a href="https://www.jkmribbon.com/products/jkm-slide">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slide Flattenedis available 100 pieces per package of the same color and width.<br>(Product Characteristic: Slides; Clips) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433929749</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel</title>
+      <s:price currency="USD">33.32</s:price>
+      <s:sku>WBAL-006-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433929749</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel</title>
+      <s:price currency="USD">23.49</s:price>
+      <s:sku>WBAL-006-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433929749</id>
+      <title>1/2&quot; / 100 Pcs/Pkg / Nickel</title>
+      <s:price currency="USD">11.94</s:price>
+      <s:sku>WBAL-006-8NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433929749</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel</title>
+      <s:price currency="USD">14.32</s:price>
+      <s:sku>WBAL-006-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433929749</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg / Nickel</title>
+      <s:price currency="USD">19.09</s:price>
+      <s:sku>WBAL-077-20NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77433929749</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel</title>
+      <s:price currency="USD">33.42</s:price>
+      <s:sku>WBMBAL006-32NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434028053</id>
+    <published>2020-10-07T13:10:29-04:00</published>
+    <updated>2020-10-07T13:10:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-vest-buckle-with-teeth"/>
+    <title>JKM Vest Buckle With Teeth</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-021-jkm.jpg?v=1512854848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            19.09 - 33.42
+            <a href="https://www.jkmribbon.com/products/jkm-vest-buckle-with-teeth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vest Buckle With Teeth is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Adjustable Closures) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434028053</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">33.42</s:price>
+      <s:sku>WBAL-021-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434028053</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">19.09</s:price>
+      <s:sku>WBAL-021-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434060821</id>
+    <published>2020-10-07T13:10:28-04:00</published>
+    <updated>2020-10-07T13:10:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-web-strap-buckle"/>
+    <title>JKM Web Strap Buckle</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-022-16NP-jkm.jpg?v=1512854851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            57.28 - 88.32
+            <a href="https://www.jkmribbon.com/products/jkm-web-strap-buckle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Web Strap Buckle is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Slides; Clips) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434060821</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">85.92</s:price>
+      <s:sku>WBAL-022-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434060821</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">57.28</s:price>
+      <s:sku>WBAL-022-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434060821</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">88.32</s:price>
+      <s:sku>WBAL-022-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434093589</id>
+    <published>2020-10-07T13:10:27-04:00</published>
+    <updated>2020-10-07T13:10:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-purse-clip-oval-top"/>
+    <title>JKM Purse Clip Oval Top</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-031A-jkm.jpg?v=1512854854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            71.60 - 76.38
+            <a href="https://www.jkmribbon.com/products/jkm-purse-clip-oval-top">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purse Clip Oval Top is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Key Rings) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434093589</id>
+      <title>1&quot; / 100 Pcs/Pkg / Brass Plated</title>
+      <s:price currency="USD">76.38</s:price>
+      <s:sku>WBAL-031A-16BP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434093589</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Brass Plated</title>
+      <s:price currency="USD">71.60</s:price>
+      <s:sku>WBAL-031A-12BP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434126357</id>
+    <published>2020-10-07T13:10:25-04:00</published>
+    <updated>2020-10-07T13:10:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sling-snap"/>
+    <title>JKM Sling Snap</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-040-20NP-jkm.jpg?v=1512854858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            119.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sling Snap is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Sports Hardware) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434126357</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">119.34</s:price>
+      <s:sku>WBAL-040-20NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434126357</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">119.34</s:price>
+      <s:sku>WBAL-041-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434159125</id>
+    <published>2020-10-07T13:10:24-04:00</published>
+    <updated>2020-10-07T13:10:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-casted-slide"/>
+    <title>JKM Casted Slide</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-1155-24NP-jkm.jpg?v=1512854861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            138.43 - 272.09
+            <a href="https://www.jkmribbon.com/products/jkm-casted-slide">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casted Slide is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Slides; Clips) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434159125</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">138.43</s:price>
+      <s:sku>WBAL-1155-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434159125</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">272.09</s:price>
+      <s:sku>WBAL-1155-32NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434191893</id>
+    <published>2020-10-07T13:10:22-04:00</published>
+    <updated>2020-10-07T13:10:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-casted-snap-hook-id-wbal-1411"/>
+    <title>JKM Casted Snap Hook (ID: WBAL-1411)</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-1411-16EB-jkm.jpg?v=1512854865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            93.09 - 100.25
+            <a href="https://www.jkmribbon.com/products/jkm-casted-snap-hook-id-wbal-1411">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casted Snap Hook is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Hooks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434191893</id>
+      <title>1&quot; / 100 Pcs/Pkg / Electro Black</title>
+      <s:price currency="USD">100.25</s:price>
+      <s:sku>WBAL-1411-16EB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434191893</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Electro Black</title>
+      <s:price currency="USD">93.09</s:price>
+      <s:sku>WBAL-1411-12EB</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434224661</id>
+    <published>2020-10-07T13:10:21-04:00</published>
+    <updated>2020-10-07T13:10:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-belt-loop"/>
+    <title>JKM Belt Loop</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-1509-jkm.jpg?v=1512854868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            7.17 - 14.32
+            <a href="https://www.jkmribbon.com/products/jkm-belt-loop">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belt Loop is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Industrial; Conchos) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434224661</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">12.42</s:price>
+      <s:sku>WBAL-1509-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434224661</id>
+      <title>1 1/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">10.98</s:price>
+      <s:sku>WBAL-1509-20NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434224661</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">10.02</s:price>
+      <s:sku>WBAL-1509-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434224661</id>
+      <title>1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">7.17</s:price>
+      <s:sku>WBAL-1509-8NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434224661</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">14.32</s:price>
+      <s:sku>WBAL-1509-32NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434224661</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">9.08</s:price>
+      <s:sku>WBAL-1509-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434224661</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">7.64</s:price>
+      <s:sku>WBAL-1509-10NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434257429</id>
+    <published>2020-10-07T13:10:19-04:00</published>
+    <updated>2020-10-07T13:10:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tab-buckle"/>
+    <title>JKM Tab Buckle</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-1522-10BS-jkm.jpg?v=1512854872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            21.49 - 38.19
+            <a href="https://www.jkmribbon.com/products/jkm-tab-buckle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tab Buckle is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Slides; Clips) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434257429</id>
+      <title>1&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">38.19</s:price>
+      <s:sku>WBAL-1522-16</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434257429</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / As Shown</title>
+      <s:price currency="USD">21.49</s:price>
+      <s:sku>WBAL-1522-10</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434290197</id>
+    <published>2020-10-07T13:10:18-04:00</published>
+    <updated>2020-10-07T13:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-casted-swivel-hook-id-wbal-169"/>
+    <title>JKM Casted Swivel Hook (ID: WBAL-169)</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-169-jkm.jpg?v=1512854874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            76.38 - 143.21
+            <a href="https://www.jkmribbon.com/products/jkm-casted-swivel-hook-id-wbal-169">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casted Swivel Hook is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Hooks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434290197</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">143.21</s:price>
+      <s:sku>WBAL-169-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434290197</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">105.02</s:price>
+      <s:sku>WBAL-169-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434290197</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Brass Plated</title>
+      <s:price currency="USD">76.38</s:price>
+      <s:sku>WBAL-169-12BP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434290197</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">81.15</s:price>
+      <s:sku>WBAL-169-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434322965</id>
+    <published>2020-10-07T13:10:16-04:00</published>
+    <updated>2020-10-07T13:10:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-moveable-slide"/>
+    <title>JKM Moveable Slide</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-177-16NP-jkm.jpg?v=1512854878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            59.68 - 82.58
+            <a href="https://www.jkmribbon.com/products/jkm-moveable-slide">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moveable Slide is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Slides; Clips) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434322965</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">59.68</s:price>
+      <s:sku>WBAL-177-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434322965</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">82.58</s:price>
+      <s:sku>WBAL-177-32NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434355733</id>
+    <published>2020-10-07T13:10:15-04:00</published>
+    <updated>2020-10-07T13:10:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-casted-swivel-hook-id-wbal-182"/>
+    <title>JKM Casted Swivel Hook (ID: WBAL-182)</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-182-32NP-jkm.jpg?v=1512854882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            274.49 - 429.62
+            <a href="https://www.jkmribbon.com/products/jkm-casted-swivel-hook-id-wbal-182">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casted Swivel Hook is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Hooks) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434355733</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">274.49</s:price>
+      <s:sku>WBAL-182-24NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434355733</id>
+      <title>2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">429.62</s:price>
+      <s:sku>WBAL-182-32NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434388501</id>
+    <published>2020-10-07T13:10:13-04:00</published>
+    <updated>2020-10-07T13:10:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-suspender-clip"/>
+    <title>JKM Suspender Clip</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-189A-18BP-jkm.jpg?v=1512854886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            45.36 - 57.28
+            <a href="https://www.jkmribbon.com/products/jkm-suspender-clip">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Suspender Clip Herring Bone is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Suspender Clips) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434388501</id>
+      <title>1 1/8&quot; / 100 Pcs/Pkg / Brass Plated</title>
+      <s:price currency="USD">45.36</s:price>
+      <s:sku>WBAL-189A-18BP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434388501</id>
+      <title>1&quot; / 100 Pcs/Pkg / Brass Plated</title>
+      <s:price currency="USD">57.28</s:price>
+      <s:sku>WBAL-189A-16BP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434388501</id>
+      <title>1/2&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">45.36</s:price>
+      <s:sku>WBAL-189A-8NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434388501</id>
+      <title>1 1/2&quot; / 100 Pcs/Pkg / Brass Plated</title>
+      <s:price currency="USD">47.74</s:price>
+      <s:sku>WBAL-564-24BP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434421269</id>
+    <published>2020-10-07T13:10:12-04:00</published>
+    <updated>2020-10-07T13:10:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-loose-leaf-binder-ring"/>
+    <title>JKM Loose Leaf Binder Ring</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-1951-jkm.jpg?v=1512854889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            45.83 - 71.60
+            <a href="https://www.jkmribbon.com/products/jkm-loose-leaf-binder-ring">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loose Leaf Binder Ring is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Key Rings) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434421269</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">71.60</s:price>
+      <s:sku>WBAL-1951-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434421269</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">45.83</s:price>
+      <s:sku>WBMBLLR-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77434454037</id>
+    <published>2020-10-07T13:10:10-04:00</published>
+    <updated>2020-10-07T13:10:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-dog-leash-casted-swivel-hook"/>
+    <title>JKM Dog Leash Casted Swivel Hook</title>
+    <s:type>Special Products &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xAL-219-jkm.jpg?v=1512854892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Special Products &amp; Accents<br>
+        <strong>Price: </strong>
+            214.81 - 358.02
+            <a href="https://www.jkmribbon.com/products/jkm-dog-leash-casted-swivel-hook">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dog Leash Casted Swivel Hook is available 100 pieces per package of the same color and width.<br>(Product Characteristic: Pet Collar Fasteners ) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware for Crafts &amp; Sewing</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434454037</id>
+      <title>5/8&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">214.81</s:price>
+      <s:sku>WBAL-219-10NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434454037</id>
+      <title>1&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">358.02</s:price>
+      <s:sku>WBAL-220-16NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77434454037</id>
+      <title>3/4&quot; / 100 Pcs/Pkg / Nickel Plated</title>
+      <s:price currency="USD">300.74</s:price>
+      <s:sku>WBAL-220-12NP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

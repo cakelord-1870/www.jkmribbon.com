@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/elastic.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:01-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414662165</id>
+    <published>2020-10-07T13:17:01-04:00</published>
+    <updated>2020-10-07T13:17:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-elastic-knitted-bulk-spools"/>
+    <title>JKM Elastic Knitted - Bulk Spools</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xknitted-elastic-jkm.jpg?v=1512853489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            26.98 - 184.72
+            <a href="https://www.jkmribbon.com/products/jkm-elastic-knitted-bulk-spools">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elastic - Knitted is available in widths ranging from 1/4" up to 4" in white and black. Knitted elastic is a thinner elastic that has more stretch capacity than the woven; and also is semi-transparent when stretched. Knitted elastic is perfect for applications in children's wear, sportswear, and light industrial uses. It is available in 50 yard rolls, but must be purchased 2 rolls per box (100 yards total).<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elastic</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1/4&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">29.06</s:price>
+      <s:sku>WB3300-14L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1/4&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">29.06</s:price>
+      <s:sku>WB3300-14W</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>3/8&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">33.21</s:price>
+      <s:sku>WB3300-38L</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>3/8&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">33.21</s:price>
+      <s:sku>WB3300-38W</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1/2&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">37.36</s:price>
+      <s:sku>WB3300-05L</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1/2&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">37.36</s:price>
+      <s:sku>WB3300-05W</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>3/4&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">26.98</s:price>
+      <s:sku>WB3300-34L</s:sku>
+      <s:grams>1542</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>3/4&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">26.98</s:price>
+      <s:sku>WB3300-34W</s:sku>
+      <s:grams>1542</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">31.13</s:price>
+      <s:sku>WB3300-1L</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">31.13</s:price>
+      <s:sku>WB3300-1W</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1 1/2&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">39.43</s:price>
+      <s:sku>WB3300-15L</s:sku>
+      <s:grams>1701</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>1 1/2&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">39.43</s:price>
+      <s:sku>WB3300-15W</s:sku>
+      <s:grams>1701</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>2&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">47.74</s:price>
+      <s:sku>WB3300-2L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>2&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">47.74</s:price>
+      <s:sku>WB3300-2W</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>3&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">161.89</s:price>
+      <s:sku>WB3300-3L</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>3&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">161.89</s:price>
+      <s:sku>WB3300-3W</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>4&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">184.72</s:price>
+      <s:sku>WB3300-4L</s:sku>
+      <s:grams>2155</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414662165</id>
+      <title>4&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">184.72</s:price>
+      <s:sku>WB3300-4W</s:sku>
+      <s:grams>2155</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414727701</id>
+    <published>2020-10-07T13:16:59-04:00</published>
+    <updated>2020-10-07T13:16:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-elastic-woven-bulk-spools"/>
+    <title>JKM Elastic Woven - Bulk Spools</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xwoven-elastic-jkm.jpg?v=1512853495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            101.70 - 363.21
+            <a href="https://www.jkmribbon.com/products/jkm-elastic-woven-bulk-spools">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elastic - Woven is available in widths ranging from 1" up to 4" in white and black. Woven elastic is a thicker, more durable material compared to the knitted or the braided. However, woven elastic does not have as much of a stretch capacity. It is available in 50 yard rolls and is sold in 100 yard increments. Woven elastic is perfect for better garments or heavier industrial applications. It is made from polyester filler, polyester warp, and 34 gauge latex rubber. It is available in 50 yard rolls, but must be purchased 2 rolls per box (100 yards total).<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: Polyester/Rubber)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elastic</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>1&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">101.70</s:price>
+      <s:sku>WB191-1L</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>1&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">101.70</s:price>
+      <s:sku>WB191-1W</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>1 1/2&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">116.23</s:price>
+      <s:sku>WB191-15L</s:sku>
+      <s:grams>1701</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>1 1/2&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">116.23</s:price>
+      <s:sku>WB191-15W</s:sku>
+      <s:grams>1701</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>2&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">132.83</s:price>
+      <s:sku>WB191-2L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>2&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">132.83</s:price>
+      <s:sku>WB191-2W</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>2.5&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">186.79</s:price>
+      <s:sku>WB191-25L</s:sku>
+      <s:grams>1928</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>2.5&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">186.79</s:price>
+      <s:sku>WB191-25W</s:sku>
+      <s:grams>1928</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>3&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">222.08</s:price>
+      <s:sku>WB191-3L</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>3&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">222.08</s:price>
+      <s:sku>WB191-3W</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>4&quot; / 50 Yards/Roll; 2 Rolls/Box / L Black</title>
+      <s:price currency="USD">363.21</s:price>
+      <s:sku>WB191-4L</s:sku>
+      <s:grams>2155</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414727701</id>
+      <title>4&quot; / 50 Yards/Roll; 2 Rolls/Box / W White</title>
+      <s:price currency="USD">363.21</s:price>
+      <s:sku>WB191-4W</s:sku>
+      <s:grams>2155</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414760469</id>
+    <published>2020-10-07T13:16:57-04:00</published>
+    <updated>2020-10-07T13:16:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-elastic-braided-bulk-spools"/>
+    <title>JKM Elastic Braided - Bulk Spools</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbraided-elastic-jkm.jpg?v=1512853499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            41.89 - 433.40
+            <a href="https://www.jkmribbon.com/products/jkm-elastic-braided-bulk-spools">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elastic - Braided is available in widths ranging from 1/4" up to 2" in white and black on 144 yard spools. Braided elastic is a thinner elastic with a good stretch capacity. It is not semi-transparent when stretched, as is the knitted. Braided elastic is perfect for applications in gloves, swim wear, and industrial uses. Made from 71% yarn (polypropylene material), 29% rubber, and features a 140% stretch capacity.<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: Polypropylene/Rubber)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elastic</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1/4&quot; / 144 Yards/Roll / L Black</title>
+      <s:price currency="USD">41.89</s:price>
+      <s:sku>WB1040-14L</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1/4&quot; / 144 Yards/Roll / W White</title>
+      <s:price currency="USD">41.89</s:price>
+      <s:sku>WB1040-14W</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>3/8&quot; / 144 Yards/Roll / L Black</title>
+      <s:price currency="USD">47.83</s:price>
+      <s:sku>WB1040-38L</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>3/8&quot; / 144 Yards/Roll / W White</title>
+      <s:price currency="USD">47.83</s:price>
+      <s:sku>WB1040-38W</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1/2&quot; / 144 Yards/Roll / L Black</title>
+      <s:price currency="USD">53.87</s:price>
+      <s:sku>WB1040-05L</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1/2&quot; / 144 Yards/Roll / W White</title>
+      <s:price currency="USD">53.87</s:price>
+      <s:sku>WB1040-05W</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1&quot; / 144 Yards/Roll / L Black</title>
+      <s:price currency="USD">119.62</s:price>
+      <s:sku>WB1040-1L</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1&quot; / 144 Yards/Roll / W White</title>
+      <s:price currency="USD">119.62</s:price>
+      <s:sku>WB1040-1W</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1 1/2&quot; / 144 Yards/Roll / L Black</title>
+      <s:price currency="USD">373.58</s:price>
+      <s:sku>WB1040-15L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>1 1/2&quot; / 144 Yards/Roll / W White</title>
+      <s:price currency="USD">373.58</s:price>
+      <s:sku>WB1040-15W</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>2&quot; / 144 Yards/Roll / L Black</title>
+      <s:price currency="USD">433.40</s:price>
+      <s:sku>WB1040-2L</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414760469</id>
+      <title>2&quot; / 144 Yards/Roll / W White</title>
+      <s:price currency="USD">433.40</s:price>
+      <s:sku>WB1040-2W</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

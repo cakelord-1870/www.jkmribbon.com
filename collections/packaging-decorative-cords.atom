@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/packaging-decorative-cords.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:01:08-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454671893</id>
+    <published>2020-10-07T13:01:08-04:00</published>
+    <updated>2020-10-07T13:01:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-elastic-loops"/>
+    <title>JKM Elastic Loops</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xer-harvest.gif?v=1512857056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            55.98 - 131.71
+            <a href="https://www.jkmribbon.com/products/jkm-elastic-loops">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elastic Loops are available in assorted sizes in 1000 pieces per box of one size, one color.<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packaging Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 10&quot; Loop Length: 4&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">61.84</s:price>
+      <s:sku>HAER01G-10-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 10&quot; Loop Length: 4&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">61.84</s:price>
+      <s:sku>HAER01S-10-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 13&quot; Loop Length: 7&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">55.98</s:price>
+      <s:sku>HAER01G-13-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 13&quot; Loop Length: 7&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">55.98</s:price>
+      <s:sku>HAER01S-13-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 14&quot; Loop Length: 8&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">56.42</s:price>
+      <s:sku>HAER01G-14-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 14&quot; Loop Length: 8&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">56.42</s:price>
+      <s:sku>HAER01S-14-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 16&quot; Loop Length: 8&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">67.26</s:price>
+      <s:sku>HAER01G-16-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 16&quot; Loop Length: 8&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">67.26</s:price>
+      <s:sku>HAER01S-16-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 18&quot; Loop Length&quot; 10&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">69.98</s:price>
+      <s:sku>HAER01S-18-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 18&quot; Loop Length: 10&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">69.98</s:price>
+      <s:sku>HAER01G-18-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 22&quot; Loop Length: 14&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">81.15</s:price>
+      <s:sku>HAER01G-22-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 22&quot; Loop Length: 14&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">81.15</s:price>
+      <s:sku>HAER01S-22-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 25&quot; Loop Length: 16&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">89.61</s:price>
+      <s:sku>HAER01G-25-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 25&quot; Loop Length: 16&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">89.61</s:price>
+      <s:sku>HAER01S-25-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 28&quot; Loop Length: 19&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">98.08</s:price>
+      <s:sku>HAER01G-28-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 28&quot; Loop Length: 19&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">98.08</s:price>
+      <s:sku>HAER01S-28-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 32&quot; Loop Length: 22&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">109.14</s:price>
+      <s:sku>HAER01G-32-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 32&quot; Loop Length: 22&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">109.14</s:price>
+      <s:sku>HAER01S-32-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 40&quot; Loop Length: 28&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Gold</title>
+      <s:price currency="USD">131.71</s:price>
+      <s:sku>HAER01G-40-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454671893</id>
+      <title>Cord Length: 40&quot; Loop Length: 28&quot; / 1000 Pcs/Pkg; 1 Pkg/Box / Silver</title>
+      <s:price currency="USD">131.71</s:price>
+      <s:sku>HAER01S-40-1000</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454868501</id>
+    <published>2020-10-07T13:01:01-04:00</published>
+    <updated>2020-10-07T13:01:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tinsel-cord-1mm"/>
+    <title>JKM Tinsel Cord - 1mm</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xr05-03-harvest.gif?v=1512857091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tinsel Cord - 1mm without wire is available on 144 yard spools in assorted colors.<br>(Product Characteristic: Cord) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packaging Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Gold</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-27</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Metallic Blue</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-23</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Metallic Green</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-19</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Metallic Peach</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-03</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Metallic Pink</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-09</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Metallic Purple</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-26</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Metallic Red</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-12</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454868501</id>
+      <title>1mm / 144 Yards/Spool / Silver</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR05-40</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454901269</id>
+    <published>2020-10-07T13:01:00-04:00</published>
+    <updated>2020-10-07T13:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tinsel-cord-with-wire-1mm"/>
+    <title>JKM Tinsel Cord with Wire - 1mm</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xr05w-12-harvest.gif?v=1512857099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tinsel Cord - 1mm with wire is available on 100 yard spools in assorted colors.<br>(Product Characteristic: Cord) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packaging Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454901269</id>
+      <title>1mm / 100 Yards/Spool / Gold with Wire</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAR05W-27</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454901269</id>
+      <title>1mm / 100 Yards/Spool / Metallic Green with Wire</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAR05W-19</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454901269</id>
+      <title>1mm / 100 Yards/Spool / Metallic Red with Wire</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAR05W-12</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454901269</id>
+      <title>1mm / 100 Yards/Spool / Silver with Wire</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HAR05W-40</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454934037</id>
+    <published>2020-10-07T13:00:58-04:00</published>
+    <updated>2020-10-07T13:00:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-tinsel-cord-2mm"/>
+    <title>JKM Tinsel Cord - 2mm</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xR11-27-harvest.gif?v=1512857103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tinsel Cord - 2mm without wire is available on 100 yard spools in gold or silver.<br>(Product Characteristic: Cord) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Packaging Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454934037</id>
+      <title>2mm / 100 Yards/Spool / Gold</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR11-27</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454934037</id>
+      <title>2mm / 100 Yards/Spool / Silver</title>
+      <s:price currency="USD">6.83</s:price>
+      <s:sku>HAR11-40</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/pleated-fabric.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:17:09-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77414531093</id>
+    <published>2020-10-07T13:17:09-04:00</published>
+    <updated>2020-10-07T13:17:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-chiffon-ruffle-4"/>
+    <title>Wrights Chiffon Ruffle - 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866307711-wrights-2011.jpg?v=1512853468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            22.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chiffon Ruffle is available in 4" width on an 8 yard reel in several colors.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414531093</id>
+      <title>4&quot; / 8 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">22.19</s:price>
+      <s:sku>MR1866307065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414531093</id>
+      <title>4&quot; / 8 Yards/Reel / 151 Coffee</title>
+      <s:price currency="USD">22.19</s:price>
+      <s:sku>MR1866307151</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77414531093</id>
+      <title>4&quot; / 8 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">22.19</s:price>
+      <s:sku>MR1866307810</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425147925</id>
+    <published>2020-10-07T13:13:05-04:00</published>
+    <updated>2020-10-07T13:13:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ruffle-blanket-binding-1-7-8"/>
+    <title>Wrights Ruffle Blanket Binding - 1 7/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863358030-wrights.jpg?v=1512854265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            17.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ruffle Blanket Binding is available in 1 7/8" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425147925</id>
+      <title>1 7/8&quot; / 8 Yards/Reel / 030 White</title>
+      <s:price currency="USD">17.31</s:price>
+      <s:sku>MR1863358030</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425147925</id>
+      <title>1 7/8&quot; / 8 Yards/Reel / 902 Soft Pink</title>
+      <s:price currency="USD">17.31</s:price>
+      <s:sku>MR1863359902</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425180693</id>
+    <published>2020-10-07T13:13:04-04:00</published>
+    <updated>2020-10-07T13:13:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-box-pleat-quilt-binding-1-3-8"/>
+    <title>Wrights Box Pleat Quilt Binding - 1 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863367022-wrights.jpg?v=1512854269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            13.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Box Pleat Quilt Binding is available in 1 3/8" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 55% Polyester 45% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425180693</id>
+      <title>1 3/8&quot; / 10 Yards/Reel / 022 Bright Pink</title>
+      <s:price currency="USD">13.39</s:price>
+      <s:sku>MR1863367022</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425180693</id>
+      <title>1 3/8&quot; / 10 Yards/Reel / 086 Canary</title>
+      <s:price currency="USD">13.39</s:price>
+      <s:sku>MR1863369086</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425213461</id>
+    <published>2020-10-07T13:13:02-04:00</published>
+    <updated>2020-10-07T13:13:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ruffled-quilt-binding-2-id-mr1861148"/>
+    <title>Wrights Ruffled Quilt Binding - 2&quot; (ID: MR1861148)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861148303-wrights.jpg?v=1512854276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ruffled Quilt Binding is available in 2" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 55% Polyester 45% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425213461</id>
+      <title>2&quot; / 15 Yards/Reel / 012 Lemon Ice</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>MR1861151012</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425213461</id>
+      <title>2&quot; / 15 Yards/Reel / 030 White</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>MR1861149030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425213461</id>
+      <title>2&quot; / 15 Yards/Reel / 056 Mint</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>MR1861147056</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425213461</id>
+      <title>2&quot; / 15 Yards/Reel / 303 Light Pink</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>MR1861148303</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425213461</id>
+      <title>2&quot; / 15 Yards/Reel / 515 Blue</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>MR1861147515</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425246229</id>
+    <published>2020-10-07T13:13:00-04:00</published>
+    <updated>2020-10-07T13:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ruffled-quilt-binding-2-id-mr1863370"/>
+    <title>Wrights Ruffled Quilt Binding - 2&quot; (ID: MR1863370)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863370055-wrights.jpg?v=1512854280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            26.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ruffled Quilt Binding is available in 2" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 55% Polyester 45% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425246229</id>
+      <title>2&quot; / 15 Yards/Reel / 028 Oyster</title>
+      <s:price currency="USD">26.58</s:price>
+      <s:sku>MR1863372028</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425246229</id>
+      <title>2&quot; / 15 Yards/Reel / 078 Yale Blue</title>
+      <s:price currency="USD">26.58</s:price>
+      <s:sku>MR1863371078</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425278997</id>
+    <published>2020-10-07T13:12:58-04:00</published>
+    <updated>2020-10-07T13:12:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-chiffon-ruffles-2-id-mr1861189"/>
+    <title>Wrights Chiffon Ruffles - 2&quot; (ID: MR1861189)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861189709-wrights.jpg?v=1512854283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            16.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chiffon Ruffles is available in 2" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425278997</id>
+      <title>2&quot; / 8 Yards/Reel / 030 White</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1861190030</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425278997</id>
+      <title>2&quot; / 8 Yards/Reel / 711 Primrose</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1861188711</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425344533</id>
+    <published>2020-10-07T13:12:56-04:00</published>
+    <updated>2020-10-07T13:12:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-chiffon-ruffles-2-id-mr1862029"/>
+    <title>Wrights Chiffon Ruffles - 2&quot; (ID: MR1862029)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862029065-wrights.jpg?v=1512854288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            16.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chiffon Ruffles is available in 2" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425344533</id>
+      <title>2&quot; / 8 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1862027031</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425344533</id>
+      <title>2&quot; / 8 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1862029065</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425344533</id>
+      <title>2&quot; / 8 Yards/Reel / 810 Ivory</title>
+      <s:price currency="USD">16.48</s:price>
+      <s:sku>MR1862028810</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77425410069</id>
+    <published>2020-10-07T13:12:55-04:00</published>
+    <updated>2020-10-07T13:12:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-ruffled-grosgrain-1-3-4"/>
+    <title>Wrights Ruffled Grosgrain - 1 3/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863355904-wrights.jpg?v=1512854293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ruffled Grosgrain is available in 1 3/4" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425410069</id>
+      <title>1 3/4&quot; / 8 Yards/Reel / 030 White</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1863356030</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425410069</id>
+      <title>1 3/4&quot; / 8 Yards/Reel / 303 Light Pink</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1863357303</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77425410069</id>
+      <title>1 3/4&quot; / 8 Yards/Reel / 904 Hot Pink</title>
+      <s:price currency="USD">14.84</s:price>
+      <s:sku>MR1863355904</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279100949</id>
+    <published>2017-12-09T12:29:54-05:00</published>
+    <updated>2017-12-09T12:29:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-casa-chiffon-ruffle-4"/>
+    <title>Wrights Casa Chiffon Ruffle - 4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866168031-wrights.jpg?v=1512840596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            29.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Casa Chiffon Ruffle is available in 4" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279100949</id>
+      <title>4&quot; / 8 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">29.67</s:price>
+      <s:sku>MR1866168031</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279068181</id>
+    <published>2017-12-09T12:29:51-05:00</published>
+    <updated>2017-12-09T12:29:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-butterfly-pleat-1-3-8"/>
+    <title>Wrights Butterfly Pleat - 1 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861169030-wrights.jpg?v=1512840593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            17.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Butterfly Pleat is available in 1 3/8" Width 10 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 95% Nylon 5% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279068181</id>
+      <title>1 3/8&quot; / 10 Yards/Reel / 030 White</title>
+      <s:price currency="USD">17.88</s:price>
+      <s:sku>MR1861169030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77279035413</id>
+    <published>2017-12-09T12:29:47-05:00</published>
+    <updated>2017-12-09T12:29:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-quilt-binding-butterfly-2-1-2"/>
+    <title>Wrights Quilt Binding Butterfly - 2 1/2&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861152001-wrights.jpg?v=1512840590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            51.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quilt Binding Butterfly is available in 2 1/2" Width 15 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 60% Polyester 40% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77279035413</id>
+      <title>2 1/2&quot; / 15 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">51.62</s:price>
+      <s:sku>MR1861152001</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77278969877</id>
+    <published>2017-12-09T12:29:44-05:00</published>
+    <updated>2017-12-09T12:29:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-box-pleat-taffeta-15-16"/>
+    <title>Wrights Box Pleat Taffeta - 15/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863365061-wrights.jpg?v=1512840586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Box Pleat Taffeta is available in 15/16" Width 8 Yards/Reel<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 90% Acrylic 10% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77278969877</id>
+      <title>15/16&quot; / 8 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">8.24</s:price>
+      <s:sku>MR1863365061</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77262618645</id>
+    <published>2017-12-09T12:10:36-05:00</published>
+    <updated>2017-12-09T12:10:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-chiffon-ruffles-2-id-mr1866308"/>
+    <title>Wrights Chiffon Ruffles - 2&quot; (ID: MR1866308)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1866308711-wrights-2011.jpg?v=1512839438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chiffon Ruffles is available in 2" width on an 8 yard reel in several colors. The chiffon ruffles are trimmed at the top with a satiny feel fabric.<br>(Product Characteristic: Fabric Trim) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pleated Fabric</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77262618645</id>
+      <title>2&quot; / 8 Yards/Reel / 711 Primrose</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>MR1866308711</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

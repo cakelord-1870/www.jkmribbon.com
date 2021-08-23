@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/home-garden.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T13:01:05-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308526613</id>
+    <published>2017-12-09T13:01:05-05:00</published>
+    <updated>2017-12-09T13:01:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-boat-planter"/>
+    <title>JKM Boat Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x27487-napco.jpg?v=1512842467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            21.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boat Planter. Dimensions: L:17.5"xW:4"xH:4"<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden Accessories</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308526613</id>
+      <title>L:17.5&quot;xW:4&quot;xH:4&quot; / 1 Pc/Box / Jade</title>
+      <s:price currency="USD">21.23</s:price>
+      <s:sku>NA27487</s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308493845</id>
+    <published>2017-12-09T13:01:01-05:00</published>
+    <updated>2017-12-09T13:01:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-ladies-shoe-vase"/>
+    <title>JKM Ladies Shoe Vase</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16631-napco.jpg?v=1512842464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            27.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies Shoe Vase. Dimensions: H:7.75"<br>(Product Characteristic: Special Gifts) / (Fabric Content: Dolomite)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308493845</id>
+      <title>H:7.75&quot; / 3 Pcs/Box / As Shown</title>
+      <s:price currency="USD">27.62</s:price>
+      <s:sku>NA16631</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308461077</id>
+    <published>2017-12-09T13:00:58-05:00</published>
+    <updated>2017-12-09T13:00:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-hippie-van-planter"/>
+    <title>JKM Hippie Van Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16592-napco.jpg?v=1512842460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            26.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hippie Van Planter. Two Assorted. Dimensions: H:2.75"<br>(Product Characteristic: Special Gifts) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308461077</id>
+      <title>H:2.75&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">26.87</s:price>
+      <s:sku>NA16592</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308428309</id>
+    <published>2017-12-09T13:00:55-05:00</published>
+    <updated>2017-12-09T13:00:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-horse-head-planter"/>
+    <title>JKM Horse Head Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16524-napco.jpg?v=1512842457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            32.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Horse Head Planter. Dimensions: L:2"xW:4.5"xH:6.25" (2 Assorted)<br>(Product Characteristic: Animals) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308428309</id>
+      <title>L:2&quot;xW:4.5&quot;xH:6.25&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">32.53</s:price>
+      <s:sku>NA16524</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308395541</id>
+    <published>2017-12-09T13:00:51-05:00</published>
+    <updated>2017-12-09T13:00:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-stork-vase"/>
+    <title>JKM Stork Vase</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15447-napco.jpg?v=1512842454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            24.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stork Vase. Two Assorted. Dimensions: W:2.75"xH:8"<br>(Product Characteristic: Floral) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308395541</id>
+      <title>W:2.75&quot;xH:8&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">24.08</s:price>
+      <s:sku>NA15447</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308362773</id>
+    <published>2017-12-09T13:00:48-05:00</published>
+    <updated>2017-12-09T13:00:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-teddy-parade-musical"/>
+    <title>JKM Teddy Parade Musical</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15479-napco.jpg?v=1512842450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            27.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Teddy Parade Musical. Dimensions: H:3.75"<br>(Product Characteristic: Decorative) / (Fabric Content: Dolomite)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308362773</id>
+      <title>H:3.75&quot; / 2 Pcs/Box / As Shown</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>NA15479</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308330005</id>
+    <published>2017-12-09T13:00:44-05:00</published>
+    <updated>2017-12-09T13:00:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sweet-baby-planters"/>
+    <title>JKM Sweet Baby Planters</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15501-napco.jpg?v=1512842447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            32.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Baby Planters. Two Assorted. Dimensions: W:4.5"xH:4"<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308330005</id>
+      <title>W:4.5&quot;xH:4&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">32.53</s:price>
+      <s:sku>NA15501</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308297237</id>
+    <published>2017-12-09T13:00:41-05:00</published>
+    <updated>2017-12-09T13:00:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-booties-planter"/>
+    <title>JKM Double Booties Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15095-napco.jpg?v=1512842444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            67.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double Booties Planter. Dimensions: L:2.25"xW:4.25"xH:3.25" (12 total pieces - 6 each color)<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308297237</id>
+      <title>L:2.25&quot;xW:4.25&quot;xH:3.25&quot; / 1 Dozen/Box / As Shown</title>
+      <s:price currency="USD">67.92</s:price>
+      <s:sku>NA15095</s:sku>
+      <s:grams>14969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308264469</id>
+    <published>2017-12-09T13:00:37-05:00</published>
+    <updated>2017-12-09T13:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cradle-planter"/>
+    <title>JKM Cradle Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15503-napco.jpg?v=1512842440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            28.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cradle Planter. Two Assorted. Dimensions: L:3.25"xW:5.5"xH:4"<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308264469</id>
+      <title>L:3.25&quot;xW:5.5&quot;xH:4&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">28.30</s:price>
+      <s:sku>NA15503</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308231701</id>
+    <published>2017-12-09T13:00:33-05:00</published>
+    <updated>2017-12-09T13:00:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cow-planter-id-na16678"/>
+    <title>JKM Cow Planter (ID: NA16678)</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16678-napco.jpg?v=1512842436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            31.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cow Planter. Dimensions: L:2.75"xW:3.5"xH:3.25"<br>(Product Characteristic: Animals) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308231701</id>
+      <title>L:2.75&quot;xW:3.5&quot;xH:3.25&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">31.17</s:price>
+      <s:sku>NA16678</s:sku>
+      <s:grams>7257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308198933</id>
+    <published>2017-12-09T13:00:29-05:00</published>
+    <updated>2017-12-09T13:00:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cow-planter-id-na16676"/>
+    <title>JKM Cow Planter (ID: NA16676)</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16676-napco.jpg?v=1512842432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            36.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cow Planter. Dimensions: L:3.25"xW:3.5"xH:3"<br>(Product Characteristic: Animals) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308198933</id>
+      <title>L:3.25&quot;xW:3.5&quot;xH:3&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">36.83</s:price>
+      <s:sku>NA16676</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308166165</id>
+    <published>2017-12-09T13:00:26-05:00</published>
+    <updated>2017-12-09T13:00:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-dinosaur-planter"/>
+    <title>JKM Dinosaur Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16677-napco.jpg?v=1512842428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            36.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dinosaur Planter. Two Assorted. Dimensions: L:2.75"xW:3"xH:3.25"<br>(Product Characteristic: Animals) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308166165</id>
+      <title>L:2.75&quot;xW:3&quot;xH:3.25&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">36.83</s:price>
+      <s:sku>NA16677</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308133397</id>
+    <published>2017-12-09T13:00:22-05:00</published>
+    <updated>2017-12-09T13:00:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cup-cake-vase"/>
+    <title>JKM Cup Cake Vase</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16573-napco.jpg?v=1512842425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            46.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cup Cake Vase. Six Assorted. Dimensions: L:2"xW:2"xH:3.25"<br>(Product Characteristic: Special Gifts) / (Fabric Content: Dolomite)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308133397</id>
+      <title>L:2&quot;xW:2&quot;xH:3.25&quot; / 12 Pcs/Box / As Shown</title>
+      <s:price currency="USD">46.64</s:price>
+      <s:sku>NA16573</s:sku>
+      <s:grams>11793</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308100629</id>
+    <published>2017-12-09T13:00:19-05:00</published>
+    <updated>2017-12-09T13:00:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cupcake-planter"/>
+    <title>JKM Cupcake Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16667-napco.jpg?v=1512842421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            31.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cupcake Planter. Three Assorted. Dimensions: H:3"<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308100629</id>
+      <title>H:3&quot; / 6 Pcs/Box / As Shown</title>
+      <s:price currency="USD">31.81</s:price>
+      <s:sku>NA16667</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308067861</id>
+    <published>2017-12-09T13:00:16-05:00</published>
+    <updated>2017-12-09T13:00:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cutie-pie-planters"/>
+    <title>JKM Cutie Pie Planters</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15500-napco.jpg?v=1512842418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            23.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cutie Pie Planters. Three Assorted. Dimensions: W:4.5"xH:4"<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308067861</id>
+      <title>W:4.5&quot;xH:4&quot; / 3 Pcs/Box / As Shown</title>
+      <s:price currency="USD">23.38</s:price>
+      <s:sku>NA15500</s:sku>
+      <s:grams>7711</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77308035093</id>
+    <published>2017-12-09T13:00:12-05:00</published>
+    <updated>2017-12-09T13:00:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-giraffe-musical-planter"/>
+    <title>JKM Giraffe Musical Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15390-napco.jpg?v=1512842415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            30.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Giraffe Musical Planter. Dimensions: L:3"xW:4.5"xH:3.25"<br>(Product Characteristic: Decorative) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77308035093</id>
+      <title>L:3&quot;xW:4.5&quot;xH:3.25&quot; / 2 Pcs/Box / As Shown</title>
+      <s:price currency="USD">30.42</s:price>
+      <s:sku>NA15390</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307969557</id>
+    <published>2017-12-09T13:00:09-05:00</published>
+    <updated>2017-12-09T13:00:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-golf-vase"/>
+    <title>JKM Golf Vase</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16608-napco.jpg?v=1512842411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            31.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golf Vase. Dimensions: W:4"xH:7.75"<br>(Product Characteristic: Sports) / (Fabric Content: Dolomite)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307969557</id>
+      <title>W:4&quot;xH:7.75&quot; / 3 Pcs/Box / As Shown</title>
+      <s:price currency="USD">31.87</s:price>
+      <s:sku>NA16608</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307936789</id>
+    <published>2017-12-09T13:00:05-05:00</published>
+    <updated>2017-12-09T13:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-golf-ball-planter"/>
+    <title>JKM Golf Ball Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16540-napco.jpg?v=1512842408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            21.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golf Ball Planter. Dimensions: W:4"xH:3.75"<br>(Product Characteristic: Sports) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307936789</id>
+      <title>W:4&quot;xH:3.75&quot; / 3 Pcs/Box / As Shown</title>
+      <s:price currency="USD">21.23</s:price>
+      <s:sku>NA16540</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307904021</id>
+    <published>2017-12-09T13:00:02-05:00</published>
+    <updated>2017-12-09T13:00:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-fire-truck-planter"/>
+    <title>JKM Fire Truck Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16594-napco.jpg?v=1512842405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            29.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fire Truck Planter. Dimensions: H:3"<br>(Product Characteristic: Children) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307904021</id>
+      <title>H:3&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">29.74</s:price>
+      <s:sku>NA16594</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307871253</id>
+    <published>2017-12-09T12:59:58-05:00</published>
+    <updated>2017-12-09T12:59:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-fishing-basket-planter"/>
+    <title>JKM Fishing Basket Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16601-napco.jpg?v=1512842401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            46.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fishing Basket Planter. Three Assorted. Dimensions: H:4"<br>(Product Characteristic: Sports) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307871253</id>
+      <title>H:4&quot; / 6 Pcs/Box / As Shown</title>
+      <s:price currency="USD">46.75</s:price>
+      <s:sku>NA16601</s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307838485</id>
+    <published>2017-12-09T12:59:55-05:00</published>
+    <updated>2017-12-09T12:59:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-football-vase"/>
+    <title>JKM Football Vase</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16607-napco.jpg?v=1512842398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            31.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Football Vase. Dimensions: W:4"xH:7.75"<br>(Product Characteristic: Sports) / (Fabric Content: Dolomite)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307838485</id>
+      <title>W:4&quot;xH:7.75&quot; / 3 Pcs/Box / As Shown</title>
+      <s:price currency="USD">31.87</s:price>
+      <s:sku>NA16607</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307805717</id>
+    <published>2017-12-09T12:59:51-05:00</published>
+    <updated>2017-12-09T12:59:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-football-planter"/>
+    <title>JKM Football Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16541-napco.jpg?v=1512842394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            21.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Football Planter. Dimensions: W:4"xH:3.5"<br>(Product Characteristic: Sports) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307805717</id>
+      <title>W:4&quot;xH:3.5&quot; / 3 Pcs/Box / As Shown</title>
+      <s:price currency="USD">21.23</s:price>
+      <s:sku>NA16541</s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307772949</id>
+    <published>2017-12-09T12:59:48-05:00</published>
+    <updated>2017-12-09T12:59:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-school-bus-planter"/>
+    <title>JKM School Bus Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16526-napco.jpg?v=1512842391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            31.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>School Bus Planter. Dimensions: L:5.25"xW:3"xH:3"<br>(Product Characteristic: Children) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307772949</id>
+      <title>L:5.25&quot;xW:3&quot;xH:3&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">31.17</s:price>
+      <s:sku>NA16526</s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307740181</id>
+    <published>2017-12-09T12:59:44-05:00</published>
+    <updated>2017-12-09T12:59:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sleigh-planter"/>
+    <title>JKM Sleigh Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x64053-napco.jpg?v=1512842387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            55.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleigh Planter. Two Assorted. Dimensions: L:9.25"xW:4.5"xH:3"<br>(Product Characteristic: Sleigh) / (Fabric Content: Metal)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Decorations</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307740181</id>
+      <title>L:9.25&quot;xW:4.5&quot;xH:3&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">55.17</s:price>
+      <s:sku>NA64053</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307707413</id>
+    <published>2017-12-09T12:59:41-05:00</published>
+    <updated>2017-12-09T12:59:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sleepy-bear-planter"/>
+    <title>JKM Sleepy Bear Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x15502-napco.jpg?v=1512842383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            28.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleepy Bear Planter. Two Assorted. Dimensions: W:4.75"xH:4"<br>(Product Characteristic: Decorative) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Containers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307707413</id>
+      <title>W:4.75&quot;xH:4&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">28.30</s:price>
+      <s:sku>NA15502</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+</feed>

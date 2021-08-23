@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/decorative-cords.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:19:51-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77409419285</id>
+    <published>2020-10-07T13:19:51-04:00</published>
+    <updated>2020-10-07T13:19:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-authentic-rattail-satin-cord-gold-metallic-colors-2-3mm-approx-1-8"/>
+    <title>JKM Authentic Rattail Satin Cord - Gold Metallic Colors - #2 (3mm &amp; Approx. 1/8&quot;)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xrattailgold-jkm.jpg?v=1512852740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            25.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our authentic Rattail satin cord comes in 10 beautiful, solid colors with gold metallic. Available in a 3mm (~1/8") width on 144 yard spools.<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: Rayon/Cotton/Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 1 White</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-21</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 16 Dark Green</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-216</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 19 Wine</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-219</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 2 Black</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-22</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 26 Light Pink</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-226</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 3 Ivory</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-23</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 33 Turquoise</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-233</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 5 Red</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-25</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 6 Light Blue</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-26</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409419285</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 8 Navy</title>
+      <s:price currency="USD">25.47</s:price>
+      <s:sku>SH44302-28</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77409517589</id>
+    <published>2020-10-07T13:19:50-04:00</published>
+    <updated>2020-10-07T13:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-authentic-rattail-satin-cord-pearlized-colors-2-3mm-approx-1-8"/>
+    <title>JKM Authentic Rattail Satin Cord - Pearlized Colors - #2 (3mm &amp; Approx. 1/8&quot;)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xrattailpearl-jkm.jpg?v=1512852746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            26.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our authentic Rattail satin cord comes in 2 beautiful, solid colors with pearlized coating. Available in a 3mm (~1/8") width on 144 yard spools.<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: Rayon/Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409517589</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 2 Black</title>
+      <s:price currency="USD">26.42</s:price>
+      <s:sku>SH44301-22</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409517589</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 3 Ivory</title>
+      <s:price currency="USD">26.42</s:price>
+      <s:sku>SH44301-23</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77409746965</id>
+    <published>2020-10-07T13:19:48-04:00</published>
+    <updated>2020-10-07T13:19:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-authentic-rattail-satin-cord-finesse-metallic-colors-unwired-2-3mm-approx-1-8"/>
+    <title>JKM Authentic Rattail Satin Cord - Finesse Metallic Colors - Unwired - #2 (3mm &amp; Approx. 1/8&quot;)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xrattailfinesse-jkm.jpg?v=1512852753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            34.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our authentic Rattail satin cord comes in 6 beautiful, solid colors with finesse metallic. Available in unwired and wire edge styles with a 3mm (~1/8") width on 144 yard spools.<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: Rayon/Cotton/Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409746965</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 1 Gold</title>
+      <s:price currency="USD">34.91</s:price>
+      <s:sku>SH44304-21</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409746965</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 2 Silver</title>
+      <s:price currency="USD">34.91</s:price>
+      <s:sku>SH44304-22</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409746965</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 3 Copper</title>
+      <s:price currency="USD">34.91</s:price>
+      <s:sku>SH44304-23</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409746965</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 4 Copper/Iris/Gold/Silver</title>
+      <s:price currency="USD">34.91</s:price>
+      <s:sku>SH44304-24</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409746965</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 5 Silver/Gold</title>
+      <s:price currency="USD">34.91</s:price>
+      <s:sku>SH44304-25</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409746965</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 6 Iris/Silver</title>
+      <s:price currency="USD">34.91</s:price>
+      <s:sku>SH44304-26</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77409910805</id>
+    <published>2020-10-07T13:19:47-04:00</published>
+    <updated>2020-10-07T13:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-authentic-rattail-satin-cord-finesse-metallic-colors-wired-2-3mm-approx-1-8"/>
+    <title>JKM Authentic Rattail Satin Cord - Finesse Metallic Colors - Wired - #2 (3mm &amp; Approx. 1/8&quot;)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xrattailfinesse-jkm_b6cffd8c-b5e1-47f3-a110-7c3ce8177a49.jpg?v=1512852758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            48.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our authentic Rattail satin cord comes in 6 beautiful, solid colors with finesse metallic. Available in unwired and wire edge styles with a 3mm (~1/8") width on 144 yard spools.<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: Rayon/Cotton/Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409910805</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 1 Gold</title>
+      <s:price currency="USD">48.49</s:price>
+      <s:sku>SH44304-2WE1</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409910805</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 2 Silver</title>
+      <s:price currency="USD">48.49</s:price>
+      <s:sku>SH44304-2WE2</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77409910805</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 3 Copper</title>
+      <s:price currency="USD">48.49</s:price>
+      <s:sku>SH44304-2WE3</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77410074645</id>
+    <published>2020-10-07T13:19:45-04:00</published>
+    <updated>2020-10-07T13:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-authentic-rattail-satin-cord-multicolor"/>
+    <title>JKM Authentic Rattail Satin Cord - Multicolor</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xrattailmulti-jkm_bc4665a1-b3e6-47fc-a23e-a51cc07fa3ab.jpg?v=1512852768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            25.94 - 32.55
+            <a href="https://www.jkmribbon.com/products/jkm-authentic-rattail-satin-cord-multicolor">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our authentic Rattail satin cord comes in multi-color earth tones, pastels and brights. Available in 2mm (~1/16") &amp; 3mm (~1/8") widths on 144 yard spools.<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: Rayon/Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410074645</id>
+      <title>No.1 (2mm Approx. 1/16&quot;) / 144 Yards/Spool / 1 Earth Tones</title>
+      <s:price currency="USD">25.94</s:price>
+      <s:sku>SHRT1MULTI-1</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410074645</id>
+      <title>No.1 (2mm Approx. 1/16&quot;) / 144 Yards/Spool / 3 Pastels</title>
+      <s:price currency="USD">25.94</s:price>
+      <s:sku>SHRT1MULTI-3</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410074645</id>
+      <title>No.1 (2mm Approx. 1/16&quot;) / 144 Yards/Spool / 4 Brights</title>
+      <s:price currency="USD">25.94</s:price>
+      <s:sku>SHRT1MULTI-4</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410074645</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 1 Earth Tones</title>
+      <s:price currency="USD">32.55</s:price>
+      <s:sku>SHRT2MULTI-1</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410074645</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 3 Pastels</title>
+      <s:price currency="USD">32.55</s:price>
+      <s:sku>SHRT2MULTI-3</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410074645</id>
+      <title>No.2 (3mm Approx. 1/8&quot;) / 144 Yards/Spool / 4 Brights</title>
+      <s:price currency="USD">32.55</s:price>
+      <s:sku>SHRT2MULTI-4</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77411680277</id>
+    <published>2020-10-07T13:19:03-04:00</published>
+    <updated>2020-10-07T13:19:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cord-gold-twist"/>
+    <title>JKM Cord Gold Twist</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x60016-jkm.jpg?v=1512852923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            11.50 - 27.42
+            <a href="https://www.jkmribbon.com/products/jkm-cord-gold-twist">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our cord gold twist comes in 6 beautiful colors and the following sizes: 1/8" &amp; 1/4" widths on 25 yard rolls.<br>(Product Characteristic: Cord) / (Fabric Content: 68% Acrylic 25% Rayon 7% Metallized Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/8&quot; / 25 Yards/Spool / 030 White</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>RE60016-030-18J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/8&quot; / 25 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>RE60016-055-18J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/8&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>RE60016-065-18J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/8&quot; / 25 Yards/Spool / 090 Burgundy</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>RE60016-090-18J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/8&quot; / 25 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>RE60016-810-18J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/8&quot; / 25 Yards/Spool / 925 Hunter</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>RE60016-925-18J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/4&quot; / 25 Yards/Spool / 030 White</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>RE60016-030-01J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/4&quot; / 25 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>RE60016-055-01J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/4&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>RE60016-065-01J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/4&quot; / 25 Yards/Spool / 090 Burgundy</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>RE60016-090-01J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/4&quot; / 25 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>RE60016-810-01J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411680277</id>
+      <title>1/4&quot; / 25 Yards/Spool / 925 Hunter</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>RE60016-925-01J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77411713045</id>
+    <published>2020-10-07T13:19:02-04:00</published>
+    <updated>2020-10-07T13:19:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cord-metallic-twist"/>
+    <title>JKM Cord Metallic Twist</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x60017-jkm.jpg?v=1512852926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            10.25 - 23.63
+            <a href="https://www.jkmribbon.com/products/jkm-cord-metallic-twist">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our cord metallic twist comes in 2 beautiful colors and the following sizes: 1/8" &amp; 1/4" widths on 25 yard rolls.<br>(Product Characteristic: Cord) / (Fabric Content: 68% Acrylic 25% Rayon 7% Metallized Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411713045</id>
+      <title>1/8&quot; / 25 Yards/Spool / 070 Silver</title>
+      <s:price currency="USD">10.25</s:price>
+      <s:sku>RE60017-070-18J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411713045</id>
+      <title>1/4&quot; / 25 Yards/Spool / 070 Silver</title>
+      <s:price currency="USD">23.63</s:price>
+      <s:sku>RE60017-070-01J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77411745813</id>
+    <published>2020-10-07T13:19:00-04:00</published>
+    <updated>2020-10-07T13:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-hairy-cord-with-wire-edge-1-16-width"/>
+    <title>JKM Hairy Cord with Wire Edge - 1/16&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x60130W-jkm.jpg?v=1512852934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            15.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our hairy cord with wire edge comes in 6 beautiful colors and the following sizes: 1/16" width on 25 yard rolls.<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411745813</id>
+      <title>1/16&quot; / 25 Yards/Spool / 035 Gold</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>RE60130W035-06J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411745813</id>
+      <title>1/16&quot; / 25 Yards/Spool / 044 Green</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>RE60130W044-06J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411745813</id>
+      <title>1/16&quot; / 25 Yards/Spool / 064 Purple</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>RE60130W064-06J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411745813</id>
+      <title>1/16&quot; / 25 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>RE60130W065-06J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411745813</id>
+      <title>1/16&quot; / 25 Yards/Spool / 070 Silver</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>RE60130W070-06J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411745813</id>
+      <title>1/16&quot; / 25 Yards/Spool / 085 Copper</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>RE60130W085-06J</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77411778581</id>
+    <published>2020-10-07T13:18:58-04:00</published>
+    <updated>2020-10-07T13:18:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sparkle-elastic-1-16-width"/>
+    <title>JKM Sparkle Elastic - 1/16&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x60127-jkm.jpg?v=1512852939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            26.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our sparkle elastic comes in 3 beautiful colors and the following sizes: 1/16" width on 100 yard rolls.<br>(Product Characteristic: Stretch Ribbon; Trim; Cords) / (Fabric Content: 20% Metallic 80% Elastic Polyster)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411778581</id>
+      <title>1/16&quot; / 100 Yards/Spool / 035 Gold</title>
+      <s:price currency="USD">26.89</s:price>
+      <s:sku>RE60127-035-06C</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411778581</id>
+      <title>1/16&quot; / 100 Yards/Spool / 070 Silver</title>
+      <s:price currency="USD">26.89</s:price>
+      <s:sku>RE60127-070-06C</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77411778581</id>
+      <title>1/16&quot; / 100 Yards/Spool / 085 Copper</title>
+      <s:price currency="USD">26.89</s:price>
+      <s:sku>RE60127-085-06C</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77413318677</id>
+    <published>2020-10-07T13:17:59-04:00</published>
+    <updated>2020-10-07T13:17:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-twisted-cord-jkm-classic-label-trim-3-16-width"/>
+    <title>JKM Twisted Cord (JKM Classic Label Trim) - 3/16&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x22C002-jkm.jpg?v=1512853167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JKM's twisted cord is a JKM Classic Label Trim available in 3/16" width on 18 yard rolls. This Trim is one of 11 styles in JKM's Classic Label Trims' Collection which include: Twisted Cord, Cord with Lip, Scroll &amp; French Gimp, and Tassel, Brush &amp; Bullion Fringes. These Trims are High Quality at Affordable Wholesale Prices. There are 12 Vibrant Colors Available for Each of the 11 Styles. A Sample Book with actual samples of each style and each color (132 samples) is available for purchase in the sample cards section under JKM Classic Label Trims' Sample Book. Dry clean only.<br>(Product Characteristic: Cord) / (Fabric Content: 70% Cotton 30% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 030 White</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002030-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002031-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 035 Gold</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002035-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002043-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 049 Rust</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002049-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002055-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002065-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 091 Beige</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002091-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 092 Brown</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002092-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 201 Wine</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002201-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 700 Sand</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002700-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413318677</id>
+      <title>3/16&quot; / 18 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">12.47</s:price>
+      <s:sku>RF22C002810-01O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77413449749</id>
+    <published>2020-10-07T13:17:56-04:00</published>
+    <updated>2020-10-07T13:17:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-twisted-cord-jkm-classic-label-trim-3-8-width"/>
+    <title>JKM Twisted Cord (JKM Classic Label Trim) - 3/8&quot; Width</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x22C004-jkm_915f48c6-3b44-4062-aea3-1139f79cb17b.jpg?v=1512853190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            25.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JKM's twisted cord is a JKM Classic Label Trim available in 3/8" width on 18 yard rolls. This Trim is one of 11 styles in JKM's Classic Label Trims' Collection which include: Twisted Cord, Cord with Lip, Scroll &amp; French Gimp, and Tassel, Brush &amp; Bullion Fringes. These Trims are High Quality at Affordable Wholesale Prices. There are 12 Vibrant Colors Available for Each of the 11 Styles. A Sample Book with actual samples of each style and each color (132 samples) is available for purchase in the sample cards section under JKM Classic Label Trims' Sample Book. Dry clean only.<br>(Product Characteristic: Cord) / (Fabric Content: 70% Cotton 30% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 030 White</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004030-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004031-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 035 Gold</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004035-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004043-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 049 Rust</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004049-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 055 Navy</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004055-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004065-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 091 Beige</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004091-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 092 Brown</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004092-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 201 Wine</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004201-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 700 Sand</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004700-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77413449749</id>
+      <title>3/8&quot; / 18 Yards/Spool / 810 Ivory</title>
+      <s:price currency="USD">25.57</s:price>
+      <s:sku>RF22C004810-15O</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420658709</id>
+    <published>2020-10-07T13:15:39-04:00</published>
+    <updated>2020-10-07T13:15:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-cord-1-16"/>
+    <title>Wrights Metallic Cord - 1/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861131070-wrights.jpg?v=1512853751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            16.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Cord is available in 1/16" Width 48 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 60% Metallic 40% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420658709</id>
+      <title>1/16&quot; / 48 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">16.62</s:price>
+      <s:sku>MR1861132046</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420658709</id>
+      <title>1/16&quot; / 48 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">16.62</s:price>
+      <s:sku>MR1861131070</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420691477</id>
+    <published>2020-10-07T13:15:37-04:00</published>
+    <updated>2020-10-07T13:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-twisted-cord-1-16"/>
+    <title>Wrights Metallic Twisted Cord - 1/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863118070-wrights.jpg?v=1512853755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            20.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Twisted Cord is available in 1/16" Width 24 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 60% Cotton 40% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420691477</id>
+      <title>1/16&quot; / 24 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>MR1863119046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420691477</id>
+      <title>1/16&quot; / 24 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>MR1863118070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420724245</id>
+    <published>2020-10-07T13:15:36-04:00</published>
+    <updated>2020-10-07T13:15:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-large-metallic-twisted-cord-1-4"/>
+    <title>Wrights Large Metallic Twisted Cord - 1/4&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868771046-wrights.jpg?v=1512853759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            18.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Metallic Twisted Cord is available in 1/4" Width 18 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 91% Cotton 9% Metallic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420724245</id>
+      <title>1/4&quot; / 18 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">18.54</s:price>
+      <s:sku>MR1868771046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420724245</id>
+      <title>1/4&quot; / 18 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">18.54</s:price>
+      <s:sku>MR1868772070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420757013</id>
+    <published>2020-10-07T13:15:34-04:00</published>
+    <updated>2020-10-07T13:15:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-metallic-twisted-cord"/>
+    <title>Wrights Metallic Twisted Cord</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868773878-wrights.jpg?v=1512853766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            11.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic Twisted Cord is available in As Shown Width 12 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 90% Cotton 2% Metallic 8% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420757013</id>
+      <title>As Shown / 12 Yards/Reel / 277 Navy/Gold</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1868777277</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420757013</id>
+      <title>As Shown / 12 Yards/Reel / 812 Burgundy/Gold</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1868774812</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420757013</id>
+      <title>As Shown / 12 Yards/Reel / 878 White/Metallic Gold</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1868773878</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420757013</id>
+      <title>As Shown / 12 Yards/Reel / 881 Red/Gold</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1868776881</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420757013</id>
+      <title>As Shown / 12 Yards/Reel / 882 Green/Gold</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1868775882</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420789781</id>
+    <published>2020-10-07T13:15:33-04:00</published>
+    <updated>2020-10-07T13:15:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-twisted-cord-3-16-id-mr1868779"/>
+    <title>Wrights Twisted Cord - 3/16&quot; (ID: MR1868779)</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1868779070-wrights.jpg?v=1512853770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twisted Cord is available in 3/16" Width 18 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 78% Polyester 22% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420789781</id>
+      <title>3/16&quot; / 18 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">8.24</s:price>
+      <s:sku>MR1868780046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420789781</id>
+      <title>3/16&quot; / 18 Yards/Reel / 070 Silver</title>
+      <s:price currency="USD">8.24</s:price>
+      <s:sku>MR1868779070</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420822549</id>
+    <published>2020-10-07T13:15:31-04:00</published>
+    <updated>2020-10-07T13:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-silky-cord-1-8"/>
+    <title>Wrights Silky Cord - 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1861093065-wrights.jpg?v=1512853775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silky Cord is available in 1/8" Width 36 Yards/Reel<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420822549</id>
+      <title>1/8&quot; / 36 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.46</s:price>
+      <s:sku>MR1861091030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420822549</id>
+      <title>1/8&quot; / 36 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">12.46</s:price>
+      <s:sku>MR1861092031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420822549</id>
+      <title>1/8&quot; / 36 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">12.46</s:price>
+      <s:sku>MR1861093065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420855317</id>
+    <published>2020-10-07T13:15:30-04:00</published>
+    <updated>2020-10-07T13:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-lanyard-cord-3-8"/>
+    <title>Wrights Lanyard Cord - 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862306065-wrights.jpg?v=1512853780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            14.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lanyard Cord is available in 3/8" Width 24 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420855317</id>
+      <title>3/8&quot; / 24 Yards/Reel / 030 White</title>
+      <s:price currency="USD">14.22</s:price>
+      <s:sku>MR1862306030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420855317</id>
+      <title>3/8&quot; / 24 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">14.22</s:price>
+      <s:sku>MR1862306031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420855317</id>
+      <title>3/8&quot; / 24 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">14.22</s:price>
+      <s:sku>MR1862306065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420888085</id>
+    <published>2020-10-07T13:15:27-04:00</published>
+    <updated>2020-10-07T13:15:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-rattail-1-8"/>
+    <title>Wrights Rattail - 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862328073-wrights.jpg?v=1512853799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            12.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rattail is available in 1/8" Width 36 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 100% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 030 White</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862328030</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862328031</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862405034</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 052 Light Blue</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862408052</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 055 Navy</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862401055</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 061 Pink</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862400061</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 064 Purple</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862402064</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862328065</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 073 Tan</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862328073</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 078 Yale Blue</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862398078</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 079 Yellow</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862328079</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 1042 Antique Gold</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR18624031042</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 151 Coffee</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862410151</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 217 Rasberry</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862404217</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 257 Bronze</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862409257</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 333 Dark Green</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862397333</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 453 Burgundy</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862399453</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 590 Olive</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862407590</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420888085</id>
+      <title>1/8&quot; / 36 Yards/Reel / 986 Ecru</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>MR1862396986</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77420920853</id>
+    <published>2020-10-07T13:15:25-04:00</published>
+    <updated>2020-10-07T13:15:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-cotton-bolo-cord-3-16"/>
+    <title>Wrights Cotton Bolo Cord - 3/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862350076-wrights.jpg?v=1512853808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            11.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton Bolo Cord is available in 3/16" Width 18 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420920853</id>
+      <title>3/16&quot; / 18 Yards/Reel / 029 Natural</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1862346029</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420920853</id>
+      <title>3/16&quot; / 18 Yards/Reel / 030 White</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1862348030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420920853</id>
+      <title>3/16&quot; / 18 Yards/Reel / 055 Dark Navy</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1862349055</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420920853</id>
+      <title>3/16&quot; / 18 Yards/Reel / 076 Scarlet</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR1862350076</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77420920853</id>
+      <title>3/16&quot; / 18 Yards/Reel / 1231 Gray</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>MR18623481231</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421019157</id>
+    <published>2020-10-07T13:15:24-04:00</published>
+    <updated>2020-10-07T13:15:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-leather-lace-1-8"/>
+    <title>Wrights Leather Lace - 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1862355034-wrights.jpg?v=1512853813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            9.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leather Lace is available in 1/8" Width 12 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 100% Leather)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421019157</id>
+      <title>1/8&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">9.89</s:price>
+      <s:sku>MR1862353031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421019157</id>
+      <title>1/8&quot; / 12 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">9.89</s:price>
+      <s:sku>MR1862355034</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421019157</id>
+      <title>1/8&quot; / 12 Yards/Reel / 073 Light Brown</title>
+      <s:price currency="USD">9.89</s:price>
+      <s:sku>MR1862356073</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421019157</id>
+      <title>1/8&quot; / 12 Yards/Reel / 454 Dark Brown</title>
+      <s:price currency="USD">9.89</s:price>
+      <s:sku>MR1862354454</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421051925</id>
+    <published>2020-10-07T13:15:21-04:00</published>
+    <updated>2020-10-07T13:15:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-lacing-cord-1-8"/>
+    <title>Wrights Lacing Cord - 1/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863087077-wrights.jpg?v=1512853823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            6.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lacing Cord is available in 1/8" Width 12 Yards/Reel<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863095030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863094031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 032 Navy</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863091032</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 065 Red</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863092065</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 069 Turquoise</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863089069</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 077 Aqua</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863087077</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 086 Canary</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863088086</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 191 Chenille Red</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863090191</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421051925</id>
+      <title>1/8&quot; / 12 Yards/Reel / 952 Magenta</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>MR1863093952</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421084693</id>
+    <published>2020-10-07T13:15:19-04:00</published>
+    <updated>2020-10-07T13:15:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-cord-3-8"/>
+    <title>Wrights Cord - 3/8&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1864012389-wrights.jpg?v=1512853828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cord is available in 3/8" Width 12 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 50% Cotton 45% Rayon 5% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421084693</id>
+      <title>3/8&quot; / 12 Yards/Reel / 030 White</title>
+      <s:price currency="USD">8.16</s:price>
+      <s:sku>MR1864013030</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421117461</id>
+    <published>2020-10-07T13:15:18-04:00</published>
+    <updated>2020-10-07T13:15:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-velvet-cord-2-1-2mm"/>
+    <title>Wrights Velvet Cord - 2 1/2mm</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1864189030-wrights.jpg?v=1512853831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet Cord is available in 2 1/2mm Width 24 Yards/Reel<br>(Product Characteristic: Cord) / (Fabric Content: 70% PVC 30% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421117461</id>
+      <title>2 1/2mm / 24 Yards/Reel / 031 Black</title>
+      <s:price currency="USD">17.51</s:price>
+      <s:sku>MR1864189031</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421117461</id>
+      <title>2 1/2mm / 24 Yards/Reel / 034 Brown</title>
+      <s:price currency="USD">17.51</s:price>
+      <s:sku>MR1864189034</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77421150229</id>
+    <published>2020-10-07T13:15:16-04:00</published>
+    <updated>2020-10-07T13:15:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/wrights-silky-cord-1-16"/>
+    <title>Wrights Silky Cord - 1/16&quot;</title>
+    <s:type>Trims &amp; Home Décor</s:type>
+    <s:vendor>Wrights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x1863120046-wrights.jpg?v=1512853838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrights<br>
+        <strong>Type: </strong>Trims &amp; Home Décor<br>
+        <strong>Price: </strong>
+            8.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silky Cord is available in 1/16" Width 24 Yards/Reel<br>(Product Characteristic: Thin Cord; Chain) / (Fabric Content: 100% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative Cords</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421150229</id>
+      <title>1/16&quot; / 24 Yards/Reel / 001 Multi</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1863121001</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421150229</id>
+      <title>1/16&quot; / 24 Yards/Reel / 046 Gold</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1863120046</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421150229</id>
+      <title>1/16&quot; / 24 Yards/Reel / 170 Candleglow</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1863124170</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421150229</id>
+      <title>1/16&quot; / 24 Yards/Reel / 204 Lime Fizz</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1863122204</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77421150229</id>
+      <title>1/16&quot; / 24 Yards/Reel / 979 Pistachio</title>
+      <s:price currency="USD">8.41</s:price>
+      <s:sku>MR1863123979</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+</feed>

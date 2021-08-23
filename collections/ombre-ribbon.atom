@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/ombre-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:48:41-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77469876245</id>
+    <published>2020-10-07T12:48:41-04:00</published>
+    <updated>2020-10-07T12:48:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-ombre-1-1-2-width"/>
+    <title>JKM Sheer Ombre - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x505-08-harvest.gif?v=1512858757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            17.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Ombre - 1 1/2" Width on a 50 yard spool is available in assorted colors.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ombre Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Burgundy/Hunter Green Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-08</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Gold/Brown Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-09</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Green/Pink Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-11</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Hunter/Turquoise Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-02</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Lavender Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-03</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Lavender/Pink Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-10</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Light Blue/Navy Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-12</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Light Green/White Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-06</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Peach/Pink Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-01</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77469876245</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / Pink/Gold Ombre</title>
+      <s:price currency="USD">17.03</s:price>
+      <s:sku>HA505-07</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77470040085</id>
+    <published>2020-10-07T12:48:34-04:00</published>
+    <updated>2020-10-07T12:48:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-two-tone-variegated-7-8-width"/>
+    <title>JKM Two Tone Variegated - 7/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x314-411-harvest.gif?v=1512858830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two Tone Variegated - 7/8" Width on a 25 yard spool is available in assorted colors.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ombre Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-10</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Copper</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-41</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Fuchsia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-55</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Gold</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-42</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Hunter Green</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-19</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Iris</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-45</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-20</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Lime Green</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-34</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Mauve</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-25</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-18</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Moss</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-17</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Navy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-22</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Orange</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-33</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Purple</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-26</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Royal</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-23</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77470040085</id>
+      <title>7/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA314-16</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

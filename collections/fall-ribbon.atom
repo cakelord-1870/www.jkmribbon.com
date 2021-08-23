@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/fall-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:49:06-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77468827669</id>
+    <published>2020-10-07T12:49:06-04:00</published>
+    <updated>2020-10-07T12:49:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-gold-leaf-print-ribbon-with-wire-edge-1-1-2-width"/>
+    <title>JKM Gold Leaf Print Ribbon with Wire Edge - 1 1/2&quot; Width</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x514group-harvest.gif?v=1512858430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            7.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Leaf Print Ribbon with Wire Edge - 1 1/2" Width on a 10 yard spoo is available in several colors.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fall Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468827669</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Burgundy/Gold Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA514-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468827669</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Copper/Gold Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA514-41</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468827669</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Gold/Gold Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA514-27</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468827669</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Moss/Gold Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA514-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77468958741</id>
+    <published>2020-10-07T12:49:04-04:00</published>
+    <updated>2020-10-07T12:49:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-leaf-print-on-sheer-with-wire-edge-1-1-2-width"/>
+    <title>JKM Leaf Print on Sheer with Wire Edge - 1 1/2&quot; Width</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x524group-harvest.gif?v=1512858451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            7.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leaf Print on Sheer with Wire Edge - 1 1/2" Width on a 10 yard spool is available in assorted colors.<br>(Product Characteristic: Sheer Printed Pattern) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fall Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Brown/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-41</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Burgundy/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Gold/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-27</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Hot Pink/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Lavender/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Mint/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Moss/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Orange/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-33</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Peach/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Pink/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Red/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77468958741</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / White/Leaf Print</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA524-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4001521336407</id>
+    <published>2020-10-07T12:16:04-04:00</published>
+    <updated>2020-10-07T12:16:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-fleming-wire-edge"/>
+    <title>JKM Fleming Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xfleming-wired-plaid.png?v=1568404765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            10.85 - 16.70
+            <a href="https://www.jkmribbon.com/products/jkm-fleming-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fleming Wire Edge is a stylish, elegant plaid ribbon in Fall colors and this ribbon is perfect for adding a personal touch to any Fall and Thanksgiving holiday décor! Available in 3" and 4" widths on 10 yard spools. <br>(Product Characteristic: Plaid) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fall Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4001521336407</id>
+      <title>3&quot; / 10 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>OF310098-40-001</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4001521336407</id>
+      <title>4&quot; / 10 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">16.70</s:price>
+      <s:sku>OF310111-100001</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4001521369175</id>
+    <published>2020-10-07T12:16:03-04:00</published>
+    <updated>2020-10-07T12:16:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cider-plaid-wire-edge"/>
+    <title>JKM Cider Plaid Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xcider-plaid-wired-ribbon.png?v=1568404766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            8.50 - 12.05
+            <a href="https://www.jkmribbon.com/products/jkm-cider-plaid-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cider Plaid is an affordable wire edge plaid ribbon perfect for gift packaging, floral arrangements, Fall craft projects and much more. Available in 1-1/2" or 2-1/2" widths on 50 yard spools.<br>(Product Characteristic: Plaid) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fall Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4001521369175</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / ORO Orange</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>OFICV-09-ORO</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4001521369175</id>
+      <title>2 1/2&quot; / 50 Yards/Spool / ORO Orange</title>
+      <s:price currency="USD">12.05</s:price>
+      <s:sku>OFICV-40-ORO</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4001521401943</id>
+    <published>2020-10-07T12:16:02-04:00</published>
+    <updated>2020-10-07T12:16:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-dumari-wire-edge"/>
+    <title>JKM Dumari Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xdumari-wired-plaid.png?v=1568404764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            5.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dumari Wire Edge is an elegant Fall plaid wired ribbon and is a great way to add a personal touch to any Fall and Thanksgiving holiday décor! Available in 2-1/2" width on 10 yard spools. <br>(Product Characteristic: Plaid) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fall Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4001521401943</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>OF306336-40-001</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

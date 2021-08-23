@@ -1,0 +1,2754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/stripe-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:18:37-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412466709</id>
+    <published>2020-10-07T13:18:37-04:00</published>
+    <updated>2020-10-07T13:18:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-stripe-bright-ribbon-with-wire-edge"/>
+    <title>JKM Stripe Bright Ribbon with Wire Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x97360w-jkm.jpg?v=1512853024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            19.77 - 25.21
+            <a href="https://www.jkmribbon.com/products/jkm-stripe-bright-ribbon-with-wire-edge">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our stripe bright ribbon with wire edge comes in 4 beautiful colors and is available in the following sizes: 1-1/2" &amp; 2-1/2" widths on 20 yard rolls.<br>(Product Characteristic: Stripes) / (Fabric Content: 65% Polyester 35% Nylon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / C01 Combo 1</title>
+      <s:price currency="USD">19.77</s:price>
+      <s:sku>RE97360WC01-09H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / C02 Combo 2</title>
+      <s:price currency="USD">19.77</s:price>
+      <s:sku>RE97360WC02-09H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / C03 Combo 3</title>
+      <s:price currency="USD">19.77</s:price>
+      <s:sku>RE97360WC03-09H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / C04 Combo 4</title>
+      <s:price currency="USD">19.77</s:price>
+      <s:sku>RE97360WC04-09H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>2 1/2&quot; / 20 Yards/Spool / C01 Combo 1</title>
+      <s:price currency="USD">25.21</s:price>
+      <s:sku>RE97360WC01-40H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>2 1/2&quot; / 20 Yards/Spool / C02 Combo 2</title>
+      <s:price currency="USD">25.21</s:price>
+      <s:sku>RE97360WC02-40H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>2 1/2&quot; / 20 Yards/Spool / C03 Combo 3</title>
+      <s:price currency="USD">25.21</s:price>
+      <s:sku>RE97360WC03-40H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412466709</id>
+      <title>2 1/2&quot; / 20 Yards/Spool / C04 Combo 4</title>
+      <s:price currency="USD">25.21</s:price>
+      <s:sku>RE97360WC04-40H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462503445</id>
+    <published>2020-10-07T12:50:04-04:00</published>
+    <updated>2020-10-07T12:50:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-four-stripe-ribbon"/>
+    <title>JKM Four Stripe Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x032-011-harvest.gif?v=1512857777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four Stripe Ribbon is available in 7/8" and 1 1/2" Widths on a 25 yard spool in assorted colors.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-10</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Fuchsia</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-09</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Gold</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-27</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Hunter Green</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-19</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-02</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-11</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-20</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Moss</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-17</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Peach</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-03</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-05</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-12</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Royal</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-23</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Silver</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-40</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462503445</id>
+      <title>7/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>HA032-16</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462536213</id>
+    <published>2020-10-07T12:50:03-04:00</published>
+    <updated>2020-10-07T12:50:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-vertical-stripes-grosgrain-3-8-width"/>
+    <title>JKM Vertical Stripes Grosgrain - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x420-01-harvest.gif?v=1512857795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vertical Stripes Grosgrain - 3/8" Width on a 25 yard spool is available in assorted colors.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Blue/Moss/Peach/Ivory/Brown</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Brown/Black/Pink/Tan</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-13</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Brown/Pink/White</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Green/Blue/White/Yellow</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Green/Brown/White/Blue/Red/Orange</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-14</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Moss/White/Blue</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Orange/White/Yellow/Moss</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-15</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / Tan/Burgundy/Lime/Brown</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Burgundy/Green/Yellow</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Light Blue/Pink</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-08</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Lime/Blue/Pink</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Lime/Pink</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Lime/Teal</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-04</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Lime/Teal/Pink</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-06</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Pink/Orange</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462536213</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Purple/Pink</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA420-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462634517</id>
+    <published>2020-10-07T12:49:57-04:00</published>
+    <updated>2020-10-07T12:49:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-multi-stripes"/>
+    <title>JKM Sheer Multi Stripes</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x419-01-harvest.gif?v=1512857862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            6.94 - 12.37
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-multi-stripes">(23 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Multi Stripes is available in 5/8" and 1 1/2" Widths on a 25 Yard spool in assorted colors.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Brown/Blue</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Green/Blue/Clear</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-06</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Green/Blue/White/Brown</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Green/Red</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Mint/Yellow</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-04</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Navy/Hot Pink/Blue</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Orange/Black</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-08</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Pink/Hot Pink/Navy/Black</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / Red/Pink/White/Burgundy</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>5/8&quot; / 25 Yards/Spool / White/Green/Blue</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>HA419-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Brown/Blue</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Green/Blue/Clear</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-06</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Green/Blue/White/Brown</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Green/Mint/Hunter Green</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-13</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Green/Red</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mint/Yellow</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-04</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Navy/Hot Pink/Blue</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Orange/Black</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-08</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink/Hot Pink</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink/Hot Pink/Navy/Black</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Purple/Lavender</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red/Pink/White/Burgundy</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462634517</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / White/Green/Blue</title>
+      <s:price currency="USD">12.37</s:price>
+      <s:sku>HA422-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462765589</id>
+    <published>2020-10-07T12:49:56-04:00</published>
+    <updated>2020-10-07T12:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-horizontal-stripes-grosgrain-1-1-2-width"/>
+    <title>JKM Horizontal Stripes Grosgrain - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x421-03-harvest.gif?v=1512857880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            12.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Horizontal Stripes Grosgrain - 1 1/2" Width on 25 yard spools is available in assorted colors.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Black/Pink/White/Gray</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Blue/Green/Brown/Tan/White</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Blue/Yellow/White/Green</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Brown/Blue/Tan</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Green/Purple/White/Pink</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Moss/Tan/Brown</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-08</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink/Green/Purple/White</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink/Purple/Yellow/Blue</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-04</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink/Red/Orange/White</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462765589</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Red/Pink/Orange/Tan</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>HA421-06</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462831125</id>
+    <published>2020-10-07T12:49:54-04:00</published>
+    <updated>2020-10-07T12:49:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-horizontal-stripes-grosgrain-5-8-width"/>
+    <title>JKM Horizontal Stripes Grosgrain - 5/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x401-01-harvest.gif?v=1512857897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Horizontal Stripes Grosgrain - 5/8" Width on a 25 yard spool is available in assorted colors.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Azalea/Pink/Green/White</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-04</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Azalea/Pink/White/Black</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Blue/Green/Lavender/White</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Blue/Green/Orange/Azalea</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Blue/Royal Blue/Red/White</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-07</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Blue/White/Mint</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-13</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Burgundy/Pink/Brown/Azalea</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Mint/Yellow/Orange/White</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-08</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Orange/Mint</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Orange/Mint/Yellow/Azalea</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-10</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Orange/Moss</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Pink/Brown</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Red/Orange/Lavender/White</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-06</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462831125</id>
+      <title>5/8&quot; / 25 Yards/Spool / Red/Yellow/Blue/White</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>HA401-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462896661</id>
+    <published>2020-10-07T12:49:53-04:00</published>
+    <updated>2020-10-07T12:49:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-dashes-on-grosgrain-3-8-width"/>
+    <title>JKM Double Dashes on Grosgrain - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x375-04-harvest.gif?v=1512857917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double Dashes on Grosgrain - 3/8" Width on a 25 yard spool is available in assorted colors.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Black/White Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-39</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Chocolate/Khaki Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-91</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Hot Pink/Lime Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-04</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Hunter Green/Red Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-19</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Khaki/Chocolate Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-81</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue/Pink Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue/White Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-50</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Navy/Red Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink/Light Blue Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink/White Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red/Hunter Green Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Red/White Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-72</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Shocking Pink/Black Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-09</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / Turquoise/Chocolate Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-85</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Black Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462896661</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Red Dash</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA375-62</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462962197</id>
+    <published>2020-10-07T12:49:51-04:00</published>
+    <updated>2020-10-07T12:49:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-single-dashes-on-grosgrain-1-4-width"/>
+    <title>JKM Single Dashes on Grosgrain - 1/4&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x408-02-harvest.gif?v=1512857937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            4.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single Dashes on Grosgrain - 1/4" Width on a 25 yard spool is available in assorted colors.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Aqua/Lime Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-05</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Black/White Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-12</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Chocolate/Pink Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-10</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Hot Pink/Black Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-11</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Hunter Green/Red Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-15</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Light Blue/White Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-14</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Lime/Mauve Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-04</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Moss/Ivory Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-08</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Orange/Black Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-07</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Pink/Chocolate Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-03</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Red/White Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-13</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Royal/Mint Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-09</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Turquoise/Chocolate Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-06</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / White/Black Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-02</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / White/Red Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-01</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462962197</id>
+      <title>1/4&quot; / 25 Yards/Spool / Yellow/Hot Pink Dash</title>
+      <s:price currency="USD">4.01</s:price>
+      <s:sku>HA408-16</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462994965</id>
+    <published>2020-10-07T12:49:49-04:00</published>
+    <updated>2020-10-07T12:49:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-multi-stripes-with-wire-edge"/>
+    <title>JKM Sheer Multi Stripes with Wire Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x612-12-harvest.gif?v=1512857961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            4.23 - 5.97
+            <a href="https://www.jkmribbon.com/products/jkm-sheer-multi-stripes-with-wire-edge">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Multi Stripes with Wire Edge is available in 7/8" and 1 1/2" Widths on a 10 yard spool.<br>(Product Characteristic: Stripes) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Blue/Green/Pink</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Green/Navy</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-19</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Lavender/Light Blue</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Mint/Yellow</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Pink/Lavender</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Purple/Blue</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-26</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Red/Fuchsia</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-12</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Yellow/Orange</title>
+      <s:price currency="USD">5.97</s:price>
+      <s:sku>HA612-33</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Blue/Green/Pink</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-16</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Green/Navy</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-19</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Lavender/Light Blue</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-11</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Mint/Yellow</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-37</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Pink/Lavender</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-05</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Purple/Blue</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-26</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Red/Fuchsia</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-12</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462994965</id>
+      <title>7/8&quot; / 10 Yards/Spool / Yellow/Orange</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>HA613-33</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79304032277</id>
+    <published>2020-10-07T12:40:34-04:00</published>
+    <updated>2020-10-07T12:40:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-grosgrain-stitch"/>
+    <title>JKM Grosgrain Stitch</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x25133-jkm.jpg?v=1513023728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            17.15 - 48.39
+            <a href="https://www.jkmribbon.com/products/jkm-grosgrain-stitch">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grosgrain Stitch is available in 1-1/2" Width on 50 Yards/Spool; 3/8" Width on 50 Yards/Spool; 5/8" Width on 50 Yards/Spool; and, 7/8" Width 50 Yards/Spool.<br>(Product Characteristic: Stripes) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / 058 Orange</title>
+      <s:price currency="USD">48.39</s:price>
+      <s:sku>RE25133-058-09K</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>1 1/2&quot; / 50 Yards/Spool / 589 Olive</title>
+      <s:price currency="USD">48.39</s:price>
+      <s:sku>RE25133-589-09K</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 030 White</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-030-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-031-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 036 White/Red</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-036-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 052 Light Blue</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-052-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 058 Orange</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-058-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-061-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-065-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 077 Aqua</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-077-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 092 Brown</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-092-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>3/8&quot; / 50 Yards/Spool / 204 Lime</title>
+      <s:price currency="USD">17.15</s:price>
+      <s:sku>RE25133-204-15K</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 030 White</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-030-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-031-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 036 White/Red</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-036-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 052 Light Blue</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-052-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 058 Orange</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-058-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-061-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-065-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 077 Aqua</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-077-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 092 Brown</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-092-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>5/8&quot; / 50 Yards/Spool / 204 Lime</title>
+      <s:price currency="USD">23.34</s:price>
+      <s:sku>RE25133-204-03K</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 030 White</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-030-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 031 Black</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-031-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 036 White/Red</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-036-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 043 Moss</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-043-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 052 Light Blue</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-052-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 058 Orange</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-058-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 061 Pink</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-061-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 065 Red</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-065-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 077 Aqua</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-077-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 079 Yellow</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-079-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 092 Brown</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-092-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 204 Lime</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-204-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79304032277</id>
+      <title>7/8&quot; / 50 Yards/Spool / 589 Olive</title>
+      <s:price currency="USD">27.15</s:price>
+      <s:sku>RE25133-589-05K</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88546902037</id>
+    <published>2020-10-07T12:36:28-04:00</published>
+    <updated>2020-10-07T12:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-3-8"/>
+    <title>Morex Grosgrain Stripes Ribbon - 3/8&quot;</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xgrosgrain-stripes-morex-38.jpg?v=1530818881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            6.12 - 21.96
+            <a href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-3-8">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our grosgrain stripes ribbon comes in 13 lovely colors and is available in 3/8", 5/8", 7/8", 1-1/2" &amp; 2-1/4" widths on 20 &amp; 100 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-022</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-024</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 035 Hunter</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-035</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-212</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-605</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-607</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-609</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-610</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-613</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-614</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-620</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 20 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-624</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-022</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-024</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 035 Hunter</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-035</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-212</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-605</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-607</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-609</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-610</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-613</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-614</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-620</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88546902037</id>
+      <title>3/8&quot; / 100 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-100-624</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88547000341</id>
+    <published>2020-10-07T12:36:19-04:00</published>
+    <updated>2020-10-07T12:36:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-5-8"/>
+    <title>Morex Grosgrain Stripes Ribbon - 5/8&quot;</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xgrosgrain-stripes-morex-58.jpg?v=1530818883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.97 - 28.09
+            <a href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-5-8">(26 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our grosgrain stripes ribbon comes in 13 lovely colors and is available in 3/8", 5/8", 7/8", 1-1/2" &amp; 2-1/4" widths on 20 &amp; 100 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-022</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-024</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 035 Hunter</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-035</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-212</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-605</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-607</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-609</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-610</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-613</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-614</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-620</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-624</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 20 Yards/Spool / 708 Geranium</title>
+      <s:price currency="USD">7.97</s:price>
+      <s:sku>MO99503-20-708</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-022</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-024</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 035 Hunter</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-035</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-212</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-605</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-607</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-609</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-610</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-613</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-614</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-620</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-624</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547000341</id>
+      <title>5/8&quot; / 100 Yards/Spool / 708 Geranium</title>
+      <s:price currency="USD">28.09</s:price>
+      <s:sku>MO99503-100-708</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88547098645</id>
+    <published>2020-10-07T12:36:13-04:00</published>
+    <updated>2020-10-07T12:36:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-2-1-4"/>
+    <title>Morex Grosgrain Stripes Ribbon - 2 1/4&quot;</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xgrosgrain-stripes-morex-214.jpg?v=1530818885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            21.95 - 88.08
+            <a href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-2-1-4">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our grosgrain stripes ribbon comes in 13 lovely colors and is available in 3/8", 5/8", 7/8", 1-1/2" &amp; 2-1/4" widths on 20 &amp; 100 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 20 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>MO99540-20-212</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 20 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>MO99540-20-609</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 20 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>MO99540-20-613</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 20 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>MO99540-20-614</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 20 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>MO99540-20-624</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 100 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">88.08</s:price>
+      <s:sku>MO99540-100-212</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 100 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">88.08</s:price>
+      <s:sku>MO99540-100-609</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 100 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">88.08</s:price>
+      <s:sku>MO99540-100-613</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 100 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">88.08</s:price>
+      <s:sku>MO99540-100-614</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547098645</id>
+      <title>2 1/4&quot; / 100 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">88.08</s:price>
+      <s:sku>MO99540-100-624</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88547131413</id>
+    <published>2020-10-07T12:36:11-04:00</published>
+    <updated>2020-10-07T12:36:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-7-8"/>
+    <title>Morex Grosgrain Stripes Ribbon - 7/8&quot;</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xgrosgrain-stripes-morex-78.jpg?v=1530818885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            9.20 - 33.00
+            <a href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-7-8">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our grosgrain stripes ribbon comes in 13 lovely colors and is available in 3/8", 5/8", 7/8", 1-1/2" &amp; 2-1/4" widths on 20 &amp; 100 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-022</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-024</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 035 Hunter</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-035</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-212</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-605</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-607</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-609</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-610</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-613</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-614</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-620</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 20 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-624</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-022</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-024</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 035 Hunter</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-035</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-212</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-605</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-607</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-609</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-610</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-613</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-614</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-620</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547131413</id>
+      <title>7/8&quot; / 100 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-100-624</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88547196949</id>
+    <published>2020-10-07T12:36:09-04:00</published>
+    <updated>2020-10-07T12:36:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-1-1-2"/>
+    <title>Morex Grosgrain Stripes Ribbon - 1 1/2&quot;</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xgrosgrain-stripes-morex-112.jpg?v=1530818886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            13.06 - 53.47
+            <a href="https://www.jkmribbon.com/products/morex-grosgrain-stripes-ribbon-1-1-2">(23 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our grosgrain stripes ribbon comes in 13 lovely colors and is available in 3/8", 5/8", 7/8", 1-1/2" &amp; 2-1/4" widths on 20 &amp; 100 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-022</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-024</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-212</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-605</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-607</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-609</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-610</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-613</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-614</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-620</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>MO99509-20-624</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-022</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-024</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 035 Hunter</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-035</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 212 Baby Blue</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-212</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 605 Yellow</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-605</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 607 Emerald</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-607</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-609</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-610</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-613</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-614</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-620</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88547196949</id>
+      <title>1 1/2&quot; / 100 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">53.47</s:price>
+      <s:sku>MO99509-100-624</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77390938133</id>
+    <published>2017-12-09T15:22:34-05:00</published>
+    <updated>2017-12-09T15:22:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-multi-color-grosgrain-stripes-ribbon"/>
+    <title>Morex Multi-Color Grosgrain Stripes Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xmulti-grosgrain-stripes-morex.jpg?v=1512850959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            6.12 - 33.00
+            <a href="https://www.jkmribbon.com/products/morex-multi-color-grosgrain-stripes-ribbon">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our multi-color grosgrain stripes ribbon comes in 4 lovely designs and is available in 3/8" &amp; 7/8" widths on 20 &amp; 100 yard spools.<br>(Product Characteristic: Stripes) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>3/8&quot; / 20 Yards/Spool / 1117 Sunset</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-1117</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>3/8&quot; / 20 Yards/Spool / 815 Rainbow</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-815</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>3/8&quot; / 20 Yards/Spool / 816 Italian</title>
+      <s:price currency="USD">6.12</s:price>
+      <s:sku>MO99502-20-816</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>3/8&quot; / 100 Yards/Spool / 1117 Sunset</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-00-1117</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>3/8&quot; / 100 Yards/Spool / 815 Rainbow</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-00-815</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>3/8&quot; / 100 Yards/Spool / 816 Italian</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO99502-00-816</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>7/8&quot; / 20 Yards/Spool / 1117 Sunset</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-1117</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>7/8&quot; / 20 Yards/Spool / 414 Candy Stripe</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>MO99505-20-414</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77390938133</id>
+      <title>7/8&quot; / 100 Yards/Spool / 414 Candy Stripe</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>MO99505-00-414</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77386842133</id>
+    <published>2017-12-09T15:17:29-05:00</published>
+    <updated>2017-12-09T15:17:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-reflective-glo-ribbon"/>
+    <title>JKM Reflective Glo Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xreflectiveglo-jkm.jpg?v=1512850661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            11.13 - 61.70
+            <a href="https://www.jkmribbon.com/products/jkm-reflective-glo-ribbon">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our reflective glo ribbon glows in dark environments when light is shined upon it. The backing is laminated with 3M Scotchlite®, which gives this ribbon its luminescent properties. Perfect for dog or cat collars, safety wear for bike riders or runners, and even key chains.<br>(Product Characteristic: Reflective Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 10 Yards/Spool / Black</title>
+      <s:price currency="USD">11.13</s:price>
+      <s:sku>SH744-#30BLK</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 10 Yards/Spool / Grey</title>
+      <s:price currency="USD">11.13</s:price>
+      <s:sku>SH744-#30GREY</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 10 Yards/Spool / Neon Green</title>
+      <s:price currency="USD">11.13</s:price>
+      <s:sku>SH744-#30NGRN</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 10 Yards/Spool / Neon Lime</title>
+      <s:price currency="USD">11.13</s:price>
+      <s:sku>SH744-#30NLIM</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 10 Yards/Spool / Neon Orange</title>
+      <s:price currency="USD">11.13</s:price>
+      <s:sku>SH744-#30NORG</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 10 Yards/Spool / White</title>
+      <s:price currency="USD">11.13</s:price>
+      <s:sku>SH744-#30WHT</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 50 Yards/Spool / Black</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>SH744-#35BLK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 50 Yards/Spool / Grey</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>SH744-#35GREY</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 50 Yards/Spool / Neon Green</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>SH744-#35NGRN</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 50 Yards/Spool / Neon Lime</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>SH744-#35NLIM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 50 Yards/Spool / Neon Orange</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>SH744-#35NORG</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>5/8&quot; / 50 Yards/Spool / White</title>
+      <s:price currency="USD">48.40</s:price>
+      <s:sku>SH744-#35WHT</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 10 Yards/Spool / Black</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>SH744-#50BLK</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 10 Yards/Spool / Grey</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>SH744-#50GREY</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 10 Yards/Spool / Neon Green</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>SH744-#50NGRN</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 10 Yards/Spool / Neon Lime</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>SH744-#50NLIM</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 10 Yards/Spool / Neon Orange</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>SH744-#50NORG</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 10 Yards/Spool / White</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>SH744-#50WHT</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 50 Yards/Spool / Black</title>
+      <s:price currency="USD">61.70</s:price>
+      <s:sku>SH744-#55BLK</s:sku>
+      <s:grams>268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 50 Yards/Spool / Grey</title>
+      <s:price currency="USD">61.70</s:price>
+      <s:sku>SH744-#55GREY</s:sku>
+      <s:grams>268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 50 Yards/Spool / Neon Green</title>
+      <s:price currency="USD">61.70</s:price>
+      <s:sku>SH744-#55NGRN</s:sku>
+      <s:grams>268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 50 Yards/Spool / Neon Lime</title>
+      <s:price currency="USD">61.70</s:price>
+      <s:sku>SH744-#55NLIM</s:sku>
+      <s:grams>268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 50 Yards/Spool / Neon Orange</title>
+      <s:price currency="USD">61.70</s:price>
+      <s:sku>SH744-#55NORG</s:sku>
+      <s:grams>268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77386842133</id>
+      <title>7/8&quot; / 50 Yards/Spool / White</title>
+      <s:price currency="USD">61.70</s:price>
+      <s:sku>SH744-#55WHT</s:sku>
+      <s:grams>268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/76471697429</id>
+    <published>2017-12-08T16:50:19-05:00</published>
+    <updated>2017-12-08T16:50:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-grosgrain-stitch-edge-ribbon-5-8-width"/>
+    <title>Morex Grosgrain Stitch Edge Ribbon - 5/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xgrosgrain-stitch-edge-morex.jpg?v=1512769822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.00 - 29.31
+            <a href="https://www.jkmribbon.com/products/morex-grosgrain-stitch-edge-ribbon-5-8-width">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our grosgrain stitch edge ribbon comes in 4 lovely colors and is available in 5/8" width on 20 &amp; 100 yard spools.<br>(Product Characteristic: Stripes) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Stripe Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/76471697429</id>
+      <title>5/8&quot; / 20 Yards/Spool / 601 White</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>MO450515-20-601</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/76471697429</id>
+      <title>5/8&quot; / 20 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>MO450515-20-613</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/76471697429</id>
+      <title>5/8&quot; / 20 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>MO450515-20-624</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/76471697429</id>
+      <title>5/8&quot; / 100 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">29.31</s:price>
+      <s:sku>MO450515-00-613</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/76471697429</id>
+      <title>5/8&quot; / 100 Yards/Spool / 624 Navy</title>
+      <s:price currency="USD">29.31</s:price>
+      <s:sku>MO450515-00-624</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

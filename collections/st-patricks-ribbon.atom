@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/st-patricks-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:16:06-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1981724754007</id>
+    <published>2020-10-07T12:16:06-04:00</published>
+    <updated>2020-10-07T12:16:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-lucky-shamrock"/>
+    <title>Morex Lucky Shamrock</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xlucky-shamrock-green.jpg?v=1550542174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            13.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lucky Shamrock is a printed grosgrain ribbon. Use this ribbon as a belt to complete that St. Patty's Day outfit. Everyone is Irish on St Patrick's Day! This style is available in printed green in 1 1/2" wide.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>St. Patrick&apos;s Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1981724754007</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 607 Green</title>
+      <s:price currency="USD">13.60</s:price>
+      <s:sku>MO94209-20-607</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1981724819543</id>
+    <published>2020-10-07T12:16:05-04:00</published>
+    <updated>2020-10-07T12:16:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-st-patricks-linen-delight-wire-edge"/>
+    <title>JKM St. Patrick&apos;s Linen Delight Wire Edge</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xst-patricks-linen-delight-green.jpg?v=1550542175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            11.25 - 15.22
+            <a href="https://www.jkmribbon.com/products/jkm-st-patricks-linen-delight-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Irish eyes will smile when they see this glitter accented clover ribbon on your projects. Wire edges for easy ribbon sculpting and bow making. Available in 1-1/2" and 2-1/2" widths.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Linen)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>St. Patrick&apos;s Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1981724819543</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / 044 Green</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>RE92881W044-09H</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1981724819543</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / 044 Green</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>RE92881W044-40H</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/1981724786775</id>
+    <published>2020-10-07T12:16:05-04:00</published>
+    <updated>2020-10-07T12:16:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-irish-clover"/>
+    <title>Morex Irish Clover</title>
+    <s:type>Holiday &amp; Seasonal</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xirish-clover-green.jpg?v=1550542175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Holiday &amp; Seasonal<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Irish Clover is a printed grosgrain. Everyone is Irish on St. Patrick's Day! This ribbon will be sure to get your crafts ready for the holiday. It comes in printed green in 7/8" wide.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>St. Patrick&apos;s Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/1981724786775</id>
+      <title>7/8&quot; / 20 Yards/Spool / 607 Green</title>
+      <s:price currency="USD">8.90</s:price>
+      <s:sku>MO93205-20-607</s:sku>
+      <s:grams>386</s:grams>
+    </s:variant>
+  </entry>
+</feed>

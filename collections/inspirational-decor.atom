@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/inspirational-decor.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T12:58:58-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77307052053</id>
+    <published>2017-12-09T12:58:58-05:00</published>
+    <updated>2017-12-09T12:58:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-madonna-planter"/>
+    <title>JKM Madonna Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16224-napco.jpg?v=1512842341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            21.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Madonna Planter. Dimensions: L:2.5"xW:4.25"xH:12.25"<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Inspirational Décor</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77307052053</id>
+      <title>L:2.5&quot;xW:4.25&quot;xH:12.25&quot; / 2 Pcs/Box / As Shown</title>
+      <s:price currency="USD">21.92</s:price>
+      <s:sku>NA16224</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77305872405</id>
+    <published>2017-12-09T12:57:05-05:00</published>
+    <updated>2017-12-09T12:57:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-angel-rectangle-planter"/>
+    <title>JKM Angel Rectangle Planter</title>
+    <s:type>Home &amp; Garden</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x16679-napco.jpg?v=1512842227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Home &amp; Garden<br>
+        <strong>Price: </strong>
+            36.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angel Rectangle Planter. Dimensions: L:2.75"xW:4.5"xH:3.5"<br>(Product Characteristic: Planter) / (Fabric Content: Ceramic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Inspirational Décor</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77305872405</id>
+      <title>L:2.75&quot;xW:4.5&quot;xH:3.5&quot; / 4 Pcs/Box / As Shown</title>
+      <s:price currency="USD">36.83</s:price>
+      <s:sku>NA16679</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+</feed>

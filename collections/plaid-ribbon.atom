@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/plaid-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:19:40-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77410598933</id>
+    <published>2020-10-07T13:19:40-04:00</published>
+    <updated>2020-10-07T13:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-blackberry-plaid-polyester-tartan-ribbon"/>
+    <title>Morex Blackberry Plaid Polyester Tartan Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xblackberryplaid-morex.jpg?v=1512852789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            15.83 - 77.26
+            <a href="https://www.jkmribbon.com/products/morex-blackberry-plaid-polyester-tartan-ribbon">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our blackberry plaid polyester tartan ribbon comes in 3 lovely designs and is available in 5/8" &amp; 1" widths on 22 &amp; 110 yard spools.<br>(Product Characteristic: Plaid) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>5/8&quot; / 22 Yards/Spool / 001 Natural</title>
+      <s:price currency="USD">15.83</s:price>
+      <s:sku>MO97415-20-001</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>5/8&quot; / 22 Yards/Spool / 002 Pink</title>
+      <s:price currency="USD">15.83</s:price>
+      <s:sku>MO97415-20-002</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>5/8&quot; / 22 Yards/Spool / 003 Blue</title>
+      <s:price currency="USD">15.83</s:price>
+      <s:sku>MO97415-20-003</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>5/8&quot; / 110 Yards/Spool / 001 Natural</title>
+      <s:price currency="USD">61.21</s:price>
+      <s:sku>MO97415-00-001</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>5/8&quot; / 110 Yards/Spool / 002 Pink</title>
+      <s:price currency="USD">61.21</s:price>
+      <s:sku>MO97415-00-002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>5/8&quot; / 110 Yards/Spool / 003 Blue</title>
+      <s:price currency="USD">61.21</s:price>
+      <s:sku>MO97415-00-003</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>1&quot; / 22 Yards/Spool / 001 Natural</title>
+      <s:price currency="USD">17.06</s:price>
+      <s:sku>MO97425-20-001</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>1&quot; / 22 Yards/Spool / 002 Pink</title>
+      <s:price currency="USD">17.06</s:price>
+      <s:sku>MO97425-20-002</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>1&quot; / 22 Yards/Spool / 003 Blue</title>
+      <s:price currency="USD">17.06</s:price>
+      <s:sku>MO97425-20-003</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>1&quot; / 110 Yards/Spool / 001 Natural</title>
+      <s:price currency="USD">77.26</s:price>
+      <s:sku>MO97425-00-001</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>1&quot; / 110 Yards/Spool / 002 Pink</title>
+      <s:price currency="USD">77.26</s:price>
+      <s:sku>MO97425-00-002</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77410598933</id>
+      <title>1&quot; / 110 Yards/Spool / 003 Blue</title>
+      <s:price currency="USD">77.26</s:price>
+      <s:sku>MO97425-00-003</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462437909</id>
+    <published>2020-10-07T12:50:06-04:00</published>
+    <updated>2020-10-07T12:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-plaid-ribbon-1-1-2-width"/>
+    <title>JKM Plaid Ribbon - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x029-061-harvest.gif?v=1512857757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plaid Ribbon - 1 1/2" Width is available on a 10 yard spool in several colors.<br>(Product Characteristic: Plaid) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462437909</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Hunter Green/Navy</title>
+      <s:price currency="USD">7.81</s:price>
+      <s:sku>HA029-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462437909</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Red/Navy/White/Green</title>
+      <s:price currency="USD">7.81</s:price>
+      <s:sku>HA029-01</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462437909</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Royal Blue/Red/Hunter Green</title>
+      <s:price currency="USD">7.81</s:price>
+      <s:sku>HA029-04</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462437909</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / White/Blue/Red/Yellow/Green</title>
+      <s:price currency="USD">7.81</s:price>
+      <s:sku>HA029-06</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77462601749</id>
+    <published>2020-10-07T12:50:00-04:00</published>
+    <updated>2020-10-07T12:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-sheer-plaid-with-wire-edge-1-1-2-width"/>
+    <title>JKM Sheer Plaid with Wire Edge - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x606-05-harvest.gif?v=1512857834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer Plaid with Wire Edge - 1 1/2" Width on a 10 yard spool is available in assorted colors.<br>(Product Characteristic: Plaid) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462601749</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Fuchsia/Green/ Yellow</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA606-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462601749</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Fuchsia/Purple</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA606-26</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462601749</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Green/Yellow</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA606-37</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462601749</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Orange/Yellow</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA606-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77462601749</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Purple/Green</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku>HA606-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77475676181</id>
+    <published>2020-10-07T12:43:13-04:00</published>
+    <updated>2020-10-07T12:43:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-narrow-plaid-5-8-width"/>
+    <title>JKM Narrow Plaid - 5/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x030-01-harvest.gif?v=1512859058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            5.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Narrow Plaid - 5/8" Width on a 15 yard spool is available in several colors.<br>(Product Characteristic: Plaid) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77475676181</id>
+      <title>5/8&quot; / 15 Yards/Spool / Green/Red/Yellow</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA030-01</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77475676181</id>
+      <title>5/8&quot; / 15 Yards/Spool / Hunter Green/Navy</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA030-03</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77475676181</id>
+      <title>5/8&quot; / 15 Yards/Spool / Royal Blue/Red/Green</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA030-04</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77475676181</id>
+      <title>5/8&quot; / 15 Yards/Spool / White/Blue/Red/Yellow/Green</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA030-06</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79268347925</id>
+    <published>2020-10-07T12:42:11-04:00</published>
+    <updated>2020-10-07T12:42:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-edinburgh-plaid-polyester-tartan-ribbon-no-wire-edge"/>
+    <title>Morex Edinburgh Plaid Polyester Tartan Ribbon (No Wire Edge)</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xedinburgh-morex.jpg?v=1513021683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            19.51 - 121.42
+            <a href="https://www.jkmribbon.com/products/morex-edinburgh-plaid-polyester-tartan-ribbon-no-wire-edge">(79 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our edinburgh plaid polyester tartan ribbon with no wire edge comes in 7 lovely designs and is available in 3/8", 5/8", 1", 1-1/2" &amp; 2-3/4" widths on 27 &amp; 110 yard spools.<br>(Product Characteristic: Plaid) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-001</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-002</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-003</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-004</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-005</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-006</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-008</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 27 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">19.51</s:price>
+      <s:sku>MO97510-20-009</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-001</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-002</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-003</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-004</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-005</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-006</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 007 Royal Stewart</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-007</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-008</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>3/8&quot; / 110 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">56.30</s:price>
+      <s:sku>MO97510-00-009</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-001</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-002</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-003</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-004</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-005</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-006</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 007 Royal Stewart</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-007</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-008</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 27 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">20.74</s:price>
+      <s:sku>MO97515-20-009</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-001</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-003</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-004</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-005</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 007 Royal Stewart</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-007</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-008</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>5/8&quot; / 110 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">67.45</s:price>
+      <s:sku>MO97515-00-009</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-001</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-002</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-003</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-004</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-005</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-006</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 007 Royal Stewart</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-007</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-008</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 27 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">24.42</s:price>
+      <s:sku>MO97525-20-009</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-001</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-002</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-003</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-004</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-005</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-006</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 007 Royal Stewart</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-007</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-008</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1&quot; / 110 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">79.72</s:price>
+      <s:sku>MO97525-00-009</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-001</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-002</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-003</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-004</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-005</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-006</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 007 Royal Stewart</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-007</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-008</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 27 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">31.77</s:price>
+      <s:sku>MO97540-20-009</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-001</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-002</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-003</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-004</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-005</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-006</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 007 Royal Stewart</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-007</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-008</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>1 1/2&quot; / 110 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">121.42</s:price>
+      <s:sku>MO97540-00-009</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 001 Dress Stewart</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-001</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 002 Campbell</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-002</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 003 Frazer</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-003</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 004 MacGregor</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-004</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 005 Buchanan</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-005</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 006 Menizes</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-006</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 008 Rose</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-008</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268347925</id>
+      <title>2 3/4&quot; / 27 Yards/Spool / 009 Black Watch</title>
+      <s:price currency="USD">55.19</s:price>
+      <s:sku>MO97570-20-009</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4168811315287</id>
+    <published>2020-10-07T12:16:00-04:00</published>
+    <updated>2020-10-07T12:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-buffalo-flannel-ribbon-wire-edge"/>
+    <title>JKM Buffalo Flannel Ribbon Wire Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbuffalo-flannel-plaid-wired.png?v=1570031871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.15 - 16.88
+            <a href="https://www.jkmribbon.com/products/jkm-buffalo-flannel-ribbon-wire-edge">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get your cozy on with this wire edge, flannel plaid ribbon - great for decorating, gift packaging, floral arrangements and much more. Available in 1-1/2", 2-1/2" or 4" widths on 10 yard spools. <br>(Product Characteristic: Plaid) / (Fabric Content: 100% Acrylic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Ribbon</s:tag>
+    <s:tag>New Ribbon &amp; Trims</s:tag>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811315287</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Red</title>
+      <s:price currency="USD">8.15</s:price>
+      <s:sku>RE98731W065-09F</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811315287</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Red</title>
+      <s:price currency="USD">11.33</s:price>
+      <s:sku>RE98731W065-40F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811315287</id>
+      <title>4&quot; / 10 Yards/Spool / Red</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>RE98731W065-10F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4168811348055</id>
+    <published>2020-10-07T12:15:59-04:00</published>
+    <updated>2020-10-07T12:15:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-dupioni-plaid-buffalo-large-ribbon-wire-edge"/>
+    <title>JKM Dupioni Plaid Buffalo Large Ribbon Wire Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xdupioni-plaid-buffalo-large-wired.png?v=1570031871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            13.42 - 19.15
+            <a href="https://www.jkmribbon.com/products/jkm-dupioni-plaid-buffalo-large-ribbon-wire-edge">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Trendy buffalo plaid ribbon and the wonderful texture of Dupioni is surely a winning combination. This beautiful ribbon is perfect for Christmas projects, home décor, wreaths, gift baskets &amp; more! The wire edge will help you create bows that hold their shape. Available in Red/White or Red/Black in 2-1/2" or 4" widths on 10 yard spools. <br>(Product Characteristic: Plaid) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Ribbon</s:tag>
+    <s:tag>New Ribbon &amp; Trims</s:tag>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811348055</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Red/White</title>
+      <s:price currency="USD">13.42</s:price>
+      <s:sku>RE93152W695-40F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811348055</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Red/Black</title>
+      <s:price currency="USD">13.42</s:price>
+      <s:sku>RE93152W937-40F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811348055</id>
+      <title>4&quot; / 10 Yards/Spool / Red/White</title>
+      <s:price currency="USD">19.15</s:price>
+      <s:sku>RE93152W695-10F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811348055</id>
+      <title>4&quot; / 10 Yards/Spool / Red/Black</title>
+      <s:price currency="USD">19.15</s:price>
+      <s:sku>RE93152W937-10F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4168811380823</id>
+    <published>2020-10-07T12:15:58-04:00</published>
+    <updated>2020-10-07T12:15:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-buffalo-grand-plaid-ribbon-wire-edge"/>
+    <title>JKM Buffalo Grand Plaid Ribbon Wire Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbuffalo-grand-plaid.png?v=1570031869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            14.18 - 28.05
+            <a href="https://www.jkmribbon.com/products/jkm-buffalo-grand-plaid-ribbon-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the Holidays a rustic, country feel with this diagonal buffalo plaid ribbon. This wired ribbon is perfect for gift wrapping, baskets, wreaths, home décor projects &amp; more. A classic embellishment you can keep up all winter long. Available in 2-1/2" width on 10 yard or 20 yard spools. <br>(Product Characteristic: Plaid) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Ribbon</s:tag>
+    <s:tag>New Ribbon &amp; Trims</s:tag>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811380823</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Red/Black</title>
+      <s:price currency="USD">14.18</s:price>
+      <s:sku>RE93337W937-40F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811380823</id>
+      <title>2 1/2&quot; / 20 Yards/Spool / Red/Black</title>
+      <s:price currency="USD">28.05</s:price>
+      <s:sku>RE93337W937-40H</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4168811446359</id>
+    <published>2020-10-07T12:15:56-04:00</published>
+    <updated>2020-10-07T12:15:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-cabin-natural-woolen-buffalo-check-ribbon-wire-edge"/>
+    <title>JKM Cabin Natural Woolen Buffalo Check Ribbon Wire Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xcabin-natural-woolen-buffalo-check-wired-ribbon.png?v=1570031869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            12.27 - 16.50
+            <a href="https://www.jkmribbon.com/products/jkm-cabin-natural-woolen-buffalo-check-ribbon-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give your creations a rustic feel with this red, white and black check, plaid like ribbon. This wired ribbon is perfect for gift wrapping, baskets, wreaths, holiday projects &amp; more. A classic embellishment you can keep up all winter long. Available in 1-1/2" width on 20 yard spools or 2-1/2" width on 10 yard spools. <br>(Product Characteristic: Plaid) / (Fabric Content: 100% Acrylic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Ribbon</s:tag>
+    <s:tag>New Ribbon &amp; Trims</s:tag>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811446359</id>
+      <title>1 1/2&quot; / 20 Yards/Spool / Red/Black</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>RE92989W937-09H</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4168811446359</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / Red/Black</title>
+      <s:price currency="USD">12.27</s:price>
+      <s:sku>RE92989W937-40F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/4375569072215</id>
+    <published>2020-10-07T12:15:51-04:00</published>
+    <updated>2020-10-07T12:15:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-twill-peppermint-plaid-ribbon-wire-edge"/>
+    <title>JKM Twill Peppermint Plaid Ribbon Wire Edge</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xtwill-peppermint-wired-plaid.png?v=1576096435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            13.92 - 20.35
+            <a href="https://www.jkmribbon.com/products/jkm-twill-peppermint-plaid-ribbon-wire-edge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This red plaid ribbon is perfect for seasonal projects. Bring the texture of this classic ribbon to your gift wrapping, wreaths, floral arrangements and more! The wire edge helps your bows keep their shape.  Available in 2-1/2" or 4" widths on 10 yard spools. <br>(Product Characteristic: Plaid) / (Fabric Content: 100% Acrylic)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Ribbon</s:tag>
+    <s:tag>Plaid Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4375569072215</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / White/Red</title>
+      <s:price currency="USD">13.92</s:price>
+      <s:sku>RE93332W036-40F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/4375569072215</id>
+      <title>4&quot; / 10 Yards/Spool / White/Red</title>
+      <s:price currency="USD">20.35</s:price>
+      <s:sku>RE93332W036-10F</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+</feed>

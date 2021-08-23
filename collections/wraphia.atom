@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/wraphia.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:01:15-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454344213</id>
+    <published>2020-10-07T13:01:15-04:00</published>
+    <updated>2020-10-07T13:01:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-matte-wraphia"/>
+    <title>JKM Matte Wraphia</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x571-00-harvest.gif?v=1512857010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Matte Wraphia is available on 100 yard spools in assorted colors.<br>(Product Characteristic: Wraphia) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wraphia</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Antique Gold</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-29</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Apple Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-37</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Black</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-39</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Brown</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-91</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-10</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Copper</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-41</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Coral</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-04</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Gold</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-27</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Hot Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-09</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Hunter Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-19</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-20</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Moss</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-17</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Natural</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-02</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Orange</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-33</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-05</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Purple</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-26</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Red</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-12</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Royal Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-23</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / White</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-01</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Willow</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-18</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454344213</id>
+      <title>As Shown / 100 Yards/Spool / Yellow</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA571-16</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77454409749</id>
+    <published>2020-10-07T13:01:12-04:00</published>
+    <updated>2020-10-07T13:01:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-paper-wraphia"/>
+    <title>JKM Paper Wraphia</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x581-02-harvest.gif?v=1512857029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            4.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Paper Wraphia is available on 100 yard spools in assorted colors.<br>(Product Characteristic: Wraphia) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wraphia</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Blue Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-20</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Gray Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-40</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Green Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-19</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Ivory Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-02</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Lavender Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-11</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Mauve Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-07</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Milk Chocolate Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-41</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Natural Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-29</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Peach Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-03</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Pink Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-05</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Sage Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-18</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77454409749</id>
+      <title>18mm / 100 Yards/Spool / Smoke Blue Ombre</title>
+      <s:price currency="USD">4.34</s:price>
+      <s:sku>HA581-22</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79320743957</id>
+    <published>2020-10-07T12:38:44-04:00</published>
+    <updated>2020-10-07T12:38:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pearlized-wraphia"/>
+    <title>JKM Pearlized Wraphia</title>
+    <s:type>Gift Packaging &amp; Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x564-harvest.gif?v=1513024756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Gift Packaging &amp; Supplies<br>
+        <strong>Price: </strong>
+            2.06 - 6.51
+            <a href="https://www.jkmribbon.com/products/jkm-pearlized-wraphia">(38 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pearlized Wraphia is available on 25 yard cards or 100 yard spools in assorted colors.<br>(Product Characteristic: Wraphia) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wraphia</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Antique Gold</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-29</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Black</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-39</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-10</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Copper</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-41</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Gold</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-27</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-14</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Hot Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-09</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Hunter Green</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-19</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Lavender</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-11</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-20</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Moss</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-17</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Navy</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-22</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Orange</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-33</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-05</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Purple</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-26</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Red</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-12</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Silver</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-40</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / White</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-01</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 100 Yards/Spool / Yellow</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA564-16</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Antique Gold</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-29</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Black</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-39</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Burgundy</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-10</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Copper</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-41</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Gold</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-27</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Green</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-14</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Hot Pink</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-09</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Hunter Green</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-19</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-11</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-20</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Moss</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-17</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Navy</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-22</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Orange</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-33</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-05</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Purple</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-26</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Red</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-12</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Silver</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-40</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / White</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-01</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79320743957</id>
+      <title>As Shown / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">2.06</s:price>
+      <s:sku>HA565-16</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+</feed>

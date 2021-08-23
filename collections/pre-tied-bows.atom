@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/pre-tied-bows.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:51:25-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77455917077</id>
+    <published>2020-10-07T12:51:25-04:00</published>
+    <updated>2020-10-07T12:51:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-raffia"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Raffia</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x241-33-harvest.gif?v=1512857132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            13.02 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-raffia">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Raffia is a 4" Bow available in assorted colors.<br>(Product Characteristic: Wraphia) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-17-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Natural with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW241-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-17-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Natural with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77455917077</id>
+      <title>4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW241-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77456015381</id>
+    <published>2020-10-07T12:51:24-04:00</published>
+    <updated>2020-10-07T12:51:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-bowtie"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Satin Bowtie</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x245-10-harvest.gif?v=1512857141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            16.27 - 65.09
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-bowtie">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Satin Bowtie is a 4 3/4" Bow using 1 1/2" Ribbon available in assorted colors.<br>(Product Characteristic: Satin Ribbon - Soft) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">65.09</s:price>
+      <s:sku>HABOW245-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77456015381</id>
+      <title>4 3/4&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">16.27</s:price>
+      <s:sku>HABOW245-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79321006101</id>
+    <published>2020-10-07T12:38:40-04:00</published>
+    <updated>2020-10-07T12:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-organza-ribbon"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Organza Ribbon</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x243-27-harvest.gif?v=1513024788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            13.02 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-organza-ribbon">(46 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Organza Ribbon is a 4 1/2" Bow using 1 1/2" Ribbon available in assorted colors.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Antique Gold/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-29-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hunter Green with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-19-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lavender with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-11-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Light Blue with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-20-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-17-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Navy with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-22-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Peach with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-03-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Rust with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-45-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Yellow with Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW243-16-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Antique Gold/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-29-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hunter Green with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-19-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lavender with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-11-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Light Blue with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-20-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Moss with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-17-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Navy with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-22-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Peach with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-03-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Rust with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-45-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / White with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321006101</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Yellow with Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW243-16-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79321333781</id>
+    <published>2020-10-07T12:38:37-04:00</published>
+    <updated>2020-10-07T12:38:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-edge-organza"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Satin Edge Organza</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x244-09-harvest.gif?v=1513024826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            13.02 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-edge-organza">(46 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Satin Edge Organza Ribbon is a 4 1/2" Bow using 1 1/2" Ribbon available in assorted colors.<br>(Product Characteristic: Sheer-Solid Color) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Burgundy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-10-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-29-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hunter Green with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-19-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lavender with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-11-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Light Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-20-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lt. Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Moss with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-17-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Navy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-22-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Peach with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-03-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Rust with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-45-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / White with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 12 Pkgs/Box / Yellow with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW244-16-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Burgundy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-10-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-29-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hunter Green with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-19-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lavender with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-11-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Light Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-20-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lt. Gold with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Moss with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-17-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Navy with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-22-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Peach with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-03-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Rust with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-45-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / White with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321333781</id>
+      <title>4 1/2&quot; Bow Tie Width / 12 Pcs/Pkg; 3 Pkgs/Box / Yellow with Satin Edge/Wire Twist</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW244-16-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79321628693</id>
+    <published>2020-10-07T12:38:33-04:00</published>
+    <updated>2020-10-07T12:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-ribbon"/>
+    <title>JKM Pre-Tied Bows with Wire Twist - Satin Ribbon</title>
+    <s:type>Bows</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbow262-09-harvest.gif?v=1513024864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bows<br>
+        <strong>Price: </strong>
+            9.76 - 52.08
+            <a href="https://www.jkmribbon.com/products/jkm-pre-tied-bows-with-wire-twist-satin-ribbon">(56 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pre-Tied Bows with Wire Twist - Satin Ribbon is available in a 3" Bow using 7/8" Ribbon or a 5" Bow using 1 1/2" Ribbon. Both are available in assorted colors.<br>(Product Characteristic: Satin Ribbon - Soft) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pre-Tied Bows</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-85-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / White</title>
+      <s:price currency="USD">39.06</s:price>
+      <s:sku>HABOW261-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-85-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>7/8&quot; w/ 3&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / White</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HABOW261-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Black</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-39-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-91-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Gold</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-27-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-09-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-02-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-34-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Orange</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-33-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Pink</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-05-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Purple</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-26-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Red</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-12-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-23-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Silver</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-40-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-85-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 12 Pkgs/Box / White</title>
+      <s:price currency="USD">52.08</s:price>
+      <s:sku>HABOW262-01-12P</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Black</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-39-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Chocolate</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-91-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Gold</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-27-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Hot Pink</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-09-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Ivory</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-02-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Lime Green</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-34-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Orange</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-33-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Pink</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-05-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Purple</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-26-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Red</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-12-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Royal Blue</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-23-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Silver</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-40-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / Turquoise</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-85-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79321628693</id>
+      <title>1 1/2&quot; w/ 5&quot; Bow Width / 12 Pcs/Pkg; 3 Pkgs/Box / White</title>
+      <s:price currency="USD">13.02</s:price>
+      <s:sku>HABOW262-01-3PC</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

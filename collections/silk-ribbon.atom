@@ -1,0 +1,3431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/silk-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:33:57-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559058965</id>
+    <published>2020-10-07T12:33:57-04:00</published>
+    <updated>2020-10-07T12:33:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-1-8-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 1/8&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-18.jpg?v=1530818833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004001</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004002</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004003</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004004</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004008</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004011</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004014</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004017</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004026</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004027</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004028</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004031</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004033</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004034</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004035</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004038</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004039</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004040</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004041</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004045</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004052</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004055</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004060</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004061</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004069</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004071</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004073</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004075</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004076</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004080</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004081</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004091</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004098</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004100</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004101</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004106</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004108</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004109</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004110</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004115</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004117</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004119</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004121</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004123</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004126</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004128</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004132</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004134</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004136</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559058965</id>
+      <title>1/8&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>RC20004139</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559091733</id>
+    <published>2020-10-07T12:33:52-04:00</published>
+    <updated>2020-10-07T12:33:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-5-8-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 5/8&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-58.jpg?v=1530818841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015001</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015002</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015003</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015004</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015008</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015011</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015014</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015017</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015026</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015027</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015028</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015031</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015033</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015034</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015035</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015038</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015039</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015040</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015041</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015045</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015052</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015055</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015060</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015061</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015069</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015071</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015073</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015075</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015076</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015080</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015081</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015091</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015098</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015100</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015101</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015106</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015108</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015109</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015110</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015115</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015117</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015119</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015121</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015123</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015126</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015128</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015132</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015134</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015136</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559091733</id>
+      <title>5/8&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>RC200015139</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559124501</id>
+    <published>2020-10-07T12:33:48-04:00</published>
+    <updated>2020-10-07T12:33:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-3-4-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 3/4&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-34.jpg?v=1530818840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            99.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018001</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018002</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018003</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018004</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018008</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018011</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018014</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018017</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018026</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018027</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018028</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018031</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018033</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018034</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018035</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018038</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018039</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018040</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018041</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018045</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018052</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018055</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018060</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018061</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018069</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018071</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018073</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018075</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018076</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018080</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018081</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018091</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018098</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018100</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018101</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018106</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018108</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018109</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018110</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018115</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018117</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018119</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018121</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018123</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018126</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018128</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018132</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018134</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018136</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559124501</id>
+      <title>3/4&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">99.17</s:price>
+      <s:sku>RC200018139</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559157269</id>
+    <published>2020-10-07T12:33:44-04:00</published>
+    <updated>2020-10-07T12:33:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-2-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 2&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-2.jpg?v=1530818840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050001</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050002</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050003</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050004</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050008</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050011</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050014</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050017</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050026</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050027</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050028</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050031</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050033</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050034</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050035</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050038</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050039</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050040</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050041</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050045</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050052</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050055</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050060</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050061</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050069</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050071</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050073</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050075</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050076</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050080</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050081</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050091</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050098</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050100</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050101</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050106</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050108</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050109</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050110</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050115</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050117</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050119</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050121</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050123</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050126</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050128</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050132</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050134</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050136</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559157269</id>
+      <title>2&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>RC200050139</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559190037</id>
+    <published>2020-10-07T12:33:40-04:00</published>
+    <updated>2020-10-07T12:33:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-3-8-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 3/8&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-38.jpg?v=1530818834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            56.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009001</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009002</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009003</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009004</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009008</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009011</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009014</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009017</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009026</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009027</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009028</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009031</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009033</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009034</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009035</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009038</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009039</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009040</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009041</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009045</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009052</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009055</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009060</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009061</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009069</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009071</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009073</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009075</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009076</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009080</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009081</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009091</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009098</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009100</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009101</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009106</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009108</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009109</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009110</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009115</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009117</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009119</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009121</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009123</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009126</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009128</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009132</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009134</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009136</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559190037</id>
+      <title>3/8&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">56.67</s:price>
+      <s:sku>RC20009139</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559222805</id>
+    <published>2020-10-07T12:33:37-04:00</published>
+    <updated>2020-10-07T12:33:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-1-4-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 1/4&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-14.jpg?v=1530818835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006001</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006002</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006003</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006004</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006008</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006011</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006014</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006017</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006026</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006027</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006028</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006031</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006033</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006034</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006035</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006038</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006039</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006040</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006041</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006045</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006052</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006055</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006060</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006061</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006069</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006071</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006073</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006075</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006076</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006080</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006081</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006091</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006098</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006100</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006101</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006106</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006108</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006109</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006110</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006115</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006117</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006119</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006121</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006123</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006126</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006128</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006132</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006134</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006136</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559222805</id>
+      <title>1/4&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">42.50</s:price>
+      <s:sku>RC20006139</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559255573</id>
+    <published>2020-10-07T12:33:33-04:00</published>
+    <updated>2020-10-07T12:33:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-1-1-2-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 1 1/2&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-112.jpg?v=1530818841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            196.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036001</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036002</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036003</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036004</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036008</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036011</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036014</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036017</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036026</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036027</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036028</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036031</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036033</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036034</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036035</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036038</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036039</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036040</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036041</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036045</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036052</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036055</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036060</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036061</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036069</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036071</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036073</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036075</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036076</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036080</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036081</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036091</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036098</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036100</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036101</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036106</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036108</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036109</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036110</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036115</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036117</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036119</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036121</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036123</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036126</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036128</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036132</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036134</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036136</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559255573</id>
+      <title>1 1/2&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">196.67</s:price>
+      <s:sku>RC200036139</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559288341</id>
+    <published>2020-10-07T12:33:30-04:00</published>
+    <updated>2020-10-07T12:33:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-1-2-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 1/2&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-12.jpg?v=1530818840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            72.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012001</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012002</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012003</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012004</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012008</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012011</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012014</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012017</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012026</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012027</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012028</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012031</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012033</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012034</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012035</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012038</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012039</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012040</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012041</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012045</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012052</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012055</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012060</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012061</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012069</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012071</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012073</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012075</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012076</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012080</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012081</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012091</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012098</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012100</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012101</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012106</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012108</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012109</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012110</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012115</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012117</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012119</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012121</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012123</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012126</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012128</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012132</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012134</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012136</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559288341</id>
+      <title>1/2&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">72.83</s:price>
+      <s:sku>RC200012139</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/88559321109</id>
+    <published>2020-10-07T12:33:26-04:00</published>
+    <updated>2020-10-07T12:33:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-double-face-silk-satin-ribbon-1-33-yards"/>
+    <title>JKM Double Face Silk Satin Ribbon - 1&quot; ; 33 Yards</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsilkdfs-jkm-1.jpg?v=1530818840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            131.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We offer luxurious double face silk satin ribbon. Common uses include bridal accessories, fine lingerie, luxury garments, jewelry cord, doll making, designer crafts, quilting, scrapbooking, bows, and more. Our double faced silk satin ribbon is of high premium quality and has a beautiful sheen.<br>(Product Characteristic: Silk) / (Fabric Content: 100% Silk)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 001 White</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024001</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 002 Light Pink</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024002</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 003 Baby Pink</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024003</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 004 Colonial Rose</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024004</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 008 Light Yellow</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024008</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 011 Peach</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024011</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 014 Red</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024014</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 017 Sherry</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024017</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 026 Marine Blue</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024026</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 027 Light Navy</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024027</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 028 Navy</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024028</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 031 Sage</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024031</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 033 Emerald</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024033</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 034 Hunter</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024034</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 035 Lilac</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024035</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 038 Purple</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024038</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 039 Antique White</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024039</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 040 Beige</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024040</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 041 Tan</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024041</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 045 Light Brown</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024045</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 052 Grey</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024052</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 055 Black</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024055</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 060 Silver</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024060</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 061 Light Taupe</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024061</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 069 Dark Pink</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024069</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 071 Scarlet</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024071</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 073 Ivory</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024073</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 075 Lemon</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024075</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 076 Yellow</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024076</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 080 French Blue</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024080</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 081 Blue</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024081</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 091 Mint</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024091</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 098 Slate</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024098</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 100 Royal</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024100</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 101 Hot Pink</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024101</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 106 Light Peach</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024106</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 108 Pistachio</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024108</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 109 Moss</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024109</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 110 Dark Gold</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024110</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 115 Orange</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024115</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 117 Taupe</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024117</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 119 Wine</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024119</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 121 Burgundy</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024121</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 123 Dark Navy</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024123</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 126 Dusty Peach</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024126</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 128 Gold</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024128</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 132 Brown</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024132</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 134 Dark Sage</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024134</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 136 Spring Moss</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024136</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/88559321109</id>
+      <title>1&quot; / 33 Yards/Spool / 139 Light Blue</title>
+      <s:price currency="USD">131.67</s:price>
+      <s:sku>RC200024139</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+</feed>

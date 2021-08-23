@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/curling-ribbon.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:42:09-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79268806677</id>
+    <published>2020-10-07T12:42:09-04:00</published>
+    <updated>2020-10-07T12:42:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-curling-ribbon-crimped-3-16-width"/>
+    <title>Morex Curling Ribbon (Crimped) - 3/16&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xcrimp-morex_c46ecb16-1631-4351-aad1-17adbd838a31.jpg?v=1513021720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            2.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our poly outdoor curling ribbon (crimped) comes in 33 lovely colors and is available in 3/16" width on 500 yard spools.<br>(Product Characteristic: Curling Ribbon) / (Fabric Content: 100% Polypropylene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Curling Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 004 Ivory</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-004</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 018 Burgundy</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-018</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 020 Light Pink</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-020</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 021 Rose</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-021</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-022</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-024</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 025 Fuchsia</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-025</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 027 Lime Green</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-027</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 034 Peach</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-034</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 035 Hunter Green</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-035</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 036 Mint Green</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-036</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 600 Snow White</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-600</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 601 White</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-601</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 602 Light Blue</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-602</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 603 Teal</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-603</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 605 Bright Yellow</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-605</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 606 Cerise</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-606</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 607 Green</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-607</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-609</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-610</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 612 Turquoise</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-612</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-613</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-614</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 615 Light Yellow</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-615</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-620</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 622 Chocolate</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-622</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 624 Navy Blue</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-624</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 631 Silver</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-631</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 634 Gold</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-634</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 724 Denim</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-724</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 731 Grey</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-731</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79268806677</id>
+      <title>3/16&quot; / 500 Yards/Spool / 735 Petrol</title>
+      <s:price currency="USD">2.43</s:price>
+      <s:sku>MO253-5-735</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77389004821</id>
+    <published>2017-12-09T15:20:58-05:00</published>
+    <updated>2017-12-09T15:20:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-curling-ribbon-smooth-3-16-width"/>
+    <title>Morex Curling Ribbon (Smooth) - 3/16&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xcrimp-morex.jpg?v=1512850878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            2.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our poly outdoor curling ribbon (smooth) comes in 26 lovely colors and is available in 3/16" width on 500 yard spools.<br>(Product Characteristic: Curling Ribbon) / (Fabric Content: 100% Polypropylene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Curling Ribbon</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 018 Burgundy</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-018</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 019 Strawberry</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-019</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 020 Light Pink</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-020</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 021 Rose</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-021</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 022 Pink</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-022</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 024 Lavender</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-024</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 027 Lime Green</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-027</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 034 Peach</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-034</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 035 Hunter Green</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-035</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 036 Mint Green</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-036</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 601 White</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-601</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 602 Light Blue</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-602</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 603 Teal</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-603</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 605 Bright Yellow</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-605</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 606 Cerise</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-606</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 607 Green</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-607</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 609 Red</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-609</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 610 Purple</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-610</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 612 Turquoise</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-612</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 613 Black</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-613</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 614 Royal Blue</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-614</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 615 Light Yellow</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-615</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 620 Orange</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-620</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 624 Navy Blue</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-624</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 631 Silver</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-631</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77389004821</id>
+      <title>3/16&quot; / 500 Yards/Spool / 634 Gold</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>MO252-5-634</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+</feed>

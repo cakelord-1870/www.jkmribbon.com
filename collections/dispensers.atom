@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/dispensers.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2017-12-09T12:11:39-05:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77263306773</id>
+    <published>2017-12-09T12:11:39-05:00</published>
+    <updated>2017-12-09T12:11:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-the-dot-shot-pro-glue-dot-gun"/>
+    <title>JKM The Dot Shot® Pro Glue Dot Gun</title>
+    <s:type>Floral &amp; Craft Supplies</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xdotshot-jkm.jpg?v=1512839502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Floral &amp; Craft Supplies<br>
+        <strong>Price: </strong>
+            93.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Dot Shot® Pro Glue Dot Gun is an adhesive dot dispenser gun that is designed to apply a single Glue Dot or dozens of them in one easy motion. Use on packaging, material handling, printing, manufacturing, gift baskets, and so much more! Makes any project that requires adhesive dots quick and simple. Features an ergonomic, triggerless design that does not require electricity or batteries. Can easily be reloaded and the scrap liner rewinds inside the dispenser. Use with Glue Dotsmade for Dot Shot® Pro.<br>(Product Characteristic: Sewing or Craft Tools) / (Fabric Content: Not Applicable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispensers</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77263306773</id>
+      <title>As Shown / 1 Dispenser/Box / As Shown</title>
+      <s:price currency="USD">93.30</s:price>
+      <s:sku>WBDSP</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

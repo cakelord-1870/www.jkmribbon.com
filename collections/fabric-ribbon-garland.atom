@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/fabric-ribbon-garland.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T12:42:42-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79264808981</id>
+    <published>2020-10-07T12:42:42-04:00</published>
+    <updated>2020-10-07T12:42:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-poly-flower-garland-trim-1-2-width"/>
+    <title>JKM Poly Flower Garland Trim - 1/2&quot; Width</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x9800-jkm.jpg?v=1513021421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            34.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our poly flower garland trim comes in 52 beautiful colors. Available in 1/2" width. 11 yards per roll.<br>(Product Characteristic: Garland) / (Fabric Content: 70% Polyester 30% Rayon)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Garland</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 501</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800501</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 502</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800502</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 503</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800503</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 504</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800504</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 506</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800506</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 508</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800508</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 509</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800509</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 512</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800512</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 514</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800514</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 515</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800515</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 517</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800517</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 520</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800520</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 522</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800522</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 526</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800526</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 527</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800527</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 530</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800530</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 533</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800533</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 534</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800534</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 536</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800536</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 537</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800537</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 539</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800539</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 541</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800541</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 544</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800544</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 552</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800552</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 554</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800554</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 555</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800555</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 701</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800701</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 702</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800702</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 703</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800703</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 704</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800704</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 706</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800706</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 708</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800708</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 709</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800709</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 712</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800712</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 714</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800714</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 715</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800715</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 717</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800717</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 720</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800720</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 722</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800722</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 726</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800726</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 727</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800727</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 730</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800730</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 733</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800733</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 734</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800734</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 736</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800736</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 737</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800737</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 739</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800739</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 741</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800741</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 744</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800744</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 752</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800752</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 754</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800754</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79264808981</id>
+      <title>1/2&quot; / 11 Yards/Roll / 755</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9800755</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/79265628181</id>
+    <published>2020-10-07T12:42:34-04:00</published>
+    <updated>2020-10-07T12:42:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-organdy-flower-garland-trim-1-2-width"/>
+    <title>JKM Organdy Flower Garland Trim - 1/2&quot; Width</title>
+    <s:type>Bridal Ribbon &amp; Accents</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x9900-jkm.jpg?v=1513021479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Bridal Ribbon &amp; Accents<br>
+        <strong>Price: </strong>
+            34.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our organdy flower garland trim comes in 60 beautiful colors. Available in 1/2" width. 11 yards per roll.<br>(Product Characteristic: Garland) / (Fabric Content: 46% Nylon 42% Rayon 12% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric Ribbon Garland</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 101</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900101</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 102</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900102</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 103</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900103</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 106</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900106</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 108</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900108</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 111</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900111</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 112</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900112</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 114</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900114</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 117</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900117</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 120</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900120</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 121</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900121</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 122</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900122</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 124</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900124</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 127</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900127</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 130</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900130</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 132</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900132</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 135</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900135</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 137</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900137</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 139</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900139</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 144</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900144</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 145</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900145</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 152</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900152</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 153</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900153</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 155</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900155</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 156</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900156</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 158</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900158</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 159</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900159</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 165</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900165</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 166</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900166</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 167</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900167</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 401</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900401</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 402</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900402</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 403</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900403</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 406</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900406</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 408</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900408</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 411</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900411</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 412</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900412</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 414</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900414</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 417</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900417</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 420</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900420</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 421</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900421</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 422</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900422</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 424</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900424</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 427</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900427</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 430</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900430</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 432</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900432</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 435</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900435</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 437</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900437</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 439</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900439</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 444</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900444</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 445</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900445</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 452</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900452</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 453</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900453</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 455</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900455</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 456</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900456</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 458</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900458</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 459</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900459</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 465</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900465</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 466</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900466</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/79265628181</id>
+      <title>1/2&quot; / 11 Yards/Roll / 467</title>
+      <s:price currency="USD">34.67</s:price>
+      <s:sku>RC9900467</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

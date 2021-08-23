@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.jkmribbon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.jkmribbon.com/collections/baby-children.atom"/>
+  <title>JKM Ribbon &amp; Trims</title>
+  <updated>2020-10-07T13:18:43-04:00</updated>
+  <author>
+    <name>JKM Ribbon &amp; Trims</name>
+  </author>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412204565</id>
+    <published>2020-10-07T13:18:43-04:00</published>
+    <updated>2020-10-07T13:18:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-unwired-stuffed-animals-satin-ribbon"/>
+    <title>JKM Unwired Stuffed Animals Satin Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x77233-jkm.jpg?v=1512852995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            14.55 - 27.02
+            <a href="https://www.jkmribbon.com/products/jkm-unwired-stuffed-animals-satin-ribbon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our unwired stuffed animals satin ribbon comes in one lovely design and is available in the following sizes: 1-3/8" &amp; 2-1/2" widths on 20 yard rolls.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412204565</id>
+      <title>1 3/8&quot; / 20 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">14.55</s:price>
+      <s:sku>RE77233-001-09H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412204565</id>
+      <title>2 1/2&quot; / 20 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">27.02</s:price>
+      <s:sku>RE77233-001-40H</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77412237333</id>
+    <published>2020-10-07T13:18:42-04:00</published>
+    <updated>2020-10-07T13:18:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-wire-edge-stuffed-animals-satin-ribbon"/>
+    <title>JKM Wire Edge Stuffed Animals Satin Ribbon</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x77233M-jkm.jpg?v=1512852999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            14.26 - 31.45
+            <a href="https://www.jkmribbon.com/products/jkm-wire-edge-stuffed-animals-satin-ribbon">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our stuffed animals satin ribbon with wire edge comes in one lovely design and is available in the following sizes: 1-1/2", 2-1/2" &amp; 4" widths on 10 yard rolls.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Cotton)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412237333</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">14.26</s:price>
+      <s:sku>RE77233M001-09F</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412237333</id>
+      <title>2 1/2&quot; / 10 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">20.66</s:price>
+      <s:sku>RE77233M001-40F</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77412237333</id>
+      <title>4&quot; / 10 Yards/Spool / 001 Multi</title>
+      <s:price currency="USD">31.45</s:price>
+      <s:sku>RE77233M001-10F</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461291029</id>
+    <published>2020-10-07T12:50:31-04:00</published>
+    <updated>2020-10-07T12:50:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-baby-shower-print-on-satin-3-8-width"/>
+    <title>JKM Baby Shower Print on Satin - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x382-561-harvest.gif?v=1512857557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Shower Print on Satin - 3/8" Width on 50 yard spools is available in several colors.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461291029</id>
+      <title>3/8&quot; / 50 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA382-50</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461291029</id>
+      <title>3/8&quot; / 50 Yards/Spool / Mint</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA382-57</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461291029</id>
+      <title>3/8&quot; / 50 Yards/Spool / Pink</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA382-55</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461291029</id>
+      <title>3/8&quot; / 50 Yards/Spool / Yellow</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA382-56</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461356565</id>
+    <published>2020-10-07T12:50:30-04:00</published>
+    <updated>2020-10-07T12:50:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-its-a-boy-its-a-girl-print-with-bottle-on-sheer-7-8-width"/>
+    <title>JKM It&apos;s a Boy / It&apos;s a Girl Print with bottle on Sheer - 7/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x387-051-harvest.gif?v=1512857566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            9.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's a Boy / It's a Girl Print with bottle on Sheer - 7/8" Width on a 25 yard spool.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461356565</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA387-20</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461356565</id>
+      <title>7/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA387-05</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461323797</id>
+    <published>2020-10-07T12:50:30-04:00</published>
+    <updated>2020-10-07T12:50:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-its-a-girl-it-s-a-boy-print-on-satin-3-8-width"/>
+    <title>JKM It&apos;s a Girl / It’s a Boy Print on Satin - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x382-051-harvest.gif?v=1512857562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            8.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's a Girl / It’s a Boy Print on Satin - 3/8" Width on 50 yard spool.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461323797</id>
+      <title>3/8&quot; / 50 Yards/Spool / Blue</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA382-20</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461323797</id>
+      <title>3/8&quot; / 50 Yards/Spool / Pink</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>HA382-05</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461389333</id>
+    <published>2020-10-07T12:50:29-04:00</published>
+    <updated>2020-10-07T12:50:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-its-a-girl-its-a-boy-print-on-sheer-3-8-width"/>
+    <title>JKM It&apos;s a Girl / It&apos;s a Boy Print on Sheer - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x372-05-harvest.gif?v=1512857571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's a Girl / It's a Boy Print on Sheer - 3/8" Width on a 25 yard spool.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461389333</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA372-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461389333</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA372-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461422101</id>
+    <published>2020-10-07T12:50:28-04:00</published>
+    <updated>2020-10-07T12:50:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-welcome-baby-print-on-satin-1-1-2-width"/>
+    <title>JKM Welcome Baby Print on Satin - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x389-051-harvest.gif?v=1512857576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welcome Baby Print on Satin - 1 1/2" Width on a 10 yard spool.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461422101</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA389-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461422101</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA389-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461454869</id>
+    <published>2020-10-07T12:50:26-04:00</published>
+    <updated>2020-10-07T12:50:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-baby-shower-print-on-sheer-3-8-width"/>
+    <title>JKM Baby Shower Print on Sheer - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x368-201-harvest.gif?v=1512857584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            5.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Shower Print on Sheer - 3/8" Width on a 25 yard spool in several colors.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461454869</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA368-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461454869</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA368-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461454869</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA368-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461454869</id>
+      <title>3/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA368-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461520405</id>
+    <published>2020-10-07T12:50:25-04:00</published>
+    <updated>2020-10-07T12:50:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-welcome-baby-print-on-sheer-1-1-2-width"/>
+    <title>JKM Welcome Baby Print on Sheer - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x379-051-harvest.gif?v=1512857592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welcome Baby Print on Sheer - 1 1/2" Width on a 25 yard spool.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461520405</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA379-50</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461520405</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA379-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461520405</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / White/Lt. Blue</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA379-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461520405</id>
+      <title>1 1/2&quot; / 10 Yards/Spool / White/Pink</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>HA379-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461553173</id>
+    <published>2020-10-07T12:50:23-04:00</published>
+    <updated>2020-10-07T12:50:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-baby-shower-with-shoes-print-on-sheer-7-8-width"/>
+    <title>JKM Baby Shower with Shoes Print on Sheer - 7/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x378-341-harvest.gif?v=1512857599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            9.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Shower with Shoes Print on Sheer - 7/8" Width on a 25 yard spool in several colors.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461553173</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA378-20</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461553173</id>
+      <title>7/8&quot; / 25 Yards/Spool / Lime</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA378-34</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461553173</id>
+      <title>7/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA378-05</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461553173</id>
+      <title>7/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA378-16</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461651477</id>
+    <published>2020-10-07T12:50:21-04:00</published>
+    <updated>2020-10-07T12:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-baby-toys-printed-on-sheer"/>
+    <title>JKM Baby Toys Printed on Sheer</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x367-341-harvest.gif?v=1512857614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            5.42 - 9.76
+            <a href="https://www.jkmribbon.com/products/jkm-baby-toys-printed-on-sheer">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Toys Printed on Sheer is available in 3/8" and 7/8" widths on a 25 yard spool.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>3/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA367-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>3/8&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA367-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA367-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>3/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA367-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue Sheer with Light Blue Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-50</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Light Blue with White Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-20</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Lime with Lime Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-54</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Mint with White Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-34</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Pink with Pink Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-55</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Pink with White Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-05</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Yellow with White Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-16</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461651477</id>
+      <title>7/8&quot; / 25 Yards/Spool / Yellow with Yellow Toy Print</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA377-56</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461684245</id>
+    <published>2020-10-07T12:50:19-04:00</published>
+    <updated>2020-10-07T12:50:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-baby-foot-baby-hand-print-3-8-width"/>
+    <title>JKM Baby Foot / Baby Hand Print - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x386-051-harvest.gif?v=1512857621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            7.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Foot / Baby Hand Print - 3/8" Width on a 25 yard spool.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461684245</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lt. Blue/White Foot</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA386-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461684245</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lt. Blue/White Hand</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA386-50</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461684245</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink/White Foot</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA386-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461684245</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink/White Hand</title>
+      <s:price currency="USD">7.38</s:price>
+      <s:sku>HA386-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461717013</id>
+    <published>2020-10-07T12:50:17-04:00</published>
+    <updated>2020-10-07T12:50:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-baby-foot-and-hand-print-on-sheer-3-8-width"/>
+    <title>JKM Baby Foot and Hand Print on Sheer - 3/8&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x391-20-harvest.gif?v=1512857632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            5.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Foot and Hand Print on Sheer - 3/8" Width on a 25 yard spool is available in several colors.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lime/White</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-74</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lt. Blue/White</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-50</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / Lt. Yellow/White</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-76</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / Pink/White</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-55</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Blue</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Green</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Pink</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461717013</id>
+      <title>3/8&quot; / 25 Yards/Spool / White/Yellow</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA391-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77461913621</id>
+    <published>2020-10-07T12:50:15-04:00</published>
+    <updated>2020-10-07T12:50:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/jkm-baby-shower-fancy-font-print-on-satin"/>
+    <title>JKM Baby Shower Fancy Font Print on Satin</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>JKM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/x299-171-harvest.gif?v=1512857662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JKM<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            5.42 - 9.76
+            <a href="https://www.jkmribbon.com/products/jkm-baby-shower-fancy-font-print-on-satin">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Shower Fancy Font Print on Satin is available in 5/8" and 1 1/2" Widths on a 25 yard spool in assorted colors.<br>(Product Characteristic: Printed Messages) / (Fabric Content: Not Available)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Lt. Yellow</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Moss</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Navy</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Peach</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Royal Blue</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-23</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>1 1/2&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>HA299-46</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Ivory</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-02</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Lavender</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-11</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Light Blue</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-20</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Lt. Yellow</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-16</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Mint</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-34</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Moss</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-17</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Navy</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-22</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Peach</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-03</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Pink</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-05</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Royal Blue</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-23</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77461913621</id>
+      <title>5/8&quot; / 25 Yards/Spool / Yellow</title>
+      <s:price currency="USD">5.42</s:price>
+      <s:sku>HA399-46</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77394051093</id>
+    <published>2017-12-09T15:31:04-05:00</published>
+    <updated>2017-12-09T15:31:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-sweet-baby-unwired-ribbon-1-1-2-width"/>
+    <title>Morex Sweet Baby Unwired Ribbon - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xsweetbaby-morex.jpg?v=1512851468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            15.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our sweet baby unwired ribbon comes in 4 lovely designs and is available in 1-1/2" width on 22 yard spools.<br>(Product Characteristic: Printed Messages) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394051093</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 020 LightPink Its A Girl</title>
+      <s:price currency="USD">15.83</s:price>
+      <s:sku>MO82140-20-020</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394051093</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 036 White/Light Yellow/Mint Green Sweet Baby</title>
+      <s:price currency="USD">15.83</s:price>
+      <s:sku>MO82140-20-036</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394051093</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 602 Light Blue Its A Boy</title>
+      <s:price currency="USD">15.83</s:price>
+      <s:sku>MO82140-20-602</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77394051093</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 605 White/Light Blue/Light Pink Baby Feet</title>
+      <s:price currency="USD">15.83</s:price>
+      <s:sku>MO82140-20-605</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77393821717</id>
+    <published>2017-12-09T15:30:48-05:00</published>
+    <updated>2017-12-09T15:30:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-baby-ribbon-1-1-2-width"/>
+    <title>Morex Baby Ribbon - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbaby-morex.jpg?v=1512851451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            29.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our baby ribbon comes in 2 lovely designs and is available in 1-1/2" width on 22 yard spools.<br>(Product Characteristic: Printed Messages) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393821717</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 020 Baby Pink</title>
+      <s:price currency="USD">29.32</s:price>
+      <s:sku>MO44540-20-020</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393821717</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 602 Baby Blue</title>
+      <s:price currency="USD">29.32</s:price>
+      <s:sku>MO44540-20-602</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77393756181</id>
+    <published>2017-12-09T15:30:44-05:00</published>
+    <updated>2017-12-09T15:30:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-natale-unwired-ribbon-1-width"/>
+    <title>Morex Natale Unwired Ribbon - 1&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xnatale-morex.jpg?v=1512851447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            21.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our natale unwired ribbon comes in 2 lovely designs and is available in 1" width on 22 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393756181</id>
+      <title>1&quot; / 22 Yards/Spool / 020 Baby Pink</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO47925-20-020</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393756181</id>
+      <title>1&quot; / 22 Yards/Spool / 602 Baby Blue</title>
+      <s:price currency="USD">21.96</s:price>
+      <s:sku>MO47925-20-602</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77393657877</id>
+    <published>2017-12-09T15:30:39-05:00</published>
+    <updated>2017-12-09T15:30:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-adebar-ribbon-with-wire-edge-1-1-2-width"/>
+    <title>Morex Adebar Ribbon with Wire Edge - 1 1/2&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xadebar-morex.jpg?v=1512851443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            29.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our adebar ribbon with wire edge comes in 2 lovely designs and is available in 1-1/2" width on 22 yard spools.<br>(Product Characteristic: Printed Pattern Ribbon) / (Fabric Content: 100% Polyester)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393657877</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 602 Baby Blue</title>
+      <s:price currency="USD">29.32</s:price>
+      <s:sku>MO48140-20-602</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77393657877</id>
+      <title>1 1/2&quot; / 22 Yards/Spool / 604 Baby Pink</title>
+      <s:price currency="USD">29.32</s:price>
+      <s:sku>MO48140-20-604</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.jkmribbon.com/products/77392740373</id>
+    <published>2017-12-09T15:27:12-05:00</published>
+    <updated>2017-12-09T15:27:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.jkmribbon.com/products/morex-baby-surprise-poly-satin-ribbon-not-waterproof-2-3-4-width"/>
+    <title>Morex Baby Surprise Poly Satin Ribbon (Not Waterproof) - 2 3/4&quot; Width</title>
+    <s:type>Ribbon</s:type>
+    <s:vendor>Morex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2224/9099/products/xbabysurprise-morex.jpg?v=1512851235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Morex<br>
+        <strong>Type: </strong>Ribbon<br>
+        <strong>Price: </strong>
+            4.30 - 18.28
+            <a href="https://www.jkmribbon.com/products/morex-baby-surprise-poly-satin-ribbon-not-waterproof-2-3-4-width">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our baby surprise poly satin ribbon (not waterproof) comes in 3 lovely designs and is available in 2-3/4" width on 20 &amp; 100 yard spools.<br>(Product Characteristic: Printed Messages) / (Fabric Content: 100% Polypropylene)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Children</s:tag>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392740373</id>
+      <title>2 3/4&quot; / 20 Yards/Spool / 020 Light Pink/Girl</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>MO90170-20-020</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392740373</id>
+      <title>2 3/4&quot; / 20 Yards/Spool / 602 Light Blue/Boy</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>MO90170-20-602</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392740373</id>
+      <title>2 3/4&quot; / 100 Yards/Spool / 020 Light Pink/Girl</title>
+      <s:price currency="USD">18.28</s:price>
+      <s:sku>MO90170-00-020</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.jkmribbon.com/products/77392740373</id>
+      <title>2 3/4&quot; / 100 Yards/Spool / 602 Light Blue/Boy</title>
+      <s:price currency="USD">18.28</s:price>
+      <s:sku>MO90170-00-602</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+</feed>
